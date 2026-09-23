@@ -1,0 +1,30 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+2,manhua.zaimanhua.com,B-reachable,70,fast,200,38,T3,existing,,0,1,mihon,再漫画
+8,comic.bh3.com,B-reachable,170,fast,200,38,T2,to-build,,0,1,mihon,《崩坏3》IP站
+9,mangaapi.manhuaren.com,B-reachable,205,fast,200,38,T3,existing,,0,1,mihon,漫画人
+11,comic.hypergryph.com,B-reachable,237,fast,200,38,T2,to-build,,0,1,mihon,泰拉记事社
+25,mangaball.net,B-reachable,652,mid,200,38,T3,to-build,,0,1,mihon,Manga Ball
+30,lunarx.to,B-reachable,763,mid,200,38,T3,to-build,,0,1,mihon,Lunar Manga
+36,hdoujin.org,B-reachable,856,mid,200,26,T3,to-build,,1,1,mihon,HDoujin
+52,baozimh.org,B-reachable,1116,mid,200,38,T2,existing,,0,1,mihon,GoDa漫画
+56,xgmn8.vip,B-reachable,1140,mid,200,26,T3,to-build,,1,1,mihon,性感美女
+61,comico.jp,B-reachable,1170,mid,200,38,T2,to-build,,0,1,mihon,コミコ
+64,jjmhw2.top,B-reachable,1248,slow,200,26,T3,to-build,,1,1,mihon,Manga Xiao Si
+66,ebook.tongli.com.tw,B-reachable,1300,slow,200,38,T2,to-build,,0,1,mihon,東立
+71,hentairox.com,B-reachable,1467,slow,200,26,T3,to-build,,1,1,mihon,HentaiRox
+73,mangatoon.mobi,B-reachable,1488,slow,200,38,T3,to-build,,0,1,mihon,MangaToon (Limited)
+77,dragonball-multiverse.com,B-reachable,1764,slow,200,38,T2,to-build,,0,1,mihon,Dragon Ball Multiverse|Dragon Ball Multiverse Parody
+86,miaoqumh.org,B-reachable,1874,slow,200,38,T3,to-build,,0,1,mihon,喵趣漫画
+88,92mh.com,B-reachable,1947,slow,200,38,T2,to-build,,0,1,mihon,92漫画
+89,hikarinagi.org,B-reachable,2043,slow,200,38,T2,to-build,,0,1,mihon,Hikarinagi
+93,gaugau.futabanet.jp,B-reachable,2199,slow,200,38,T2,to-build,,0,1,mihon,がうがうモンスター＋
+94,panda.chaika.moe,B-reachable,2228,slow,200,26,T3,to-build,,1,1,mihon,PandaChaika
+95,yanmaga.jp,B-reachable,2258,slow,200,38,T3,to-build,,0,1,mihon,ヤンマガ（グラビア）|ヤンマガ（マンガ）
+98,wn07.cfd,B-reachable,2277,slow,200,26,T3,existing,,1,1,mihon,紳士漫畫
+100,schale.network,B-reachable,2313,slow,200,26,T3,to-build,,1,1,mihon,SchaleNetwork
+101,creative-comic.tw,B-reachable,2501,slow,200,38,T2,existing,,0,1,mihon,CCC追漫台
+105,comicfury.com,B-reachable,2800,slow,200,38,T2,to-build,,0,1,mihon,Comic Fury|Comic Fury (No Text)
+107,saymanhwa.com,B-reachable,3007,slow,200,38,T3,to-build,,0,1,mihon,New Manhwa|SayManhwa
+110,zazhimi.net,B-reachable,3204,slow,200,38,T3,to-build,,0,1,mihon,杂志迷
+113,311s.com,B-reachable,4281,slow,200,38,T2,to-build,,0,1,mihon,漫画社
+115,xkcd.tw,B-reachable,11881,slow,200,38,T3,to-build,,0,1,mihon,xkcd

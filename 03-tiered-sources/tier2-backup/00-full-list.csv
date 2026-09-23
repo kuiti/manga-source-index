@@ -1,0 +1,116 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+1,manhuatai.com,B-reachable,49,fast,200,38,T3,to-build,,0,1,legado,🎨 漫画台🅰 #Haxc|🎨 漫画台🅰 #Haxc1107|🎨漫画台🅰
+2,manhua.zaimanhua.com,B-reachable,70,fast,200,38,T3,existing,,0,1,mihon,再漫画
+3,v4api.zaimanhua.com,B-reachable,80,fast,200,38,T3,existing,,0,1,venera,再漫画
+4,mm.sfacg.com,B-reachable,119,fast,200,38,T3,existing,,0,1,legado,SF漫画💰
+5,iyouman.com,B-reachable,124,fast,200,38,T2,to-build,,0,1,legado,🎨 爱优漫📱|🎨 爱优漫📱 |🎨爱优漫
+6,ziyuanxue.cn,B-reachable,125,fast,200,38,T3,to-build,,0,1,cimoc,KUMANXIONGV2
+7,mybl.xyz,B-reachable,153,fast,200,38,T3,to-build,,0,1,legado,🎟️啵乐漫画
+8,comic.bh3.com,B-reachable,170,fast,200,38,T2,to-build,,0,1,mihon,《崩坏3》IP站
+9,mangaapi.manhuaren.com,B-reachable,205,fast,200,38,T3,existing,,0,1,mihon,漫画人
+10,xapi.xinmanhua.net,B-reachable,209,fast,200,38,T3,to-build,,0,1,legado,✐ 新漫画 #Haxc|✐ 新漫画 #Haxc1107|🎨新漫画
+11,comic.hypergryph.com,B-reachable,237,fast,200,38,T2,to-build,,0,1,mihon,泰拉记事社
+12,feixuemh.com,B-reachable,294,fast,200,38,T2,to-build,,0,1,cimoc,FEIXUEMH
+13,manhua.sfacg.com,B-reachable,303,fast,200,38,T3,existing,,0,1,venera,SF漫画
+14,hmba.vip,B-reachable,304,fast,200,38,T2,to-build,,0,1,legado,🎨 韩漫吧
+15,7stary.com,B-reachable,344,fast,200,38,T2,to-build,,0,1,cimoc,DUMH|DuManHua
+16,yymanhua.com,B-reachable,360,fast,200,38,T3,to-build,,0,1,cimoc,YYMANHUA
+17,taomanhua.com,B-reachable,366,fast,200,38,T3,to-build,,0,1,legado,🎨 神漫画|🎨 神漫画📱 #Haxc
+18,wap.65dm.com,B-reachable,398,fast,200,38,T3,to-build,,0,1,legado,🎨 爱看漫画
+19,gfmh.app,B-reachable,492,mid,200,38,T2,existing,,0,1,venera,古风漫画
+20,manhuaren.com,B-reachable,525,mid,200,38,T3,existing,,0,1,venera,漫画人
+21,90mh.org,B-reachable,530,mid,200,38,T2,to-build,,0,1,cimoc,MANHUA90
+22,4399manhua.com,B-reachable,563,mid,200,38,T2,existing,,0,1,venera,4399漫画网
+23,bwhanman.com,B-reachable,617,mid,200,38,T2,to-build,,0,1,legado,🌵背窝韩漫🌵
+24,pufei.cc,B-reachable,641,mid,200,38,T3,to-build,,0,1,cimoc,PUFEIMH|PuFeiManHua
+25,mangaball.net,B-reachable,652,mid,200,38,T3,to-build,,0,1,mihon,Manga Ball
+26,zz.ilikemanga.com,B-reachable,661,mid,200,38,T3,to-build,,0,1,legado,追追漫画M
+27,gmh1234.wszwhg.net,B-reachable,686,mid,200,38,T2,existing,,0,1,venera,漫画1234
+28,api.ilikemanga.com,B-reachable,693,mid,200,38,T2,to-build,,0,1,legado,🎨追追漫画₁🅰
+29,gmanhua.com,B-reachable,754,mid,200,38,T2,to-build,,0,1,cimoc,SHOUJIMH|ShouJiManHua
+30,lunarx.to,B-reachable,763,mid,200,38,T3,to-build,,0,1,mihon,Lunar Manga
+31,noymanga.com,B-reachable,763,mid,200,38,T3,existing,,0,1,venera,NoyManga
+32,d9zfb53b.lstool.xyz,B-reachable,811,mid,200,38,T2,to-build,,0,1,cimoc,GUOGUOMH
+33,gufengmanhua.com,B-reachable,811,mid,200,38,T2,to-build,,0,1,cimoc,GuFengWang
+34,static-tw.baozimh.com,B-reachable,819,mid,200,38,T3,existing,,0,1,venera,包子漫画
+35,qiman56.com,B-reachable,849,mid,200,38,T3,to-build,,0,1,legado,🎨 奇漫屋
+36,hdoujin.org,B-reachable,856,mid,200,26,T3,to-build,,1,1,mihon,HDoujin
+37,qiximh4.com,B-reachable,868,mid,200,38,T3,to-build,,0,1,cimoc,QIXIMH
+38,hipmh.com,B-reachable,878,mid,200,38,T2,existing,,0,1,venera,嬉皮漫畫
+39,manwang.net,B-reachable,884,mid,200,38,T3,existing,,0,1,venera,漫网
+40,tuho123.com,B-reachable,899,mid,200,38,T3,to-build,,0,1,cimoc,TUHAOMHV2
+41,umh5.com,B-reachable,912,mid,200,38,T3,to-build,,0,1,cimoc,YOUMANHUAWU
+42,godamanga.art,B-reachable,961,mid,200,38,T2,to-build,,0,1,cimoc,GoDaMH
+43,manhuauo.com,B-reachable,975,mid,200,38,T3,existing,,0,1,venera,香蕉漫画
+44,cdn-msp.jmapinodeudzn.net,B-reachable,996,mid,200,38,T2,existing,,0,1,venera,禁漫天堂
+45,haokantxt.com,B-reachable,1005,mid,200,38,T2,existing,,0,1,venera,好看漫画
+46,hao8.net,B-reachable,1039,mid,200,38,T2,to-build,,0,1,legado,🎨 好吧漫画
+47,nnv3api.dmzj1.com,B-reachable,1040,mid,200,38,T3,to-build,,0,1,legado,动漫之家
+48,sumanku.com,B-reachable,1076,mid,200,38,T3,to-build,,0,1,cimoc,SUMANKU
+49,comick.art,B-reachable,1085,mid,200,38,T2,existing,,0,1,venera,comick
+50,zerobywdlss.com,B-reachable,1101,mid,200,38,T3,existing,,0,1,cimoc,ZERO
+51,udm123.com,B-reachable,1111,mid,200,38,T3,to-build,,0,1,cimoc,YOUDM
+52,baozimh.org,B-reachable,1116,mid,200,38,T2,existing,,0,1,mihon,GoDa漫画
+53,yemancomic.com,B-reachable,1124,mid,200,38,T3,existing,,0,1,venera,野蛮漫画
+54,kumwu2.com,B-reachable,1135,mid,200,38,T3,to-build,,0,1,cimoc,KUMANWU
+55,lrr.tvc-16.science,B-reachable,1137,mid,200,38,T3,existing,,0,1,venera,Lanraragi
+56,xgmn8.vip,B-reachable,1140,mid,200,26,T3,to-build,,1,1,mihon,性感美女
+57,baozimh.one,B-reachable,1144,mid,200,38,T2,to-build,,0,1,cimoc,BAOZIV2|HaoManSix
+58,bdido.com,B-reachable,1150,mid,200,38,T2,to-build,,0,1,legado,1359漫画
+59,dashuhuwai.com,B-reachable,1153,mid,200,38,T2,to-build,,0,1,legado,大树漫画
+60,gufengmh9.com,B-reachable,1162,mid,200,38,T2,existing,,0,1,legado,古风漫画
+61,comico.jp,B-reachable,1170,mid,200,38,T2,to-build,,0,1,mihon,コミコ
+62,git.nyne.dev,B-reachable,1203,slow,200,38,T2,existing,,0,1,venera,MangaDex
+63,jjmhw.cc,B-reachable,1218,slow,200,38,T2,to-build,,0,1,legado,久久漫画-ζ
+64,jjmhw2.top,B-reachable,1248,slow,200,26,T3,to-build,,1,1,mihon,Manga Xiao Si
+65,qimiqimi.net,B-reachable,1256,slow,200,38,T3,to-build,,0,1,legado,奇米动漫
+66,ebook.tongli.com.tw,B-reachable,1300,slow,200,38,T2,to-build,,0,1,mihon,東立
+67,g-mh.org,B-reachable,1387,slow,200,38,T2,to-build,,0,1,cimoc,GODAMH
+68,ffppt.com,B-reachable,1392,slow,200,38,T2,existing,,0,1,venera,飞翔漫画
+69,api.creative-comic.tw,B-reachable,1397,slow,200,38,T2,existing,,0,1,venera,CCC追漫台
+70,demo.komga.org,B-reachable,1428,slow,200,38,T2,existing,,0,1,venera,Komga
+71,hentairox.com,B-reachable,1467,slow,200,26,T3,to-build,,1,1,mihon,HentaiRox
+72,komiic.cc,B-reachable,1472,slow,200,38,T3,existing,,0,1,venera,Komiic
+73,mangatoon.mobi,B-reachable,1488,slow,200,38,T3,to-build,,0,1,mihon,MangaToon (Limited)
+74,mhhanman.xyz,B-reachable,1682,slow,200,38,T3,to-build,,0,1,legado,🎨韩漫画🔞
+75,manhuapi.cc,B-reachable,1724,slow,200,38,T3,existing,,0,1,venera,漫画皮
+76,reader.hqread.cc,B-reachable,1755,slow,200,38,T3,existing,,0,1,venera,漫画1234
+77,dragonball-multiverse.com,B-reachable,1764,slow,200,38,T2,to-build,,0,1,mihon,Dragon Ball Multiverse|Dragon Ball Multiverse Parody
+78,manwali.cc,B-reachable,1775,slow,200,38,T3,existing,,0,1,venera,漫蛙吧
+79,tuku.cc,B-reachable,1782,slow,200,38,T3,existing,,0,1,venera,图库漫画
+80,mojoin.com,B-reachable,1786,slow,200,38,T3,existing,,0,1,venera,MOJOIN
+81,ttkmh.com,B-reachable,1817,slow,200,38,T3,to-build,,0,1,cimoc,TTKANMANHUA
+82,bukamh.com,B-reachable,1818,slow,200,38,T2,existing,,0,1,venera,布卡漫画
+83,zerobyw.github.io,B-reachable,1818,slow,200,38,T3,existing,,0,1,venera,zero搬运网
+84,bbboy.cc,B-reachable,1856,slow,200,38,T2,to-build,,0,1,cimoc,BOLEMH
+85,yimmh.com,B-reachable,1867,slow,200,38,T3,to-build,,0,1,cimoc,YIMMH|YiManHua
+86,miaoqumh.org,B-reachable,1874,slow,200,38,T3,to-build,,0,1,mihon,喵趣漫画
+87,webmota.com,B-reachable,1917,slow,200,38,T3,existing,,0,1,legado,包子漫画5
+88,92mh.com,B-reachable,1947,slow,200,38,T2,to-build,,0,1,mihon,92漫画
+89,hikarinagi.org,B-reachable,2043,slow,200,38,T2,to-build,,0,1,mihon,Hikarinagi
+90,2cycomic.com,B-reachable,2135,slow,200,38,T2,existing,,0,1,venera,次元漫画
+91,8jj.com,B-reachable,2163,slow,200,38,T2,to-build,,0,1,legado,✐ 八极漫画 #Haxc|八极漫画
+92,1kkk.com,B-reachable,2173,slow,200,38,T2,existing,,0,1,venera,极速漫画
+93,gaugau.futabanet.jp,B-reachable,2199,slow,200,38,T2,to-build,,0,1,mihon,がうがうモンスター＋
+94,panda.chaika.moe,B-reachable,2228,slow,200,26,T3,to-build,,1,1,mihon,PandaChaika
+95,yanmaga.jp,B-reachable,2258,slow,200,38,T3,to-build,,0,1,mihon,ヤンマガ（グラビア）|ヤンマガ（マンガ）
+96,mhkami.com,B-reachable,2260,slow,200,38,T3,to-build,,0,1,cimoc,YEMANMH
+97,dumanwu.org,B-reachable,2263,slow,200,38,T2,to-build,,0,1,cimoc,DUMANWUORG
+98,wn07.cfd,B-reachable,2277,slow,200,26,T3,existing,,1,1,mihon,紳士漫畫
+99,9comic.cn,B-reachable,2279,slow,200,38,T2,existing,,0,1,legado,好看漫画
+100,schale.network,B-reachable,2313,slow,200,26,T3,to-build,,1,1,mihon,SchaleNetwork
+101,creative-comic.tw,B-reachable,2501,slow,200,38,T2,existing,,0,1,mihon,CCC追漫台
+102,ymgjmh.com,B-reachable,2587,slow,200,38,T3,to-build,,0,1,cimoc,GUILUOLIMANHUA
+103,kukk.net,B-reachable,2673,slow,200,38,T3,to-build,,0,1,legado,酷看漫画
+104,bnman.net,B-reachable,2792,slow,200,38,T2,to-build,,0,1,cimoc,BAINIANMH
+105,comicfury.com,B-reachable,2800,slow,200,38,T2,to-build,,0,1,mihon,Comic Fury|Comic Fury (No Text)
+106,36mh.org,B-reachable,2824,slow,200,38,T2,to-build,,0,1,cimoc,QIMIAO
+107,saymanhwa.com,B-reachable,3007,slow,200,38,T3,to-build,,0,1,mihon,New Manhwa|SayManhwa
+108,klmanga.net,B-reachable,3016,slow,200,38,T3,to-build,,0,1,mangareader,kl
+109,yamibo.com,B-reachable,3112,slow,200,38,T3,existing,,0,1,venera,百合会
+110,zazhimi.net,B-reachable,3204,slow,200,38,T3,to-build,,0,1,mihon,杂志迷
+111,51manga.com,B-reachable,3561,slow,200,38,T2,existing,,0,1,venera,51漫画
+112,haoduoman.com,B-reachable,3954,slow,200,38,T2,to-build,,0,1,cimoc,HAODUOMAN
+113,311s.com,B-reachable,4281,slow,200,38,T2,to-build,,0,1,mihon,漫画社
+114,manhuayu88.com,B-reachable,7302,slow,200,38,T3,to-build,,0,1,cimoc,MANHUAYU
+115,xkcd.tw,B-reachable,11881,slow,200,38,T3,to-build,,0,1,mihon,xkcd

@@ -1,0 +1,23 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+5,ykmh.net,A-bot-blocked (alive),812,mid,403,56,T1,existing,,0,3,cimoc|mihon|venera,YouKuManHua|优酷漫画|优酷漫画 (修复版)
+6,mycomic.com,A-bot-blocked (alive),834,mid,403,62,T1,existing,,0,4,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic
+8,mobileapp.comic-walker.com,A-bot-blocked (alive),979,mid,403,38,T3,existing,,0,1,venera,カドコミ
+20,happymh.com,C-proxy-or-gateway-error (retest),11,fast,502,56,T1,existing,,0,3,aidoku|mangareader|venera,happy|zh.happymh|嗨皮漫画
+24,wmanhua.com,C-proxy-or-gateway-error (retest),22,fast,502,38,T3,existing,,0,1,venera,W漫画
+29,manhuagui.com,C-timeout (retest),0,,0,56,T1,existing,,0,3,mangareader|mihon|venera,mhgm|漫画柜
+30,nhentai.net,C-timeout (retest),0,,0,56,T1,existing,,0,3,aidoku|mangareader|venera,multi.nhentai|nh|nhentai
+31,hitomi.la,C-timeout (retest),0,,0,48,T1,existing,,0,2,aidoku|venera,hitomi.la|multi.hitomi
+37,app-api.pixiv.net,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,Pixiv
+43,demo.kavita.org,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,Kavita
+44,e-hentai.org,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,ehentai
+46,ikmmh.com,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,爱看漫
+48,manga2026.com,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,热辣漫画
+49,mangabz.com,C-timeout (retest),0,,0,38,T3,existing,,0,5,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz
+54,mwuu.cc,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,漫蛙吧
+56,mxshm.top,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,漫小肆
+57,picaapi.picacomic.com,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,Picacg
+64,cosplaytele.com,C-timeout (retest),0,,0,36,T3,existing,,1,2,mihon|venera,CosplayTele
+65,jcomic.net,C-timeout (retest),0,,0,36,T3,existing,,1,2,mihon|venera,JComic|jcomic.net
+88,marketing.aiacgn.com,D-http-error (possibly redesigned),35,fast,404,38,T3,existing,,0,1,venera,拷贝漫画|拷贝漫画(多账号)
+92,dongman.la,D-http-error (possibly redesigned),431,mid,409,38,T2,existing,,0,1,venera,动漫啦
+100,wn01.link,E-other-failure,0,,0,38,T3,existing,,0,1,venera,紳士漫畫

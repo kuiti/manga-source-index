@@ -1,0 +1,103 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+1,77mh.xyz,A-bot-blocked (alive),254,fast,503,38,T2,to-build,,0,1,legado,🎨新新漫画-xyz
+2,globalcomix.com,A-bot-blocked (alive),375,fast,403,38,T2,to-build,,0,1,mihon,GlobalComix
+3,mangadot.net,A-bot-blocked (alive),449,mid,403,48,T1,to-build,,0,2,aidoku|mihon,MangaDot|multi.mangadotnet
+4,kagane.to,A-bot-blocked (alive),582,mid,403,38,T2,to-build,,0,1,mihon,Kagane
+5,ykmh.net,A-bot-blocked (alive),812,mid,403,56,T1,existing,,0,3,cimoc|mihon|venera,YouKuManHua|优酷漫画|优酷漫画 (修复版)
+6,mycomic.com,A-bot-blocked (alive),834,mid,403,62,T1,existing,,0,4,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic
+7,xcomic.me,A-bot-blocked (alive),836,mid,403,48,T2,to-build,,0,2,aidoku|mihon,XCOMIC|multi.xcomic
+8,mobileapp.comic-walker.com,A-bot-blocked (alive),979,mid,403,38,T3,existing,,0,1,venera,カドコミ
+9,mhgui.com,A-bot-blocked (alive),1186,mid,403,38,T3,to-build,,0,1,mangareader,mhg
+10,baozimhcn.com,A-bot-blocked (alive),1325,slow,403,48,T1,to-build,,0,2,cimoc|mangareader,BAOZIMH|BaoziManHua|bzm
+11,8comic.com,A-bot-blocked (alive),1455,slow,403,38,T2,to-build,,0,1,mihon,無限動漫
+12,mh160mh.com,A-bot-blocked (alive),1532,slow,403,38,T3,to-build,,0,1,cimoc,MH160CC
+13,baozimh.com,A-bot-blocked (alive),5791,slow,403,56,T1,existing,,0,3,aidoku|legado|mihon,zh.baozimanhua|包子漫画
+14,api.iqhmh.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T2,to-build,,0,1,legado,✐ 趣话漫画🅰💰 #Haxc|㊣✐ 趣话漫画🅰 #Haxc|🎨 趣话漫画
+15,dashumanhua.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T2,to-build,,0,1,cimoc,DASHUMANHUA
+16,mhkan.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T3,to-build,,0,1,legado,漫画看|🎨 漫画看
+17,qiremanhua.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T3,to-build,,0,1,legado,✐ ㊣奇热漫画📱 #Haxc1107|奇热漫画📱💰
+18,hanmandq.com,C-proxy-or-gateway-error (retest),2,fast,502,38,T2,to-build,,0,1,legado,韩漫大全
+19,yidan9.club,C-proxy-or-gateway-error (retest),2,fast,502,26,T3,to-build,,1,1,mihon,一耽女孩
+20,happymh.com,C-proxy-or-gateway-error (retest),11,fast,502,56,T1,existing,,0,3,aidoku|mangareader|venera,happy|zh.happymh|嗨皮漫画
+21,mhua5.com,C-proxy-or-gateway-error (retest),11,fast,502,48,T1,to-build,,0,2,cimoc|mihon,MANHUAWU|漫画屋
+22,gufengmh.com,C-proxy-or-gateway-error (retest),11,fast,502,38,T2,to-build,,0,1,cimoc,GuFengManHua
+23,qimanwu.org,C-proxy-or-gateway-error (retest),12,fast,502,38,T3,to-build,,0,1,cimoc,QIMANHUA
+24,wmanhua.com,C-proxy-or-gateway-error (retest),22,fast,502,38,T3,existing,,0,1,venera,W漫画
+25,uuhanman.com,C-proxy-or-gateway-error (retest),24,fast,502,38,T3,to-build,,0,1,legado,🎨 UU韩漫
+26,100fanwo.com,C-proxy-or-gateway-error (retest),35,fast,502,38,T2,to-build,,0,1,cimoc,MH360
+27,zhuzhumh.com,C-proxy-or-gateway-error (retest),469,mid,521,38,T3,to-build,,0,1,cimoc,BaiManGu
+28,hentaihand.com,C-proxy-or-gateway-error (retest),10022,slow,502,26,T3,to-build,,1,1,mihon,HentaiHand
+29,manhuagui.com,C-timeout (retest),0,,0,56,T1,existing,,0,3,mangareader|mihon|venera,mhgm|漫画柜
+30,nhentai.net,C-timeout (retest),0,,0,56,T1,existing,,0,3,aidoku|mangareader|venera,multi.nhentai|nh|nhentai
+31,hitomi.la,C-timeout (retest),0,,0,48,T1,existing,,0,2,aidoku|venera,hitomi.la|multi.hitomi
+32,18mh.org,C-timeout (retest),0,,0,38,T2,existing,,0,1,mihon,18漫画
+33,2026copy.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,CopyManHua
+34,amcomic.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,legado,一个漫画
+35,api.acg.gd,C-timeout (retest),0,,0,38,T2,to-build,,0,1,legado,✐ 🔥亲亲漫画 #Haxc|🎨亲亲漫画 #Haxc🔞|🎨亲亲漫画🔞
+36,apifans.dushimh.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,legado,粉丝漫画
+37,app-api.pixiv.net,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,Pixiv
+38,biqu8.xyz,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,BIQUGE
+39,chuixue.net,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,CHUIXUEMH
+40,colamanga.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,CoCoManHua
+41,comic.pixiv.net,C-timeout (retest),0,,0,38,T2,existing,,0,1,mihon,Pixivコミック
+42,copymanga.com,C-timeout (retest),0,,0,38,T2,existing,,0,1,legado,🎨 拷贝漫画➠移动不可用
+43,demo.kavita.org,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,Kavita
+44,e-hentai.org,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,ehentai
+45,hentaiclub.net,C-timeout (retest),0,,0,38,T2,to-build,,0,1,mihon,绅士会所
+46,ikmmh.com,C-timeout (retest),0,,0,38,T2,existing,,0,1,venera,爱看漫
+47,imitui.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,MITUI
+48,manga2026.com,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,热辣漫画
+49,mangabz.com,C-timeout (retest),0,,0,38,T3,existing,,0,5,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz
+50,mangacopy.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,mangareader,copy
+51,mangaz.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,mihon,マンガ図書館Z
+52,manwa.me,C-timeout (retest),0,,0,38,T3,to-build,,0,1,mihon,漫蛙
+53,moxidongman.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,legado,MOXI动漫(8本)™
+54,mwuu.cc,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,漫蛙吧
+55,mxqf.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,cimoc,BOLEFU|BoLeFu
+56,mxshm.top,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,漫小肆
+57,picaapi.picacomic.com,C-timeout (retest),0,,0,38,T3,existing,,0,1,venera,Picacg
+58,picacomic.com,C-timeout (retest),0,,0,38,T3,existing,,0,1,mangareader,pica
+59,pixiv.net,C-timeout (retest),0,,0,38,T3,existing,,0,1,mihon,Pixiv
+60,toptoon.net,C-timeout (retest),0,,0,38,T3,to-build,,0,1,mihon,TOPTOON頂通
+61,wnacg.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,aidoku,zh.wnacg
+62,xmanhua.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,cimoc,XMANHUA
+63,18comic.vip,C-timeout (retest),0,,0,36,T3,existing,,1,2,mangareader|mihon,jmc|禁漫天堂
+64,cosplaytele.com,C-timeout (retest),0,,0,36,T3,existing,,1,2,mihon|venera,CosplayTele
+65,jcomic.net,C-timeout (retest),0,,0,36,T3,existing,,1,2,mihon|venera,JComic|jcomic.net
+66,rouman5.com,C-timeout (retest),0,,0,36,T3,to-build,,1,2,mangareader|mihon,rm5|肉漫屋
+67,akuma.moe,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,Akuma
+68,asmhentai.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,AsmHentai
+69,boylove.cc,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,香香腐宅
+70,cartoon18.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,Cartoon18
+71,en.xchina.co,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,小黄书
+72,es.xchina.co,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,小黄书
+73,global.toomics.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,Toomics (Only free chapters)
+74,hanimeone.me,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,Hanime1.me
+75,hanman18.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,HANMAN18
+76,hentaifox.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,HentaiFox
+77,kr.xchina.co,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,小黄书
+78,luscious.net,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,Luscious
+79,manhuabika.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,哔咔漫画
+80,myreadingmanga.info,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,MyReadingManga
+81,nhentai.com,C-timeout (retest),0,,0,26,T3,existing,,1,1,mihon,nHentai.com (unoriginal)
+82,nhentai.to,C-timeout (retest),0,,0,26,T3,existing,,1,1,mihon,NHentai.to
+83,nhentai.xxx,C-timeout (retest),0,,0,26,T3,existing,,1,1,mihon,NHentai.xxx
+84,pornpics.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,PornPics
+85,simply-hentai.com,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,Simply Hentai
+86,tw.xchina.co,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,小黄书
+87,xchina.co,C-timeout (retest),0,,0,26,T3,to-build,,1,1,mihon,小黄书
+88,marketing.aiacgn.com,D-http-error (possibly redesigned),35,fast,404,38,T3,existing,,0,1,venera,拷贝漫画|拷贝漫画(多账号)
+89,bud.iqiyi.com,D-http-error (possibly redesigned),120,fast,404,38,T2,to-build,,0,1,cimoc,IQIYI
+90,newsmiss.lofter.com,D-http-error (possibly redesigned),244,fast,404,38,T3,to-build,,0,1,legado,🗒 天花板网
+91,uhkvqrxmcapgtpspglrp.moedot.net,D-http-error (possibly redesigned),317,fast,404,38,T3,to-build,,0,1,mihon,花火漫画
+92,dongman.la,D-http-error (possibly redesigned),431,mid,409,38,T2,existing,,0,1,venera,动漫啦
+93,so.77mh.nl,D-http-error (possibly redesigned),456,mid,404,38,T3,to-build,,0,1,cimoc,XINXINMH|XinXinManHua
+94,dmzj.com,D-http-error (possibly redesigned),490,mid,404,63,T1,to-build,DMZJ (Dongman Zhijia),0,1,cimoc,DongManZhiJia
+95,77mh.nl,D-http-error (possibly redesigned),538,mid,404,38,T2,to-build,,0,1,legado,🎨 新新漫画
+96,idmzj.com,D-http-error (possibly redesigned),1003,mid,404,63,T1,to-build,DMZJ (Dongman Zhijia),0,1,mangareader,dmzj
+97,api.noyteam.online,D-http-error (possibly redesigned),1550,slow,404,38,T2,to-build,,0,1,mihon,NoyAcg
+98,sixmh7.com,E-other-failure,0,,0,38,T3,to-build,,0,1,legado,🎨 六漫画
+99,uaa.com,E-other-failure,0,,0,38,T3,to-build,,0,1,legado,🎨UAA漫画
+100,wn01.link,E-other-failure,0,,0,38,T3,existing,,0,1,venera,紳士漫畫
+101,ydan.cc,E-other-failure,0,,0,38,T3,to-build,,0,1,legado,🗂🙈一耽漫画🅰
+102,3hentai.net,E-other-failure,0,,0,26,T3,to-build,,1,1,mihon,3Hentai

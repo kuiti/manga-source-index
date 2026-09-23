@@ -1,0 +1,33 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+1,comic.mkzhan.com,B-reachable,58,fast,200,48,T1,existing,,0,2,cimoc|legado,MKZHAN|漫客栈|🎨 漫客栈|🎨 漫客栈🅰 
+2,mkzhan.com,B-reachable,110,fast,200,48,T2,existing,,0,2,legado|venera,㊣✐ 漫客栈  #一程|漫客栈|🌵漫客栈🌵|🎨 漫客栈 #Haxc
+3,manmanapp.com,B-reachable,140,fast,200,48,T1,to-build,,0,2,cimoc|legado,MANMANMANHUA|㊣✐ 漫漫漫画 #一程1101|🎨 漫漫漫画 |🎨 漫漫漫画 #Haxc
+4,manga.bilibili.com,B-reachable,268,fast,200,63,T1,to-build,Bilibili Comics (official),0,1,legado,哔哩哔哩漫画 #Haxc
+5,manhuadb.com,B-reachable,347,fast,200,48,T1,to-build,,0,2,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全
+6,kanman.com,B-reachable,352,fast,200,56,T1,existing,,0,3,cimoc|legado|venera,ManHuaTai|看漫画|🎨 看漫画M|🎨 看漫画M #Haxc1107
+7,dongmanmanhua.cn,B-reachable,407,mid,200,48,T1,existing,,0,2,mihon|venera,Dongman Manhua|咚漫
+8,vomicmh.com,B-reachable,465,mid,200,48,T2,to-build,,0,2,cimoc|mihon,VOMIC2|vomic
+9,iqiyi.com,B-reachable,492,mid,200,73,T1,to-build,iQiyi Comics (official),0,2,legado|mihon,✐ ㊣爱奇艺漫画 #Haxc1107|爱奇艺叭嗒|🎨 爱奇艺漫画|🎨爱奇艺漫画 
+10,manben.com,B-reachable,509,mid,200,48,T1,existing,,0,2,cimoc|venera,HAOMAN6|漫本
+11,rumanhua2.com,B-reachable,539,mid,200,56,T1,existing,,0,3,cimoc|mihon|venera,RUMANHUA|如漫画
+12,dumanwu1.com,B-reachable,554,mid,200,48,T1,to-build,,0,2,cimoc|mihon,DUMANWU|读漫屋
+13,zaimanhua.com,B-reachable,625,mid,200,48,T2,to-build,,0,2,aidoku|cimoc,HAOMAN8|zh.zaimanhua
+14,dm5.com,B-reachable,850,mid,200,62,T1,existing,,0,4,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋
+15,mangadex.org,B-reachable,880,mid,200,81,T1,existing,MangaDex (open licensed),0,3,aidoku|mihon|venera,MangaDex|multi.mangadex
+16,wmh1234.com,B-reachable,978,mid,200,48,T2,existing,,0,2,mihon|venera,漫画1234|漫画kan
+17,ymcdnyfqdapp.ikmmh.com,B-reachable,1020,mid,200,44,T2,existing,,1,3,cimoc|mihon|venera,BODONGMH|爱看漫
+18,godamh.com,B-reachable,1056,mid,200,48,T1,to-build,,0,2,aidoku|cimoc,HaoManEight|zh.godamanga
+19,ac.qq.com,B-reachable,1120,mid,200,81,T1,existing,Tencent Comics (official),0,3,legado|mihon|venera,㊣✐ 腾讯漫画  #一程|腾讯动漫|腾讯动漫（正版）|腾讯漫画📱
+20,maofly.com,B-reachable,1126,mid,200,48,T1,to-build,,0,2,cimoc|mangareader,MH50|ManHuaCat|mhm
+21,rawkuma.net,B-reachable,1402,slow,200,56,T1,existing,,0,3,aidoku|mihon|venera,Rawkuma|ja.rawkuma
+22,laimanhua88.com,B-reachable,1563,slow,200,48,T1,existing,,0,2,cimoc|venera,LAIMH|来漫画|来漫画（分流）
+23,kuaikanmanhua.com,B-reachable,1598,slow,200,73,T1,to-build,Kuaikan Comics (official),0,2,legado|mihon,快看漫画|快看漫画M|🎨 快看漫画$|🎨快看漫画
+24,webtoons.com,B-reachable,1668,slow,200,73,T1,existing,LINE WEBTOON (official),0,2,mihon|venera,LINE WEBTOON|Webtoons.com
+25,liumanhua.com,B-reachable,1901,slow,200,36,T3,to-build,,1,2,cimoc|mihon,BMG|六漫画
+26,comic-walker.com,B-reachable,1971,slow,200,63,T1,existing,Kadokomi (official),0,1,mihon,カドコミ
+27,namicomi.com,B-reachable,2016,slow,200,63,T1,to-build,NamiComi,0,1,mihon,NamiComi
+28,bilimanga.net,B-reachable,2128,slow,200,87,T1,existing,Bilibili Comics (official),0,4,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫
+29,shonenjumpplus.com,B-reachable,3676,slow,200,81,T1,existing,Shonen Jump+ (official),0,3,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋
+30,guazimanhua.com,B-reachable,3801,slow,200,48,T1,existing,,0,2,mihon|venera,瓜子漫画
+31,zerobyw33.com,B-reachable,4009,slow,200,48,T2,existing,,0,2,mihon|venera,zero搬运网
+32,mangamillion.shueisha.co.jp,B-reachable,9619,slow,200,63,T1,to-build,Manga Million (official),0,1,mihon,Manga Million

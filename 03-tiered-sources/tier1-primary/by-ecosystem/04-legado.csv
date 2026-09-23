@@ -1,0 +1,10 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+1,comic.mkzhan.com,B-reachable,58,fast,200,48,T1,existing,,0,2,cimoc|legado,MKZHAN|漫客栈|🎨 漫客栈|🎨 漫客栈🅰 
+2,mkzhan.com,B-reachable,110,fast,200,48,T2,existing,,0,2,legado|venera,㊣✐ 漫客栈  #一程|漫客栈|🌵漫客栈🌵|🎨 漫客栈 #Haxc
+3,manmanapp.com,B-reachable,140,fast,200,48,T1,to-build,,0,2,cimoc|legado,MANMANMANHUA|㊣✐ 漫漫漫画 #一程1101|🎨 漫漫漫画 |🎨 漫漫漫画 #Haxc
+4,manga.bilibili.com,B-reachable,268,fast,200,63,T1,to-build,Bilibili Comics (official),0,1,legado,哔哩哔哩漫画 #Haxc
+5,manhuadb.com,B-reachable,347,fast,200,48,T1,to-build,,0,2,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全
+6,kanman.com,B-reachable,352,fast,200,56,T1,existing,,0,3,cimoc|legado|venera,ManHuaTai|看漫画|🎨 看漫画M|🎨 看漫画M #Haxc1107
+9,iqiyi.com,B-reachable,492,mid,200,73,T1,to-build,iQiyi Comics (official),0,2,legado|mihon,✐ ㊣爱奇艺漫画 #Haxc1107|爱奇艺叭嗒|🎨 爱奇艺漫画|🎨爱奇艺漫画 
+19,ac.qq.com,B-reachable,1120,mid,200,81,T1,existing,Tencent Comics (official),0,3,legado|mihon|venera,㊣✐ 腾讯漫画  #一程|腾讯动漫|腾讯动漫（正版）|腾讯漫画📱
+23,kuaikanmanhua.com,B-reachable,1598,slow,200,73,T1,to-build,Kuaikan Comics (official),0,2,legado|mihon,快看漫画|快看漫画M|🎨 快看漫画$|🎨快看漫画

@@ -1,0 +1,2 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+108,klmanga.net,B-reachable,3016,slow,200,38,T3,to-build,,0,1,mangareader,kl

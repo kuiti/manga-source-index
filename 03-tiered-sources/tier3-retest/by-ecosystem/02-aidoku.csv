@@ -1,0 +1,10 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+3,mangadot.net,A-bot-blocked (alive),449,mid,403,48,T1,to-build,,0,2,aidoku|mihon,MangaDot|multi.mangadotnet
+6,mycomic.com,A-bot-blocked (alive),834,mid,403,62,T1,existing,,0,4,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic
+7,xcomic.me,A-bot-blocked (alive),836,mid,403,48,T2,to-build,,0,2,aidoku|mihon,XCOMIC|multi.xcomic
+13,baozimh.com,A-bot-blocked (alive),5791,slow,403,56,T1,existing,,0,3,aidoku|legado|mihon,zh.baozimanhua|包子漫画
+20,happymh.com,C-proxy-or-gateway-error (retest),11,fast,502,56,T1,existing,,0,3,aidoku|mangareader|venera,happy|zh.happymh|嗨皮漫画
+30,nhentai.net,C-timeout (retest),0,,0,56,T1,existing,,0,3,aidoku|mangareader|venera,multi.nhentai|nh|nhentai
+31,hitomi.la,C-timeout (retest),0,,0,48,T1,existing,,0,2,aidoku|venera,hitomi.la|multi.hitomi
+49,mangabz.com,C-timeout (retest),0,,0,38,T3,existing,,0,5,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz
+61,wnacg.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,aidoku,zh.wnacg

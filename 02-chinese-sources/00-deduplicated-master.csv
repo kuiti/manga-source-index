@@ -1,0 +1,257 @@
+﻿rank,domain,is_chinese,score,tier,official,nsfw,eco_count,effort,ecosystems,names,langs
+1,bilimanga.net,1,87,T1,Bilibili Comics (official),0,4,existing,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫,zh
+2,ac.qq.com,1,81,T1,Tencent Comics (official),0,3,existing,legado|mihon|venera,㊣✐ 腾讯漫画  #一程|腾讯动漫|腾讯动漫（正版）|腾讯漫画📱,zh|zh-hans
+3,mangadex.org,1,81,T1,MangaDex (open licensed),0,3,existing,aidoku|mihon|venera,MangaDex|multi.mangadex,af|ar|az|be|bg|bn|ca|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fil|fr|ga|he|hi|hr|hu|id|it|ja|jv|ka|kk|ko|la|lt|mn|ms|multi|my|ne|nl|no|pl|pt|pt-br|ro|ru|sk|sq|sr|sv|ta|te|th|tr|uk|ur|uz|vi|zh|zh-hans|zh-hant
+4,shonenjumpplus.com,1,81,T1,Shonen Jump+ (official),0,3,existing,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋,ja|zh
+5,iqiyi.com,1,73,T1,iQiyi Comics (official),0,2,to-build,legado|mihon,✐ ㊣爱奇艺漫画 #Haxc1107|爱奇艺叭嗒|🎨 爱奇艺漫画|🎨爱奇艺漫画 ,zh|zh-hans
+6,kuaikanmanhua.com,1,73,T1,Kuaikan Comics (official),0,2,to-build,legado|mihon,快看漫画|快看漫画M|🎨 快看漫画$|🎨快看漫画,zh|zh-hans
+7,webtoons.com,1,73,T1,LINE WEBTOON (official),0,2,existing,mihon|venera,LINE WEBTOON|Webtoons.com,de|en|es|fr|id|th|zh|zh-hant
+8,comic-walker.com,1,63,T1,Kadokomi (official),0,1,existing,mihon,カドコミ,ja
+9,dmzj.com,1,63,T1,DMZJ (Dongman Zhijia),0,1,to-build,cimoc,DongManZhiJia,zh
+10,idmzj.com,1,63,T1,DMZJ (Dongman Zhijia),0,1,to-build,mangareader,dmzj,zh
+11,manga.bilibili.com,1,63,T1,Bilibili Comics (official),0,1,to-build,legado,哔哩哔哩漫画 #Haxc,zh
+12,mangamillion.shueisha.co.jp,1,63,T1,Manga Million (official),0,1,to-build,mihon,Manga Million,af|am|ar|as|be|bg|bho|bo|ca|ceb|cnr|cs|cy|da|de|doi|dv|ee|el|en|es|es-ar|es-mx|et|eu|fi|fr|ga|gl|gn|gu|haw|he|hi|hmn|hr|hu|hy|id|ig|ilo|is|it|ka|km|kn|ko-kr|kok|la|lb|lg|ln|lo|lt|lus|lv|mai|mg|mi|mk|ml|mn|mni|mr|ms|mt|mww|my|ne|nl|no|nso|ny|or|pa|pl|pt|pt-br|qu|ro|ro-md|ru|rw|sa|sd|si|sk|sl|sm|sn|sr|sv|sw|ta|te|th|tl|tr|ts|uk|vi|xh|yi|yo|zh-cn|zh-hk|zh-tw|zu
+13,namicomi.com,1,63,T1,NamiComi,0,1,to-build,mihon,NamiComi,ar|bg|ca|cs|da|de|el|en|es|es-419|et|fa|fi|fil|fr|ga|he|hi|hr|hu|id|is|it|ja|ko|lt|ms|ne|nl|no|pa|pl|pt|pt-br|ru|sk|sl|sv|th|tr|uk|zh-hans|zh-hant
+14,dm5.com,1,62,T1,,0,4,existing,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋,zh
+15,komiic.com,1,62,T1,,0,4,existing,aidoku|cimoc|mihon|venera,KOMIIC|Komiic|zh.komiic,zh
+16,mycomic.com,1,62,T1,,0,4,existing,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic,zh
+17,baozimh.com,1,56,T1,,0,3,existing,aidoku|legado|mihon,zh.baozimanhua|包子漫画,zh
+18,happymh.com,1,56,T1,,0,3,existing,aidoku|mangareader|venera,happy|zh.happymh|嗨皮漫画,zh
+19,kanman.com,1,56,T1,,0,3,existing,cimoc|legado|venera,ManHuaTai|看漫画|🎨 看漫画M|🎨 看漫画M #Haxc1107,zh
+20,manhuagui.com,1,56,T1,,0,3,existing,mangareader|mihon|venera,mhgm|漫画柜,zh
+21,nhentai.net,1,56,T1,,0,3,existing,aidoku|mangareader|venera,multi.nhentai|nh|nhentai,multi|zh
+22,rawkuma.net,1,56,T1,,0,3,existing,aidoku|mihon|venera,Rawkuma|ja.rawkuma,ja|zh
+23,rumanhua2.com,1,56,T1,,0,3,existing,cimoc|mihon|venera,RUMANHUA|如漫画,zh
+24,ykmh.net,1,56,T1,,0,3,existing,cimoc|mihon|venera,YouKuManHua|优酷漫画|优酷漫画 (修复版),zh
+25,baozimhcn.com,1,48,T1,,0,2,to-build,cimoc|mangareader,BAOZIMH|BaoziManHua|bzm,zh
+26,comic.mkzhan.com,1,48,T1,,0,2,existing,cimoc|legado,MKZHAN|漫客栈|🎨 漫客栈|🎨 漫客栈🅰 ,zh
+27,dongmanmanhua.cn,1,48,T1,,0,2,existing,mihon|venera,Dongman Manhua|咚漫,zh|zh-hans
+28,dumanwu1.com,1,48,T1,,0,2,to-build,cimoc|mihon,DUMANWU|读漫屋,zh
+29,godamh.com,1,48,T1,,0,2,to-build,aidoku|cimoc,HaoManEight|zh.godamanga,zh
+30,guazimanhua.com,1,48,T1,,0,2,existing,mihon|venera,瓜子漫画,zh
+31,hitomi.la,1,48,T1,,0,2,existing,aidoku|venera,hitomi.la|multi.hitomi,multi|zh
+32,laimanhua88.com,1,48,T1,,0,2,existing,cimoc|venera,LAIMH|来漫画|来漫画（分流）,zh
+33,manben.com,1,48,T1,,0,2,existing,cimoc|venera,HAOMAN6|漫本,zh
+34,mangadot.net,1,48,T1,,0,2,to-build,aidoku|mihon,MangaDot|multi.mangadotnet,ab|af|am|ar|az|be|bg|bn|bs|ca|ceb|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fo|fr|ga|gl|gn|gu|ha|he|hi|hr|ht|hu|hy|id|ig|is|it|ja|jv|ka|kk|km|kn|ko|ku|ky|la|lb|lo|lt|lv|mg|mi|mk|ml|mn|mo|mr|ms|mt|multi|my|ne|nl|no|ny|pl|ps|pt|pt-br|rm|ro|ru|sd|sh|si|sk|sl|sm|sn|so|sq|sr|ss|st|sv|sw|ta|te|tg|th|ti|tk|tl|to|tr|uk|ur|uz|vi|yo|zh|zh-hant|zh-tw|zu
+35,manhuadb.com,1,48,T1,,0,2,to-build,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全,zh
+36,manmanapp.com,1,48,T1,,0,2,to-build,cimoc|legado,MANMANMANHUA|㊣✐ 漫漫漫画 #一程1101|🎨 漫漫漫画 |🎨 漫漫漫画 #Haxc,zh
+37,maofly.com,1,48,T1,,0,2,to-build,cimoc|mangareader,MH50|ManHuaCat|mhm,zh
+38,mhua5.com,1,48,T1,,0,2,to-build,cimoc|mihon,MANHUAWU|漫画屋,zh
+39,mkzhan.com,1,48,T2,,0,2,existing,legado|venera,㊣✐ 漫客栈  #一程|漫客栈|🌵漫客栈🌵|🎨 漫客栈 #Haxc,zh
+40,vomicmh.com,1,48,T2,,0,2,to-build,cimoc|mihon,VOMIC2|vomic,zh
+41,wmh1234.com,1,48,T2,,0,2,existing,mihon|venera,漫画1234|漫画kan,zh
+42,xcomic.me,1,48,T2,,0,2,to-build,aidoku|mihon,XCOMIC|multi.xcomic,ab|af|all|am|ar|az|be|bg|bn|bs|ca|ceb|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fil|fo|fr|ga|gl|gn|gu|ha|he|hi|hr|ht|hu|hy|id|ig|is|it|ja|jv|ka|kk|km|kn|ko|ku|ky|la|lb|lo|lt|lv|mg|mi|mk|ml|mn|mo|mr|ms|mt|multi|my|ne|nl|no|ny|other|pl|ps|pt|pt-br|rm|ro|ru|sd|sh|si|sk|sl|sm|sn|so|sq|sr|ss|st|sv|sw|ta|te|tg|th|ti|tk|to|tr|uk|ur|uz|vi|yo|zh|zh-hant|zu
+43,zaimanhua.com,1,48,T2,,0,2,to-build,aidoku|cimoc,HAOMAN8|zh.zaimanhua,zh
+44,zerobyw33.com,1,48,T2,,0,2,existing,mihon|venera,zero搬运网,zh
+45,ymcdnyfqdapp.ikmmh.com,1,44,T2,,1,3,existing,cimoc|mihon|venera,BODONGMH|爱看漫,zh
+46,100fanwo.com,1,38,T2,,0,1,to-build,cimoc,MH360,zh
+47,18mh.org,1,38,T2,,0,1,existing,mihon,18漫画,zh
+48,1kkk.com,1,38,T2,,0,1,existing,venera,极速漫画,zh
+49,2026copy.com,1,38,T2,,0,1,to-build,cimoc,CopyManHua,zh
+50,2cycomic.com,1,38,T2,,0,1,existing,venera,次元漫画,zh
+51,311s.com,1,38,T2,,0,1,to-build,mihon,漫画社,zh
+52,36mh.org,1,38,T2,,0,1,to-build,cimoc,QIMIAO,zh
+53,4399manhua.com,1,38,T2,,0,1,existing,venera,4399漫画网,zh
+54,51manga.com,1,38,T2,,0,1,existing,venera,51漫画,zh
+55,77mh.nl,1,38,T2,,0,1,to-build,legado,🎨 新新漫画,zh
+56,77mh.xyz,1,38,T2,,0,1,to-build,legado,🎨新新漫画-xyz,zh
+57,7stary.com,1,38,T2,,0,1,to-build,cimoc,DUMH|DuManHua,zh
+58,8comic.com,1,38,T2,,0,1,to-build,mihon,無限動漫,zh
+59,8jj.com,1,38,T2,,0,1,to-build,legado,✐ 八极漫画 #Haxc|八极漫画,zh
+60,90mh.org,1,38,T2,,0,1,to-build,cimoc,MANHUA90,zh
+61,92mh.com,1,38,T2,,0,1,to-build,mihon,92漫画,zh
+62,9comic.cn,1,38,T2,,0,1,existing,legado,好看漫画,zh
+63,amcomic.com,1,38,T2,,0,1,to-build,legado,一个漫画,zh
+64,api.acg.gd,1,38,T2,,0,1,to-build,legado,✐ 🔥亲亲漫画 #Haxc|🎨亲亲漫画 #Haxc🔞|🎨亲亲漫画🔞,zh
+65,api.creative-comic.tw,1,38,T2,,0,1,existing,venera,CCC追漫台,zh
+66,api.ilikemanga.com,1,38,T2,,0,1,to-build,legado,🎨追追漫画₁🅰,zh
+67,api.iqhmh.com,1,38,T2,,0,1,to-build,legado,✐ 趣话漫画🅰💰 #Haxc|㊣✐ 趣话漫画🅰 #Haxc|🎨 趣话漫画,zh
+68,api.noyteam.online,1,38,T2,,0,1,to-build,mihon,NoyAcg,zh-hant
+69,apifans.dushimh.com,1,38,T2,,0,1,to-build,legado,粉丝漫画,zh
+70,app-api.pixiv.net,1,38,T2,,0,1,existing,venera,Pixiv,zh
+71,baozimh.one,1,38,T2,,0,1,to-build,cimoc,BAOZIV2|HaoManSix,zh
+72,baozimh.org,1,38,T2,,0,1,existing,mihon,GoDa漫画,zh
+73,bbboy.cc,1,38,T2,,0,1,to-build,cimoc,BOLEMH,zh
+74,bdido.com,1,38,T2,,0,1,to-build,legado,1359漫画,zh
+75,biqu8.xyz,1,38,T2,,0,1,to-build,cimoc,BIQUGE,zh
+76,bnman.net,1,38,T2,,0,1,to-build,cimoc,BAINIANMH,zh
+77,bud.iqiyi.com,1,38,T2,,0,1,to-build,cimoc,IQIYI,zh
+78,bukamh.com,1,38,T2,,0,1,existing,venera,布卡漫画,zh
+79,bwhanman.com,1,38,T2,,0,1,to-build,legado,🌵背窝韩漫🌵,zh
+80,cdn-msp.jmapinodeudzn.net,1,38,T2,,0,1,existing,venera,禁漫天堂,zh
+81,chuixue.net,1,38,T2,,0,1,to-build,cimoc,CHUIXUEMH,zh
+82,colamanga.com,1,38,T2,,0,1,to-build,cimoc,CoCoManHua,zh
+83,comic.bh3.com,1,38,T2,,0,1,to-build,mihon,《崩坏3》IP站,zh
+84,comic.hypergryph.com,1,38,T2,,0,1,to-build,mihon,泰拉记事社,zh
+85,comic.pixiv.net,1,38,T2,,0,1,existing,mihon,Pixivコミック,ja
+86,comicfury.com,1,38,T2,,0,1,to-build,mihon,Comic Fury|Comic Fury (No Text),all|de|en|es|fi|fr|it|ja|other|pl|pt-br|ru|zh
+87,comick.art,1,38,T2,,0,1,existing,venera,comick,zh
+88,comico.jp,1,38,T2,,0,1,to-build,mihon,コミコ,ja
+89,copymanga.com,1,38,T2,,0,1,existing,legado,🎨 拷贝漫画➠移动不可用,zh
+90,creative-comic.tw,1,38,T2,,0,1,existing,mihon,CCC追漫台,zh-hant
+91,d9zfb53b.lstool.xyz,1,38,T2,,0,1,to-build,cimoc,GUOGUOMH,zh
+92,dashuhuwai.com,1,38,T2,,0,1,to-build,legado,大树漫画,zh
+93,dashumanhua.com,1,38,T2,,0,1,to-build,cimoc,DASHUMANHUA,zh
+94,demo.kavita.org,1,38,T2,,0,1,existing,venera,Kavita,zh
+95,demo.komga.org,1,38,T2,,0,1,existing,venera,Komga,zh
+96,dongman.la,1,38,T2,,0,1,existing,venera,动漫啦,zh
+97,dragonball-multiverse.com,1,38,T2,,0,1,to-build,mihon,Dragon Ball Multiverse|Dragon Ball Multiverse Parody,ar|bg|br|ca|co|da|de|el|en|es|es-419|eu|fi|fil|fr|ga|he|hr|hu|it|ja|ko|la|lmo|lt|nl|no|pl|pt|pt-br|ro|ru|sv|tr|vec|zh
+98,dumanwu.org,1,38,T2,,0,1,to-build,cimoc,DUMANWUORG,zh
+99,e-hentai.org,1,38,T2,,0,1,existing,venera,ehentai,zh
+100,ebook.tongli.com.tw,1,38,T2,,0,1,to-build,mihon,東立,zh
+101,favcomic.com,1,38,T2,,0,1,to-build,mihon,喜漫漫画,zh
+102,feixuemh.com,1,38,T2,,0,1,to-build,cimoc,FEIXUEMH,zh
+103,ffppt.com,1,38,T2,,0,1,existing,venera,飞翔漫画,zh
+104,g-mh.org,1,38,T2,,0,1,to-build,cimoc,GODAMH,zh
+105,gaugau.futabanet.jp,1,38,T2,,0,1,to-build,mihon,がうがうモンスター＋,ja
+106,gfmh.app,1,38,T2,,0,1,existing,venera,古风漫画,zh
+107,git.nyne.dev,1,38,T2,,0,1,existing,venera,MangaDex,zh
+108,globalcomix.com,1,38,T2,,0,1,to-build,mihon,GlobalComix,ar|bg|bn|cs|da|de|el|en|es|fa|fi|fil|fr|he|hi|hu|id|it|ja|ko|lv|ms|nl|no|pl|pt|pt-br|ro|ru|sk|sl|sq|sv|ta|th|tr|uk|ur|vi|zh-hans|zh-hant
+109,gmanhua.com,1,38,T2,,0,1,to-build,cimoc,SHOUJIMH|ShouJiManHua,zh
+110,gmh1234.wszwhg.net,1,38,T2,,0,1,existing,venera,漫画1234,zh
+111,godamanga.art,1,38,T2,,0,1,to-build,cimoc,GoDaMH,zh
+112,gufengmanhua.com,1,38,T2,,0,1,to-build,cimoc,GuFengWang,zh
+113,gufengmh.com,1,38,T2,,0,1,to-build,cimoc,GuFengManHua,zh
+114,gufengmh9.com,1,38,T2,,0,1,existing,legado,古风漫画,zh
+115,hanmandq.com,1,38,T2,,0,1,to-build,legado,韩漫大全,zh
+116,hao8.net,1,38,T2,,0,1,to-build,legado,🎨 好吧漫画,zh
+117,haoduoman.com,1,38,T2,,0,1,to-build,cimoc,HAODUOMAN,zh
+118,haokantxt.com,1,38,T2,,0,1,existing,venera,好看漫画,zh
+119,hentaiclub.net,1,38,T2,,0,1,to-build,mihon,绅士会所,zh
+120,hikarinagi.org,1,38,T2,,0,1,to-build,mihon,Hikarinagi,zh
+121,hipmh.com,1,38,T2,,0,1,existing,venera,嬉皮漫畫,zh
+122,hmba.vip,1,38,T2,,0,1,to-build,legado,🎨 韩漫吧,zh
+123,ikanhm.top,1,38,T2,,0,1,to-build,legado,🎨爱看韩漫🔞,zh
+124,ikmmh.com,1,38,T2,,0,1,existing,venera,爱看漫,zh
+125,imitui.com,1,38,T2,,0,1,to-build,cimoc,MITUI,zh
+126,iyouman.com,1,38,T2,,0,1,to-build,legado,🎨 爱优漫📱|🎨 爱优漫📱 |🎨爱优漫,zh
+127,jjmhw.cc,1,38,T2,,0,1,to-build,legado,久久漫画-ζ,zh
+128,kagane.to,1,38,T2,,0,1,to-build,mihon,Kagane,ar|de|en|es|es-419|fr|hi|id|it|ja|ko|pl|pt|pt-br|ru|th|vi|zh
+129,klmanga.net,1,38,T3,,0,1,to-build,mangareader,kl,zh
+130,komiic.cc,1,38,T3,,0,1,existing,venera,Komiic,zh
+131,kukk.net,1,38,T3,,0,1,to-build,legado,酷看漫画,zh
+132,kumwu2.com,1,38,T3,,0,1,to-build,cimoc,KUMANWU,zh
+133,lrr.tvc-16.science,1,38,T3,,0,1,existing,venera,Lanraragi,zh
+134,lunarx.to,1,38,T3,,0,1,to-build,mihon,Lunar Manga,all|ar|bg|bn|da|de|en|es|es-419|fa|fi|fr|he|hi|id|it|ja|ko|ms|nl|no|pl|pt|pt-br|ru|sv|th|tl|tr|ur|vi|zh
+135,manga2026.com,1,38,T3,,0,1,existing,venera,热辣漫画,zh
+136,mangaapi.manhuaren.com,1,38,T3,,0,1,existing,mihon,漫画人,zh
+137,mangaball.net,1,38,T3,,0,1,to-build,mihon,Manga Ball,ar|bg|bn|ca|cs|da|de|el|en|es|fa|fi|fr|he|hi|hu|id|is|it|ja|kn|ko|ml|ms|ne|nl|no|pl|pt-br|ro|ru|sk|sl|sq|sr|sv|ta|th|tr|uk|vi|zh
+138,mangabz.com,1,38,T3,,0,5,existing,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz,zh
+139,mangacopy.com,1,38,T3,,0,1,to-build,mangareader,copy,zh
+140,mangatoon.mobi,1,38,T3,,0,1,to-build,mihon,MangaToon (Limited),en|es|fr|id|ja|pt-br|th|vi|zh
+141,mangaz.com,1,38,T3,,0,1,to-build,mihon,マンガ図書館Z,ja
+142,manhua.sfacg.com,1,38,T3,,0,1,existing,venera,SF漫画,zh
+143,manhua.zaimanhua.com,1,38,T3,,0,1,existing,mihon,再漫画,zh
+144,manhuapi.cc,1,38,T3,,0,1,existing,venera,漫画皮,zh
+145,manhuaren.com,1,38,T3,,0,1,existing,venera,漫画人,zh
+146,manhuatai.com,1,38,T3,,0,1,to-build,legado,🎨 漫画台🅰 #Haxc|🎨 漫画台🅰 #Haxc1107|🎨漫画台🅰,zh
+147,manhuauo.com,1,38,T3,,0,1,existing,venera,香蕉漫画,zh
+148,manhuayu88.com,1,38,T3,,0,1,to-build,cimoc,MANHUAYU,zh
+149,manwa.me,1,38,T3,,0,1,to-build,mihon,漫蛙,zh
+150,manwali.cc,1,38,T3,,0,1,existing,venera,漫蛙吧,zh
+151,manwang.net,1,38,T3,,0,1,existing,venera,漫网,zh
+152,marketing.aiacgn.com,1,38,T3,,0,1,existing,venera,拷贝漫画|拷贝漫画(多账号),zh
+153,mh160mh.com,1,38,T3,,0,1,to-build,cimoc,MH160CC,zh
+154,mhgui.com,1,38,T3,,0,1,to-build,mangareader,mhg,zh
+155,mhhanman.xyz,1,38,T3,,0,1,to-build,legado,🎨韩漫画🔞,zh
+156,mhkami.com,1,38,T3,,0,1,to-build,cimoc,YEMANMH,zh
+157,mhkan.com,1,38,T3,,0,1,to-build,legado,漫画看|🎨 漫画看,zh
+158,miaoqumh.org,1,38,T3,,0,1,to-build,mihon,喵趣漫画,zh
+159,mm.sfacg.com,1,38,T3,,0,1,existing,legado,SF漫画💰,zh
+160,mobileapp.comic-walker.com,1,38,T3,,0,1,existing,venera,カドコミ,zh
+161,mojoin.com,1,38,T3,,0,1,existing,venera,MOJOIN,zh
+162,moxidongman.com,1,38,T3,,0,1,to-build,legado,MOXI动漫(8本)™,zh
+163,mwuu.cc,1,38,T3,,0,1,existing,venera,漫蛙吧,zh
+164,mxqf.com,1,38,T3,,0,1,to-build,cimoc,BOLEFU|BoLeFu,zh
+165,mxshm.top,1,38,T3,,0,1,existing,venera,漫小肆,zh
+166,mybl.xyz,1,38,T3,,0,1,to-build,legado,🎟️啵乐漫画,zh
+167,newsmiss.lofter.com,1,38,T3,,0,1,to-build,legado,🗒 天花板网,zh
+168,nnv3api.dmzj1.com,1,38,T3,,0,1,to-build,legado,动漫之家,zh
+169,noymanga.com,1,38,T3,,0,1,existing,venera,NoyManga,zh
+170,picaapi.picacomic.com,1,38,T3,,0,1,existing,venera,Picacg,zh
+171,picacomic.com,1,38,T3,,0,1,existing,mangareader,pica,zh
+172,pixiv.net,1,38,T3,,0,1,existing,mihon,Pixiv,en|ja|ko|zh|zh-tw
+173,pufei.cc,1,38,T3,,0,1,to-build,cimoc,PUFEIMH|PuFeiManHua,zh
+174,qiman56.com,1,38,T3,,0,1,to-build,legado,🎨 奇漫屋,zh
+175,qimanwu.org,1,38,T3,,0,1,to-build,cimoc,QIMANHUA,zh
+176,qimiqimi.net,1,38,T3,,0,1,to-build,legado,奇米动漫,zh
+177,qiremanhua.com,1,38,T3,,0,1,to-build,legado,✐ ㊣奇热漫画📱 #Haxc1107|奇热漫画📱💰,zh
+178,qiximh4.com,1,38,T3,,0,1,to-build,cimoc,QIXIMH,zh
+179,reader.hqread.cc,1,38,T3,,0,1,existing,venera,漫画1234,zh
+180,saymanhwa.com,1,38,T3,,0,1,to-build,mihon,New Manhwa|SayManhwa,ar|de|en|es|fil|fr|id|ja|pt|th|vi|zh-hans|zh-hant
+181,se8.us,1,38,T3,,0,1,to-build,aidoku,zh.se8,zh
+182,sixmh7.com,1,38,T3,,0,1,to-build,legado,🎨 六漫画,zh
+183,so.77mh.nl,1,38,T3,,0,1,to-build,cimoc,XINXINMH|XinXinManHua,zh
+184,static-tw.baozimh.com,1,38,T3,,0,1,existing,venera,包子漫画,zh
+185,sumanku.com,1,38,T3,,0,1,to-build,cimoc,SUMANKU,zh
+186,taomanhua.com,1,38,T3,,0,1,to-build,legado,🎨 神漫画|🎨 神漫画📱 #Haxc,zh
+187,toptoon.net,1,38,T3,,0,1,to-build,mihon,TOPTOON頂通,zh
+188,ttkmh.com,1,38,T3,,0,1,to-build,cimoc,TTKANMANHUA,zh
+189,tuho123.com,1,38,T3,,0,1,to-build,cimoc,TUHAOMHV2,zh
+190,tuku.cc,1,38,T3,,0,1,existing,venera,图库漫画,zh
+191,uaa.com,1,38,T3,,0,1,to-build,legado,🎨UAA漫画,zh
+192,udm123.com,1,38,T3,,0,1,to-build,cimoc,YOUDM,zh
+193,uhkvqrxmcapgtpspglrp.moedot.net,1,38,T3,,0,1,to-build,mihon,花火漫画,zh
+194,umh5.com,1,38,T3,,0,1,to-build,cimoc,YOUMANHUAWU,zh
+195,uuhanman.com,1,38,T3,,0,1,to-build,legado,🎨 UU韩漫,zh
+196,v4api.zaimanhua.com,1,38,T3,,0,1,existing,venera,再漫画,zh
+197,wap.65dm.com,1,38,T3,,0,1,to-build,legado,🎨 爱看漫画,zh
+198,webmota.com,1,38,T3,,0,1,existing,legado,包子漫画5,zh
+199,wmanhua.com,1,38,T3,,0,1,existing,venera,W漫画,zh
+200,wn01.link,1,38,T3,,0,1,existing,venera,紳士漫畫,zh
+201,wnacg.com,1,38,T3,,0,1,to-build,aidoku,zh.wnacg,zh
+202,xapi.xinmanhua.net,1,38,T3,,0,1,to-build,legado,✐ 新漫画 #Haxc|✐ 新漫画 #Haxc1107|🎨新漫画,zh
+203,xkcd.tw,1,38,T3,,0,1,to-build,mihon,xkcd,zh
+204,xmanhua.com,1,38,T3,,0,1,to-build,cimoc,XMANHUA,zh
+205,yamibo.com,1,38,T3,,0,1,existing,venera,百合会,zh
+206,yanmaga.jp,1,38,T3,,0,1,to-build,mihon,ヤンマガ（グラビア）|ヤンマガ（マンガ）,ja
+207,ydan.cc,1,38,T3,,0,1,to-build,legado,🗂🙈一耽漫画🅰,zh
+208,yemancomic.com,1,38,T3,,0,1,existing,venera,野蛮漫画,zh
+209,yimmh.com,1,38,T3,,0,1,to-build,cimoc,YIMMH|YiManHua,zh
+210,ymgjmh.com,1,38,T3,,0,1,to-build,cimoc,GUILUOLIMANHUA,zh
+211,yymanhua.com,1,38,T3,,0,1,to-build,cimoc,YYMANHUA,zh
+212,zazhimi.net,1,38,T3,,0,1,to-build,mihon,杂志迷,zh
+213,zerobyw.github.io,1,38,T3,,0,1,existing,venera,zero搬运网,zh
+214,zerobywdlss.com,1,38,T3,,0,1,existing,cimoc,ZERO,zh
+215,zhuzhumh.com,1,38,T3,,0,1,to-build,cimoc,BaiManGu,zh
+216,ziyuanxue.cn,1,38,T3,,0,1,to-build,cimoc,KUMANXIONGV2,zh
+217,zz.ilikemanga.com,1,38,T3,,0,1,to-build,legado,追追漫画M,zh
+218,18comic.vip,1,36,T3,,1,2,existing,mangareader|mihon,jmc|禁漫天堂,zh
+219,bakamh.com,1,36,T3,,1,2,to-build,aidoku|mihon,zh.bakamh|巴卡漫画,zh
+220,cosplaytele.com,1,36,T3,,1,2,existing,mihon|venera,CosplayTele,all|zh
+221,h-comic.com,1,36,T3,,1,2,existing,mihon|venera,H-Comic,zh
+222,jcomic.net,1,36,T3,,1,2,existing,mihon|venera,JComic|jcomic.net,zh
+223,liumanhua.com,1,36,T3,,1,2,to-build,cimoc|mihon,BMG|六漫画,zh
+224,rouman5.com,1,36,T3,,1,2,to-build,mangareader|mihon,rm5|肉漫屋,zh
+225,3hentai.net,1,26,T3,,1,1,to-build,mihon,3Hentai,all|ar|bg|cs|de|en|es|fi|fr|hu|id|is|it|ja|jv|ko|la|mo|my|nl|pl|pt|ru|th|tl|tr|uk|vi|zh
+226,akuma.moe,1,26,T3,,1,1,to-build,mihon,Akuma,all|ar|ca|ceb|cs|da|de|en|eo|es|et|fr|hi|hu|id|it|ja|jv|ko|nl|pl|pt|ru|tr|uk|vi|zh
+227,asmhentai.com,1,26,T3,,1,1,to-build,mihon,AsmHentai,all|en|ja|zh
+228,boylove.cc,1,26,T3,,1,1,to-build,mihon,香香腐宅,zh
+229,cartoon18.com,1,26,T3,,1,1,to-build,mihon,Cartoon18,zh
+230,en.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,en
+231,es.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,es
+232,global.toomics.com,1,26,T3,,1,1,to-build,mihon,Toomics (Only free chapters),de|en|es|es-419|fr|it|pt-br|zh-hans|zh-hant
+233,hanimeone.me,1,26,T3,,1,1,to-build,mihon,Hanime1.me,zh
+234,hanman18.com,1,26,T3,,1,1,to-build,mihon,HANMAN18,zh
+235,hdoujin.org,1,26,T3,,1,1,to-build,mihon,HDoujin,all|en|es|ja|ko|zh
+236,hentaifox.com,1,26,T3,,1,1,to-build,mihon,HentaiFox,all|en|ja|ko|zh
+237,hentaihand.com,1,26,T3,,1,1,to-build,mihon,HentaiHand,all|ar|bg|ceb|cs|de|el|en|eo|es|fi|fr|hi|hu|id|it|ja|jv|ko|la|mn|nl|other|pl|pt-br|ru|sk|sr|th|tl|tr|uk|vi|zh
+238,hentairox.com,1,26,T3,,1,1,to-build,mihon,HentaiRox,all|en|ja|zh
+239,jjmhw2.top,1,26,T3,,1,1,to-build,mihon,Manga Xiao Si,zh
+240,kr.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,ko
+241,luscious.net,1,26,T3,,1,1,to-build,mihon,Luscious,all|de|en|es|fr|it|ja|ko|other|pt-br|th|zh
+242,manhuabika.com,1,26,T3,,1,1,to-build,mihon,哔咔漫画,zh
+243,myreadingmanga.info,1,26,T3,,1,1,to-build,mihon,MyReadingManga,ar|de|en|es|id|it|ja|ko|pt-br|ru|tr|vi|zh
+244,nhentai.com,1,26,T3,,1,1,existing,mihon,nHentai.com (unoriginal),all|ar|bg|ceb|cs|el|en|eo|fi|ja|jv|ko|la|mn|other|ro|sk|sr|tl|tr|uk|zh
+245,nhentai.to,1,26,T3,,1,1,existing,mihon,NHentai.to,all|en|ja|ko|zh
+246,nhentai.xxx,1,26,T3,,1,1,existing,mihon,NHentai.xxx,all|en|ja|zh
+247,nnhanman.xyz,1,26,T3,,1,1,to-build,mihon,鸟鸟韩漫,zh
+248,panda.chaika.moe,1,26,T3,,1,1,to-build,mihon,PandaChaika,all|ar|cs|el|en|es|fi|fr|id|ja|jv|ko|pt|ru|th|tl|tr|uk|vi|zh
+249,pornpics.com,1,26,T3,,1,1,to-build,mihon,PornPics,en|zh
+250,schale.network,1,26,T3,,1,1,to-build,mihon,SchaleNetwork,all|en|ja|zh
+251,simply-hentai.com,1,26,T3,,1,1,to-build,mihon,Simply Hentai,de|en|es|fr|it|ja|ko|pl|ru|zh
+252,tw.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,zh-hant
+253,wn07.cfd,1,26,T3,,1,1,existing,mihon,紳士漫畫,zh
+254,xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,zh-hans
+255,xgmn8.vip,1,26,T3,,1,1,to-build,mihon,性感美女,all
+256,yidan9.club,1,26,T3,,1,1,to-build,mihon,一耽女孩,zh

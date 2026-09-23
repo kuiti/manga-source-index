@@ -1,0 +1,2 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+1,komiic.com,F-tls-failure (dead),0,,0,62,T1,existing,,0,4,aidoku|cimoc|mihon|venera,KOMIIC|Komiic|zh.komiic

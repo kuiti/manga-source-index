@@ -1,0 +1,22 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+5,ykmh.net,A-bot-blocked (alive),812,mid,403,56,T1,existing,,0,3,cimoc|mihon|venera,YouKuManHua|优酷漫画|优酷漫画 (修复版)
+6,mycomic.com,A-bot-blocked (alive),834,mid,403,62,T1,existing,,0,4,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic
+10,baozimhcn.com,A-bot-blocked (alive),1325,slow,403,48,T1,to-build,,0,2,cimoc|mangareader,BAOZIMH|BaoziManHua|bzm
+12,mh160mh.com,A-bot-blocked (alive),1532,slow,403,38,T3,to-build,,0,1,cimoc,MH160CC
+15,dashumanhua.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T2,to-build,,0,1,cimoc,DASHUMANHUA
+21,mhua5.com,C-proxy-or-gateway-error (retest),11,fast,502,48,T1,to-build,,0,2,cimoc|mihon,MANHUAWU|漫画屋
+22,gufengmh.com,C-proxy-or-gateway-error (retest),11,fast,502,38,T2,to-build,,0,1,cimoc,GuFengManHua
+23,qimanwu.org,C-proxy-or-gateway-error (retest),12,fast,502,38,T3,to-build,,0,1,cimoc,QIMANHUA
+26,100fanwo.com,C-proxy-or-gateway-error (retest),35,fast,502,38,T2,to-build,,0,1,cimoc,MH360
+27,zhuzhumh.com,C-proxy-or-gateway-error (retest),469,mid,521,38,T3,to-build,,0,1,cimoc,BaiManGu
+33,2026copy.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,CopyManHua
+38,biqu8.xyz,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,BIQUGE
+39,chuixue.net,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,CHUIXUEMH
+40,colamanga.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,CoCoManHua
+47,imitui.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,cimoc,MITUI
+49,mangabz.com,C-timeout (retest),0,,0,38,T3,existing,,0,5,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz
+55,mxqf.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,cimoc,BOLEFU|BoLeFu
+62,xmanhua.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,cimoc,XMANHUA
+89,bud.iqiyi.com,D-http-error (possibly redesigned),120,fast,404,38,T2,to-build,,0,1,cimoc,IQIYI
+93,so.77mh.nl,D-http-error (possibly redesigned),456,mid,404,38,T3,to-build,,0,1,cimoc,XINXINMH|XinXinManHua
+94,dmzj.com,D-http-error (possibly redesigned),490,mid,404,63,T1,to-build,DMZJ (Dongman Zhijia),0,1,cimoc,DongManZhiJia

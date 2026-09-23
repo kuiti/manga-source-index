@@ -1,0 +1,3 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+5,manhuadb.com,B-reachable,347,fast,200,48,T1,to-build,,0,2,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全
+20,maofly.com,B-reachable,1126,mid,200,48,T1,to-build,,0,2,cimoc|mangareader,MH50|ManHuaCat|mhm

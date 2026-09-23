@@ -1,0 +1,18 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+1,77mh.xyz,A-bot-blocked (alive),254,fast,503,38,T2,to-build,,0,1,legado,🎨新新漫画-xyz
+13,baozimh.com,A-bot-blocked (alive),5791,slow,403,56,T1,existing,,0,3,aidoku|legado|mihon,zh.baozimanhua|包子漫画
+14,api.iqhmh.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T2,to-build,,0,1,legado,✐ 趣话漫画🅰💰 #Haxc|㊣✐ 趣话漫画🅰 #Haxc|🎨 趣话漫画
+16,mhkan.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T3,to-build,,0,1,legado,漫画看|🎨 漫画看
+17,qiremanhua.com,C-proxy-or-gateway-error (retest),1,fast,502,38,T3,to-build,,0,1,legado,✐ ㊣奇热漫画📱 #Haxc1107|奇热漫画📱💰
+18,hanmandq.com,C-proxy-or-gateway-error (retest),2,fast,502,38,T2,to-build,,0,1,legado,韩漫大全
+25,uuhanman.com,C-proxy-or-gateway-error (retest),24,fast,502,38,T3,to-build,,0,1,legado,🎨 UU韩漫
+34,amcomic.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,legado,一个漫画
+35,api.acg.gd,C-timeout (retest),0,,0,38,T2,to-build,,0,1,legado,✐ 🔥亲亲漫画 #Haxc|🎨亲亲漫画 #Haxc🔞|🎨亲亲漫画🔞
+36,apifans.dushimh.com,C-timeout (retest),0,,0,38,T2,to-build,,0,1,legado,粉丝漫画
+42,copymanga.com,C-timeout (retest),0,,0,38,T2,existing,,0,1,legado,🎨 拷贝漫画➠移动不可用
+53,moxidongman.com,C-timeout (retest),0,,0,38,T3,to-build,,0,1,legado,MOXI动漫(8本)™
+90,newsmiss.lofter.com,D-http-error (possibly redesigned),244,fast,404,38,T3,to-build,,0,1,legado,🗒 天花板网
+95,77mh.nl,D-http-error (possibly redesigned),538,mid,404,38,T2,to-build,,0,1,legado,🎨 新新漫画
+98,sixmh7.com,E-other-failure,0,,0,38,T3,to-build,,0,1,legado,🎨 六漫画
+99,uaa.com,E-other-failure,0,,0,38,T3,to-build,,0,1,legado,🎨UAA漫画
+101,ydan.cc,E-other-failure,0,,0,38,T3,to-build,,0,1,legado,🗂🙈一耽漫画🅰

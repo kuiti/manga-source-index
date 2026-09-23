@@ -1,0 +1,1594 @@
+﻿rank,domain,is_chinese,score,tier,official,nsfw,eco_count,effort,ecosystems,names,langs
+1,bilimanga.net,1,87,T1,Bilibili Comics (official),0,4,existing,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫,zh
+2,ac.qq.com,1,81,T1,Tencent Comics (official),0,3,existing,legado|mihon|venera,㊣✐ 腾讯漫画  #一程|腾讯动漫|腾讯动漫（正版）|腾讯漫画📱,zh|zh-hans
+3,mangadex.org,1,81,T1,MangaDex (open licensed),0,3,existing,aidoku|mihon|venera,MangaDex|multi.mangadex,af|ar|az|be|bg|bn|ca|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fil|fr|ga|he|hi|hr|hu|id|it|ja|jv|ka|kk|ko|la|lt|mn|ms|multi|my|ne|nl|no|pl|pt|pt-br|ro|ru|sk|sq|sr|sv|ta|te|th|tr|uk|ur|uz|vi|zh|zh-hans|zh-hant
+4,shonenjumpplus.com,1,81,T1,Shonen Jump+ (official),0,3,existing,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋,ja|zh
+5,iqiyi.com,1,73,T1,iQiyi Comics (official),0,2,to-build,legado|mihon,✐ ㊣爱奇艺漫画 #Haxc1107|爱奇艺叭嗒|🎨 爱奇艺漫画|🎨爱奇艺漫画 ,zh|zh-hans
+6,kuaikanmanhua.com,1,73,T1,Kuaikan Comics (official),0,2,to-build,legado|mihon,快看漫画|快看漫画M|🎨 快看漫画$|🎨快看漫画,zh|zh-hans
+7,webtoons.com,1,73,T1,LINE WEBTOON (official),0,2,existing,mihon|venera,LINE WEBTOON|Webtoons.com,de|en|es|fr|id|th|zh|zh-hant
+8,comic-walker.com,1,63,T1,Kadokomi (official),0,1,existing,mihon,カドコミ,ja
+9,dmzj.com,1,63,T1,DMZJ (Dongman Zhijia),0,1,to-build,cimoc,DongManZhiJia,zh
+10,idmzj.com,1,63,T1,DMZJ (Dongman Zhijia),0,1,to-build,mangareader,dmzj,zh
+11,manga.bilibili.com,1,63,T1,Bilibili Comics (official),0,1,to-build,legado,哔哩哔哩漫画 #Haxc,zh
+12,mangamillion.shueisha.co.jp,1,63,T1,Manga Million (official),0,1,to-build,mihon,Manga Million,af|am|ar|as|be|bg|bho|bo|ca|ceb|cnr|cs|cy|da|de|doi|dv|ee|el|en|es|es-ar|es-mx|et|eu|fi|fr|ga|gl|gn|gu|haw|he|hi|hmn|hr|hu|hy|id|ig|ilo|is|it|ka|km|kn|ko-kr|kok|la|lb|lg|ln|lo|lt|lus|lv|mai|mg|mi|mk|ml|mn|mni|mr|ms|mt|mww|my|ne|nl|no|nso|ny|or|pa|pl|pt|pt-br|qu|ro|ro-md|ru|rw|sa|sd|si|sk|sl|sm|sn|sr|sv|sw|ta|te|th|tl|tr|ts|uk|vi|xh|yi|yo|zh-cn|zh-hk|zh-tw|zu
+13,namicomi.com,1,63,T1,NamiComi,0,1,to-build,mihon,NamiComi,ar|bg|ca|cs|da|de|el|en|es|es-419|et|fa|fi|fil|fr|ga|he|hi|hr|hu|id|is|it|ja|ko|lt|ms|ne|nl|no|pa|pl|pt|pt-br|ru|sk|sl|sv|th|tr|uk|zh-hans|zh-hant
+14,dm5.com,1,62,T1,,0,4,existing,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋,zh
+15,komiic.com,1,62,T1,,0,4,existing,aidoku|cimoc|mihon|venera,KOMIIC|Komiic|zh.komiic,zh
+16,mycomic.com,1,62,T1,,0,4,existing,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic,zh
+17,baozimh.com,1,56,T1,,0,3,existing,aidoku|legado|mihon,zh.baozimanhua|包子漫画,zh
+18,happymh.com,1,56,T1,,0,3,existing,aidoku|mangareader|venera,happy|zh.happymh|嗨皮漫画,zh
+19,kanman.com,1,56,T1,,0,3,existing,cimoc|legado|venera,ManHuaTai|看漫画|🎨 看漫画M|🎨 看漫画M #Haxc1107,zh
+20,manhuagui.com,1,56,T1,,0,3,existing,mangareader|mihon|venera,mhgm|漫画柜,zh
+21,nhentai.net,1,56,T1,,0,3,existing,aidoku|mangareader|venera,multi.nhentai|nh|nhentai,multi|zh
+22,rawkuma.net,1,56,T1,,0,3,existing,aidoku|mihon|venera,Rawkuma|ja.rawkuma,ja|zh
+23,rumanhua2.com,1,56,T1,,0,3,existing,cimoc|mihon|venera,RUMANHUA|如漫画,zh
+24,ykmh.net,1,56,T1,,0,3,existing,cimoc|mihon|venera,YouKuManHua|优酷漫画|优酷漫画 (修复版),zh
+25,baozimhcn.com,1,48,T1,,0,2,to-build,cimoc|mangareader,BAOZIMH|BaoziManHua|bzm,zh
+26,comic.mkzhan.com,1,48,T1,,0,2,existing,cimoc|legado,MKZHAN|漫客栈|🎨 漫客栈|🎨 漫客栈🅰 ,zh
+27,dongmanmanhua.cn,1,48,T1,,0,2,existing,mihon|venera,Dongman Manhua|咚漫,zh|zh-hans
+28,dumanwu1.com,1,48,T1,,0,2,to-build,cimoc|mihon,DUMANWU|读漫屋,zh
+29,godamh.com,1,48,T1,,0,2,to-build,aidoku|cimoc,HaoManEight|zh.godamanga,zh
+30,guazimanhua.com,1,48,T1,,0,2,existing,mihon|venera,瓜子漫画,zh
+31,hitomi.la,1,48,T1,,0,2,existing,aidoku|venera,hitomi.la|multi.hitomi,multi|zh
+32,laimanhua88.com,1,48,T1,,0,2,existing,cimoc|venera,LAIMH|来漫画|来漫画（分流）,zh
+33,manben.com,1,48,T1,,0,2,existing,cimoc|venera,HAOMAN6|漫本,zh
+34,mangadot.net,1,48,T1,,0,2,to-build,aidoku|mihon,MangaDot|multi.mangadotnet,ab|af|am|ar|az|be|bg|bn|bs|ca|ceb|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fo|fr|ga|gl|gn|gu|ha|he|hi|hr|ht|hu|hy|id|ig|is|it|ja|jv|ka|kk|km|kn|ko|ku|ky|la|lb|lo|lt|lv|mg|mi|mk|ml|mn|mo|mr|ms|mt|multi|my|ne|nl|no|ny|pl|ps|pt|pt-br|rm|ro|ru|sd|sh|si|sk|sl|sm|sn|so|sq|sr|ss|st|sv|sw|ta|te|tg|th|ti|tk|tl|to|tr|uk|ur|uz|vi|yo|zh|zh-hant|zh-tw|zu
+35,manhuadb.com,1,48,T1,,0,2,to-build,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全,zh
+36,manmanapp.com,1,48,T1,,0,2,to-build,cimoc|legado,MANMANMANHUA|㊣✐ 漫漫漫画 #一程1101|🎨 漫漫漫画 |🎨 漫漫漫画 #Haxc,zh
+37,maofly.com,1,48,T1,,0,2,to-build,cimoc|mangareader,MH50|ManHuaCat|mhm,zh
+38,mhua5.com,1,48,T1,,0,2,to-build,cimoc|mihon,MANHUAWU|漫画屋,zh
+39,mkzhan.com,1,48,T2,,0,2,existing,legado|venera,㊣✐ 漫客栈  #一程|漫客栈|🌵漫客栈🌵|🎨 漫客栈 #Haxc,zh
+40,vomicmh.com,1,48,T2,,0,2,to-build,cimoc|mihon,VOMIC2|vomic,zh
+41,wmh1234.com,1,48,T2,,0,2,existing,mihon|venera,漫画1234|漫画kan,zh
+42,xcomic.me,1,48,T2,,0,2,to-build,aidoku|mihon,XCOMIC|multi.xcomic,ab|af|all|am|ar|az|be|bg|bn|bs|ca|ceb|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fil|fo|fr|ga|gl|gn|gu|ha|he|hi|hr|ht|hu|hy|id|ig|is|it|ja|jv|ka|kk|km|kn|ko|ku|ky|la|lb|lo|lt|lv|mg|mi|mk|ml|mn|mo|mr|ms|mt|multi|my|ne|nl|no|ny|other|pl|ps|pt|pt-br|rm|ro|ru|sd|sh|si|sk|sl|sm|sn|so|sq|sr|ss|st|sv|sw|ta|te|tg|th|ti|tk|to|tr|uk|ur|uz|vi|yo|zh|zh-hant|zu
+43,zaimanhua.com,1,48,T2,,0,2,to-build,aidoku|cimoc,HAOMAN8|zh.zaimanhua,zh
+44,zerobyw33.com,1,48,T2,,0,2,existing,mihon|venera,zero搬运网,zh
+45,ymcdnyfqdapp.ikmmh.com,1,44,T2,,1,3,existing,cimoc|mihon|venera,BODONGMH|爱看漫,zh
+46,100fanwo.com,1,38,T2,,0,1,to-build,cimoc,MH360,zh
+47,18mh.org,1,38,T2,,0,1,existing,mihon,18漫画,zh
+48,1kkk.com,1,38,T2,,0,1,existing,venera,极速漫画,zh
+49,2026copy.com,1,38,T2,,0,1,to-build,cimoc,CopyManHua,zh
+50,2cycomic.com,1,38,T2,,0,1,existing,venera,次元漫画,zh
+51,311s.com,1,38,T2,,0,1,to-build,mihon,漫画社,zh
+52,36mh.org,1,38,T2,,0,1,to-build,cimoc,QIMIAO,zh
+53,4399manhua.com,1,38,T2,,0,1,existing,venera,4399漫画网,zh
+54,51manga.com,1,38,T2,,0,1,existing,venera,51漫画,zh
+55,77mh.nl,1,38,T2,,0,1,to-build,legado,🎨 新新漫画,zh
+56,77mh.xyz,1,38,T2,,0,1,to-build,legado,🎨新新漫画-xyz,zh
+57,7stary.com,1,38,T2,,0,1,to-build,cimoc,DUMH|DuManHua,zh
+58,8comic.com,1,38,T2,,0,1,to-build,mihon,無限動漫,zh
+59,8jj.com,1,38,T2,,0,1,to-build,legado,✐ 八极漫画 #Haxc|八极漫画,zh
+60,90mh.org,1,38,T2,,0,1,to-build,cimoc,MANHUA90,zh
+61,92mh.com,1,38,T2,,0,1,to-build,mihon,92漫画,zh
+62,9comic.cn,1,38,T2,,0,1,existing,legado,好看漫画,zh
+63,amcomic.com,1,38,T2,,0,1,to-build,legado,一个漫画,zh
+64,api.acg.gd,1,38,T2,,0,1,to-build,legado,✐ 🔥亲亲漫画 #Haxc|🎨亲亲漫画 #Haxc🔞|🎨亲亲漫画🔞,zh
+65,api.creative-comic.tw,1,38,T2,,0,1,existing,venera,CCC追漫台,zh
+66,api.ilikemanga.com,1,38,T2,,0,1,to-build,legado,🎨追追漫画₁🅰,zh
+67,api.iqhmh.com,1,38,T2,,0,1,to-build,legado,✐ 趣话漫画🅰💰 #Haxc|㊣✐ 趣话漫画🅰 #Haxc|🎨 趣话漫画,zh
+68,api.noyteam.online,1,38,T2,,0,1,to-build,mihon,NoyAcg,zh-hant
+69,apifans.dushimh.com,1,38,T2,,0,1,to-build,legado,粉丝漫画,zh
+70,app-api.pixiv.net,1,38,T2,,0,1,existing,venera,Pixiv,zh
+71,baozimh.one,1,38,T2,,0,1,to-build,cimoc,BAOZIV2|HaoManSix,zh
+72,baozimh.org,1,38,T2,,0,1,existing,mihon,GoDa漫画,zh
+73,bbboy.cc,1,38,T2,,0,1,to-build,cimoc,BOLEMH,zh
+74,bdido.com,1,38,T2,,0,1,to-build,legado,1359漫画,zh
+75,biqu8.xyz,1,38,T2,,0,1,to-build,cimoc,BIQUGE,zh
+76,bnman.net,1,38,T2,,0,1,to-build,cimoc,BAINIANMH,zh
+77,bud.iqiyi.com,1,38,T2,,0,1,to-build,cimoc,IQIYI,zh
+78,bukamh.com,1,38,T2,,0,1,existing,venera,布卡漫画,zh
+79,bwhanman.com,1,38,T2,,0,1,to-build,legado,🌵背窝韩漫🌵,zh
+80,cdn-msp.jmapinodeudzn.net,1,38,T2,,0,1,existing,venera,禁漫天堂,zh
+81,chuixue.net,1,38,T2,,0,1,to-build,cimoc,CHUIXUEMH,zh
+82,colamanga.com,1,38,T2,,0,1,to-build,cimoc,CoCoManHua,zh
+83,comic.bh3.com,1,38,T2,,0,1,to-build,mihon,《崩坏3》IP站,zh
+84,comic.hypergryph.com,1,38,T2,,0,1,to-build,mihon,泰拉记事社,zh
+85,comic.pixiv.net,1,38,T2,,0,1,existing,mihon,Pixivコミック,ja
+86,comicfury.com,1,38,T2,,0,1,to-build,mihon,Comic Fury|Comic Fury (No Text),all|de|en|es|fi|fr|it|ja|other|pl|pt-br|ru|zh
+87,comick.art,1,38,T2,,0,1,existing,venera,comick,zh
+88,comico.jp,1,38,T2,,0,1,to-build,mihon,コミコ,ja
+89,copymanga.com,1,38,T2,,0,1,existing,legado,🎨 拷贝漫画➠移动不可用,zh
+90,creative-comic.tw,1,38,T2,,0,1,existing,mihon,CCC追漫台,zh-hant
+91,d9zfb53b.lstool.xyz,1,38,T2,,0,1,to-build,cimoc,GUOGUOMH,zh
+92,dashuhuwai.com,1,38,T2,,0,1,to-build,legado,大树漫画,zh
+93,dashumanhua.com,1,38,T2,,0,1,to-build,cimoc,DASHUMANHUA,zh
+94,demo.kavita.org,1,38,T2,,0,1,existing,venera,Kavita,zh
+95,demo.komga.org,1,38,T2,,0,1,existing,venera,Komga,zh
+96,dongman.la,1,38,T2,,0,1,existing,venera,动漫啦,zh
+97,dragonball-multiverse.com,1,38,T2,,0,1,to-build,mihon,Dragon Ball Multiverse|Dragon Ball Multiverse Parody,ar|bg|br|ca|co|da|de|el|en|es|es-419|eu|fi|fil|fr|ga|he|hr|hu|it|ja|ko|la|lmo|lt|nl|no|pl|pt|pt-br|ro|ru|sv|tr|vec|zh
+98,dumanwu.org,1,38,T2,,0,1,to-build,cimoc,DUMANWUORG,zh
+99,e-hentai.org,1,38,T2,,0,1,existing,venera,ehentai,zh
+100,ebook.tongli.com.tw,1,38,T2,,0,1,to-build,mihon,東立,zh
+101,favcomic.com,1,38,T2,,0,1,to-build,mihon,喜漫漫画,zh
+102,feixuemh.com,1,38,T2,,0,1,to-build,cimoc,FEIXUEMH,zh
+103,ffppt.com,1,38,T2,,0,1,existing,venera,飞翔漫画,zh
+104,g-mh.org,1,38,T2,,0,1,to-build,cimoc,GODAMH,zh
+105,gaugau.futabanet.jp,1,38,T2,,0,1,to-build,mihon,がうがうモンスター＋,ja
+106,gfmh.app,1,38,T2,,0,1,existing,venera,古风漫画,zh
+107,git.nyne.dev,1,38,T2,,0,1,existing,venera,MangaDex,zh
+108,globalcomix.com,1,38,T2,,0,1,to-build,mihon,GlobalComix,ar|bg|bn|cs|da|de|el|en|es|fa|fi|fil|fr|he|hi|hu|id|it|ja|ko|lv|ms|nl|no|pl|pt|pt-br|ro|ru|sk|sl|sq|sv|ta|th|tr|uk|ur|vi|zh-hans|zh-hant
+109,gmanhua.com,1,38,T2,,0,1,to-build,cimoc,SHOUJIMH|ShouJiManHua,zh
+110,gmh1234.wszwhg.net,1,38,T2,,0,1,existing,venera,漫画1234,zh
+111,godamanga.art,1,38,T2,,0,1,to-build,cimoc,GoDaMH,zh
+112,gufengmanhua.com,1,38,T2,,0,1,to-build,cimoc,GuFengWang,zh
+113,gufengmh.com,1,38,T2,,0,1,to-build,cimoc,GuFengManHua,zh
+114,gufengmh9.com,1,38,T2,,0,1,existing,legado,古风漫画,zh
+115,hanmandq.com,1,38,T2,,0,1,to-build,legado,韩漫大全,zh
+116,hao8.net,1,38,T2,,0,1,to-build,legado,🎨 好吧漫画,zh
+117,haoduoman.com,1,38,T2,,0,1,to-build,cimoc,HAODUOMAN,zh
+118,haokantxt.com,1,38,T2,,0,1,existing,venera,好看漫画,zh
+119,hentaiclub.net,1,38,T2,,0,1,to-build,mihon,绅士会所,zh
+120,hikarinagi.org,1,38,T2,,0,1,to-build,mihon,Hikarinagi,zh
+121,hipmh.com,1,38,T2,,0,1,existing,venera,嬉皮漫畫,zh
+122,hmba.vip,1,38,T2,,0,1,to-build,legado,🎨 韩漫吧,zh
+123,ikanhm.top,1,38,T2,,0,1,to-build,legado,🎨爱看韩漫🔞,zh
+124,ikmmh.com,1,38,T2,,0,1,existing,venera,爱看漫,zh
+125,imitui.com,1,38,T2,,0,1,to-build,cimoc,MITUI,zh
+126,iyouman.com,1,38,T2,,0,1,to-build,legado,🎨 爱优漫📱|🎨 爱优漫📱 |🎨爱优漫,zh
+127,jjmhw.cc,1,38,T2,,0,1,to-build,legado,久久漫画-ζ,zh
+128,kagane.to,1,38,T2,,0,1,to-build,mihon,Kagane,ar|de|en|es|es-419|fr|hi|id|it|ja|ko|pl|pt|pt-br|ru|th|vi|zh
+129,klmanga.net,1,38,T3,,0,1,to-build,mangareader,kl,zh
+130,komiic.cc,1,38,T3,,0,1,existing,venera,Komiic,zh
+131,kukk.net,1,38,T3,,0,1,to-build,legado,酷看漫画,zh
+132,kumwu2.com,1,38,T3,,0,1,to-build,cimoc,KUMANWU,zh
+133,lrr.tvc-16.science,1,38,T3,,0,1,existing,venera,Lanraragi,zh
+134,lunarx.to,1,38,T3,,0,1,to-build,mihon,Lunar Manga,all|ar|bg|bn|da|de|en|es|es-419|fa|fi|fr|he|hi|id|it|ja|ko|ms|nl|no|pl|pt|pt-br|ru|sv|th|tl|tr|ur|vi|zh
+135,manga2026.com,1,38,T3,,0,1,existing,venera,热辣漫画,zh
+136,mangaapi.manhuaren.com,1,38,T3,,0,1,existing,mihon,漫画人,zh
+137,mangaball.net,1,38,T3,,0,1,to-build,mihon,Manga Ball,ar|bg|bn|ca|cs|da|de|el|en|es|fa|fi|fr|he|hi|hu|id|is|it|ja|kn|ko|ml|ms|ne|nl|no|pl|pt-br|ro|ru|sk|sl|sq|sr|sv|ta|th|tr|uk|vi|zh
+138,mangabz.com,1,38,T3,,0,5,existing,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz,zh
+139,mangacopy.com,1,38,T3,,0,1,to-build,mangareader,copy,zh
+140,mangatoon.mobi,1,38,T3,,0,1,to-build,mihon,MangaToon (Limited),en|es|fr|id|ja|pt-br|th|vi|zh
+141,mangaz.com,1,38,T3,,0,1,to-build,mihon,マンガ図書館Z,ja
+142,manhua.sfacg.com,1,38,T3,,0,1,existing,venera,SF漫画,zh
+143,manhua.zaimanhua.com,1,38,T3,,0,1,existing,mihon,再漫画,zh
+144,manhuapi.cc,1,38,T3,,0,1,existing,venera,漫画皮,zh
+145,manhuaren.com,1,38,T3,,0,1,existing,venera,漫画人,zh
+146,manhuatai.com,1,38,T3,,0,1,to-build,legado,🎨 漫画台🅰 #Haxc|🎨 漫画台🅰 #Haxc1107|🎨漫画台🅰,zh
+147,manhuauo.com,1,38,T3,,0,1,existing,venera,香蕉漫画,zh
+148,manhuayu88.com,1,38,T3,,0,1,to-build,cimoc,MANHUAYU,zh
+149,manwa.me,1,38,T3,,0,1,to-build,mihon,漫蛙,zh
+150,manwali.cc,1,38,T3,,0,1,existing,venera,漫蛙吧,zh
+151,manwang.net,1,38,T3,,0,1,existing,venera,漫网,zh
+152,marketing.aiacgn.com,1,38,T3,,0,1,existing,venera,拷贝漫画|拷贝漫画(多账号),zh
+153,mh160mh.com,1,38,T3,,0,1,to-build,cimoc,MH160CC,zh
+154,mhgui.com,1,38,T3,,0,1,to-build,mangareader,mhg,zh
+155,mhhanman.xyz,1,38,T3,,0,1,to-build,legado,🎨韩漫画🔞,zh
+156,mhkami.com,1,38,T3,,0,1,to-build,cimoc,YEMANMH,zh
+157,mhkan.com,1,38,T3,,0,1,to-build,legado,漫画看|🎨 漫画看,zh
+158,miaoqumh.org,1,38,T3,,0,1,to-build,mihon,喵趣漫画,zh
+159,mm.sfacg.com,1,38,T3,,0,1,existing,legado,SF漫画💰,zh
+160,mobileapp.comic-walker.com,1,38,T3,,0,1,existing,venera,カドコミ,zh
+161,mojoin.com,1,38,T3,,0,1,existing,venera,MOJOIN,zh
+162,moxidongman.com,1,38,T3,,0,1,to-build,legado,MOXI动漫(8本)™,zh
+163,mwuu.cc,1,38,T3,,0,1,existing,venera,漫蛙吧,zh
+164,mxqf.com,1,38,T3,,0,1,to-build,cimoc,BOLEFU|BoLeFu,zh
+165,mxshm.top,1,38,T3,,0,1,existing,venera,漫小肆,zh
+166,mybl.xyz,1,38,T3,,0,1,to-build,legado,🎟️啵乐漫画,zh
+167,newsmiss.lofter.com,1,38,T3,,0,1,to-build,legado,🗒 天花板网,zh
+168,nnv3api.dmzj1.com,1,38,T3,,0,1,to-build,legado,动漫之家,zh
+169,noymanga.com,1,38,T3,,0,1,existing,venera,NoyManga,zh
+170,picaapi.picacomic.com,1,38,T3,,0,1,existing,venera,Picacg,zh
+171,picacomic.com,1,38,T3,,0,1,existing,mangareader,pica,zh
+172,pixiv.net,1,38,T3,,0,1,existing,mihon,Pixiv,en|ja|ko|zh|zh-tw
+173,pufei.cc,1,38,T3,,0,1,to-build,cimoc,PUFEIMH|PuFeiManHua,zh
+174,qiman56.com,1,38,T3,,0,1,to-build,legado,🎨 奇漫屋,zh
+175,qimanwu.org,1,38,T3,,0,1,to-build,cimoc,QIMANHUA,zh
+176,qimiqimi.net,1,38,T3,,0,1,to-build,legado,奇米动漫,zh
+177,qiremanhua.com,1,38,T3,,0,1,to-build,legado,✐ ㊣奇热漫画📱 #Haxc1107|奇热漫画📱💰,zh
+178,qiximh4.com,1,38,T3,,0,1,to-build,cimoc,QIXIMH,zh
+179,reader.hqread.cc,1,38,T3,,0,1,existing,venera,漫画1234,zh
+180,saymanhwa.com,1,38,T3,,0,1,to-build,mihon,New Manhwa|SayManhwa,ar|de|en|es|fil|fr|id|ja|pt|th|vi|zh-hans|zh-hant
+181,se8.us,1,38,T3,,0,1,to-build,aidoku,zh.se8,zh
+182,sixmh7.com,1,38,T3,,0,1,to-build,legado,🎨 六漫画,zh
+183,so.77mh.nl,1,38,T3,,0,1,to-build,cimoc,XINXINMH|XinXinManHua,zh
+184,static-tw.baozimh.com,1,38,T3,,0,1,existing,venera,包子漫画,zh
+185,sumanku.com,1,38,T3,,0,1,to-build,cimoc,SUMANKU,zh
+186,taomanhua.com,1,38,T3,,0,1,to-build,legado,🎨 神漫画|🎨 神漫画📱 #Haxc,zh
+187,toptoon.net,1,38,T3,,0,1,to-build,mihon,TOPTOON頂通,zh
+188,ttkmh.com,1,38,T3,,0,1,to-build,cimoc,TTKANMANHUA,zh
+189,tuho123.com,1,38,T3,,0,1,to-build,cimoc,TUHAOMHV2,zh
+190,tuku.cc,1,38,T3,,0,1,existing,venera,图库漫画,zh
+191,uaa.com,1,38,T3,,0,1,to-build,legado,🎨UAA漫画,zh
+192,udm123.com,1,38,T3,,0,1,to-build,cimoc,YOUDM,zh
+193,uhkvqrxmcapgtpspglrp.moedot.net,1,38,T3,,0,1,to-build,mihon,花火漫画,zh
+194,umh5.com,1,38,T3,,0,1,to-build,cimoc,YOUMANHUAWU,zh
+195,uuhanman.com,1,38,T3,,0,1,to-build,legado,🎨 UU韩漫,zh
+196,v4api.zaimanhua.com,1,38,T3,,0,1,existing,venera,再漫画,zh
+197,wap.65dm.com,1,38,T3,,0,1,to-build,legado,🎨 爱看漫画,zh
+198,webmota.com,1,38,T3,,0,1,existing,legado,包子漫画5,zh
+199,wmanhua.com,1,38,T3,,0,1,existing,venera,W漫画,zh
+200,wn01.link,1,38,T3,,0,1,existing,venera,紳士漫畫,zh
+201,wnacg.com,1,38,T3,,0,1,to-build,aidoku,zh.wnacg,zh
+202,xapi.xinmanhua.net,1,38,T3,,0,1,to-build,legado,✐ 新漫画 #Haxc|✐ 新漫画 #Haxc1107|🎨新漫画,zh
+203,xkcd.tw,1,38,T3,,0,1,to-build,mihon,xkcd,zh
+204,xmanhua.com,1,38,T3,,0,1,to-build,cimoc,XMANHUA,zh
+205,yamibo.com,1,38,T3,,0,1,existing,venera,百合会,zh
+206,yanmaga.jp,1,38,T3,,0,1,to-build,mihon,ヤンマガ（グラビア）|ヤンマガ（マンガ）,ja
+207,ydan.cc,1,38,T3,,0,1,to-build,legado,🗂🙈一耽漫画🅰,zh
+208,yemancomic.com,1,38,T3,,0,1,existing,venera,野蛮漫画,zh
+209,yimmh.com,1,38,T3,,0,1,to-build,cimoc,YIMMH|YiManHua,zh
+210,ymgjmh.com,1,38,T3,,0,1,to-build,cimoc,GUILUOLIMANHUA,zh
+211,yymanhua.com,1,38,T3,,0,1,to-build,cimoc,YYMANHUA,zh
+212,zazhimi.net,1,38,T3,,0,1,to-build,mihon,杂志迷,zh
+213,zerobyw.github.io,1,38,T3,,0,1,existing,venera,zero搬运网,zh
+214,zerobywdlss.com,1,38,T3,,0,1,existing,cimoc,ZERO,zh
+215,zhuzhumh.com,1,38,T3,,0,1,to-build,cimoc,BaiManGu,zh
+216,ziyuanxue.cn,1,38,T3,,0,1,to-build,cimoc,KUMANXIONGV2,zh
+217,zz.ilikemanga.com,1,38,T3,,0,1,to-build,legado,追追漫画M,zh
+218,18comic.vip,1,36,T3,,1,2,existing,mangareader|mihon,jmc|禁漫天堂,zh
+219,bakamh.com,1,36,T3,,1,2,to-build,aidoku|mihon,zh.bakamh|巴卡漫画,zh
+220,cosplaytele.com,1,36,T3,,1,2,existing,mihon|venera,CosplayTele,all|zh
+221,h-comic.com,1,36,T3,,1,2,existing,mihon|venera,H-Comic,zh
+222,jcomic.net,1,36,T3,,1,2,existing,mihon|venera,JComic|jcomic.net,zh
+223,liumanhua.com,1,36,T3,,1,2,to-build,cimoc|mihon,BMG|六漫画,zh
+224,rouman5.com,1,36,T3,,1,2,to-build,mangareader|mihon,rm5|肉漫屋,zh
+225,3hentai.net,1,26,T3,,1,1,to-build,mihon,3Hentai,all|ar|bg|cs|de|en|es|fi|fr|hu|id|is|it|ja|jv|ko|la|mo|my|nl|pl|pt|ru|th|tl|tr|uk|vi|zh
+226,akuma.moe,1,26,T3,,1,1,to-build,mihon,Akuma,all|ar|ca|ceb|cs|da|de|en|eo|es|et|fr|hi|hu|id|it|ja|jv|ko|nl|pl|pt|ru|tr|uk|vi|zh
+227,asmhentai.com,1,26,T3,,1,1,to-build,mihon,AsmHentai,all|en|ja|zh
+228,boylove.cc,1,26,T3,,1,1,to-build,mihon,香香腐宅,zh
+229,cartoon18.com,1,26,T3,,1,1,to-build,mihon,Cartoon18,zh
+230,en.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,en
+231,es.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,es
+232,global.toomics.com,1,26,T3,,1,1,to-build,mihon,Toomics (Only free chapters),de|en|es|es-419|fr|it|pt-br|zh-hans|zh-hant
+233,hanimeone.me,1,26,T3,,1,1,to-build,mihon,Hanime1.me,zh
+234,hanman18.com,1,26,T3,,1,1,to-build,mihon,HANMAN18,zh
+235,hdoujin.org,1,26,T3,,1,1,to-build,mihon,HDoujin,all|en|es|ja|ko|zh
+236,hentaifox.com,1,26,T3,,1,1,to-build,mihon,HentaiFox,all|en|ja|ko|zh
+237,hentaihand.com,1,26,T3,,1,1,to-build,mihon,HentaiHand,all|ar|bg|ceb|cs|de|el|en|eo|es|fi|fr|hi|hu|id|it|ja|jv|ko|la|mn|nl|other|pl|pt-br|ru|sk|sr|th|tl|tr|uk|vi|zh
+238,hentairox.com,1,26,T3,,1,1,to-build,mihon,HentaiRox,all|en|ja|zh
+239,jjmhw2.top,1,26,T3,,1,1,to-build,mihon,Manga Xiao Si,zh
+240,kr.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,ko
+241,luscious.net,1,26,T3,,1,1,to-build,mihon,Luscious,all|de|en|es|fr|it|ja|ko|other|pt-br|th|zh
+242,manhuabika.com,1,26,T3,,1,1,to-build,mihon,哔咔漫画,zh
+243,myreadingmanga.info,1,26,T3,,1,1,to-build,mihon,MyReadingManga,ar|de|en|es|id|it|ja|ko|pt-br|ru|tr|vi|zh
+244,nhentai.com,1,26,T3,,1,1,existing,mihon,nHentai.com (unoriginal),all|ar|bg|ceb|cs|el|en|eo|fi|ja|jv|ko|la|mn|other|ro|sk|sr|tl|tr|uk|zh
+245,nhentai.to,1,26,T3,,1,1,existing,mihon,NHentai.to,all|en|ja|ko|zh
+246,nhentai.xxx,1,26,T3,,1,1,existing,mihon,NHentai.xxx,all|en|ja|zh
+247,nnhanman.xyz,1,26,T3,,1,1,to-build,mihon,鸟鸟韩漫,zh
+248,panda.chaika.moe,1,26,T3,,1,1,to-build,mihon,PandaChaika,all|ar|cs|el|en|es|fi|fr|id|ja|jv|ko|pt|ru|th|tl|tr|uk|vi|zh
+249,pornpics.com,1,26,T3,,1,1,to-build,mihon,PornPics,en|zh
+250,schale.network,1,26,T3,,1,1,to-build,mihon,SchaleNetwork,all|en|ja|zh
+251,simply-hentai.com,1,26,T3,,1,1,to-build,mihon,Simply Hentai,de|en|es|fr|it|ja|ko|pl|ru|zh
+252,tw.xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,zh-hant
+253,wn07.cfd,1,26,T3,,1,1,existing,mihon,紳士漫畫,zh
+254,xchina.co,1,26,T3,,1,1,to-build,mihon,小黄书,zh-hans
+255,xgmn8.vip,1,26,T3,,1,1,to-build,mihon,性感美女,all
+256,yidan9.club,1,26,T3,,1,1,to-build,mihon,一耽女孩,zh
+257,mangaplus.shueisha.co.jp,0,53,T1,MANGA Plus (official),0,2,to-build,aidoku|mihon,MANGA Plus by SHUEISHA|multi.mangaplus,de|en|es|fr|id|multi|pt-br|ru|th|vi
+258,tapas.io,0,43,T2,Tapas (official),0,1,to-build,mihon,Tapas,en
+259,01.komiku.asia,0,28,T3,,0,2,to-build,aidoku|mihon,Komiku.com|id.komikucom,id
+260,3asq.online,0,28,T3,,0,2,to-build,aidoku|mihon,ar.aasq|مانجا العاشق,ar
+261,aquareader.org,0,28,T3,,0,2,to-build,aidoku|mihon,Aqua Manga|en.aquamanga,en
+262,asurascans.com,0,28,T3,,0,2,to-build,aidoku|mihon,Asura Scans|en.asurascans,en
+263,athreascans.com,0,28,T3,,0,2,to-build,aidoku|mihon,Athrea Scans|en.athreascans,en
+264,batcave.biz,0,28,T3,,0,2,to-build,aidoku|mihon,BatCave|en.batcave,en
+265,bigsolo.org,0,28,T3,,0,2,to-build,aidoku|mihon,BigSolo|fr.bigsolo,fr
+266,catharsisworld.dig-it.info,0,28,T3,,0,2,to-build,aidoku|mihon,Catharsis World|es.catharsisworld,es
+267,comic-days.com,0,28,T3,,0,2,to-build,aidoku|mihon,Comic Days|ja.comicdays,ja
+268,comix.to,0,28,T3,,0,2,to-build,aidoku|mihon,Comix|en.comix,en
+269,danke.moe,0,28,T3,,0,2,to-build,aidoku|mihon,Danke fürs Lesen|en.dankefurslesen,en
+270,demonicscans.org,0,28,T3,,0,2,to-build,aidoku|mihon,Manga Demon|en.mangademon,en
+271,dilib.vn,0,28,T3,,0,2,to-build,aidoku|mihon,Dilib|vi.dilib,vi
+272,drakecomic.net,0,28,T3,,0,2,to-build,aidoku|mihon,Drake Scans|en.drakescans,en
+273,dynasty-scans.com,0,28,T3,,0,2,to-build,aidoku|mihon,Dynasty Scans|en.dynastyscans,en
+274,elftoon.com,0,28,T3,,0,2,to-build,aidoku|mihon,Elf Toon|en.elftoon,en
+275,eternalmangas.org,0,28,T3,,0,2,to-build,aidoku|mihon,EternalMangas|es.eternalmangas,es
+276,ezmanga.org,0,28,T3,,0,2,to-build,aidoku|mihon,EZmanga|en.ezmanga,en
+277,firescans.xyz,0,28,T3,,0,2,to-build,aidoku|mihon,Firescans|en.firescans,en
+278,flamecomics.xyz,0,28,T3,,0,2,to-build,aidoku|mihon,Flame Comics|en.flamecomics,en
+279,fmteam.fr,0,28,T3,,0,2,to-build,aidoku|mihon,FMTEAM|fr.fmteam,fr
+280,foxtruyen2.com,0,28,T3,,0,2,to-build,aidoku|mihon,FoxTruyen|vi.foxtruyen,vi
+281,go-manga.com,0,28,T3,,0,2,to-build,aidoku|mihon,Go Manga|th.gomanga,th
+282,grabber.zone,0,28,T3,,0,2,to-build,aidoku|mihon,Grabber Zone|multi.grabberzone,all|multi
+283,guya.cubari.moe,0,28,T3,,0,2,to-build,aidoku|mihon,Guya|en.guya,en
+284,hivetoons.org,0,28,T3,,0,2,to-build,aidoku|mihon,Hive Scans|en.hivescans,en
+285,magustoon.org,0,28,T3,,0,2,to-build,aidoku|mihon,Magus Manga|en.magusmanga,en
+286,manga.io.vn,0,28,T3,,0,2,to-build,aidoku|mihon,DocTruyen5s|vi.doctruyen5s,vi
+287,manga.madokami.al,0,28,T3,,0,2,to-build,aidoku|mihon,Madokami|en.madokami,en
+288,mangabats.com,0,28,T3,,0,2,to-build,aidoku|mihon,Mangabat|en.mangabat,en
+289,mangadistrict.com,0,28,T3,,0,2,to-build,aidoku|mihon,Manga District|en.mangadistrict,en
+290,mangafire.to,0,28,T3,,0,2,to-build,aidoku|mihon,MangaFire|multi.mangafire,en|es|es-419|fr|ja|multi|pt|pt-br
+291,mangago.me,0,28,T3,,0,2,to-build,aidoku|mihon,Mangago|en.mangago,en
+292,mangakakalot.gg,0,28,T3,,0,2,to-build,aidoku|mihon,Mangakakalot|en.mangakakalot,en
+293,mangalivre.to,0,28,T3,,0,2,to-build,aidoku|mihon,Manga Livre.to|pt.mangalivre,pt|pt-br
+294,mangamura.me,0,28,T3,,0,2,to-build,aidoku|mihon,Manga Mura|ja.mangamura,ja
+295,mangaread.org,0,28,T3,,0,2,to-build,aidoku|mihon,MangaRead.org|en.mangareadorg,en
+296,mangatx.cc,0,28,T3,,0,2,to-build,aidoku|mihon,MangaTX|en.mangatx,en
+297,mangaworld.mx,0,28,T3,,0,2,to-build,aidoku|mihon,Mangaworld|it.mangaworld,it
+298,manhuaplus.org,0,28,T3,,0,2,to-build,aidoku|mihon,ManhuaPlus (Unoriginal)|en.manhuaplusorg,en
+299,nettruyenviet10.com,0,28,T3,,0,2,to-build,aidoku|mihon,NetTruyenViet (unoriginal)|vi.nettruyen,vi
+300,nyxscans.com,0,28,T3,,0,2,to-build,aidoku|mihon,Nyx Scans|en.nyxscans,en
+301,raw.senmanga.com,0,28,T3,,0,2,to-build,aidoku|mihon,Sen Manga|ja.senmanga,ja
+302,raw1001.net,0,28,T3,,0,2,to-build,aidoku|mihon,Raw1001|ja.raw1001,ja
+303,rawdevart.art,0,28,T3,,0,2,to-build,aidoku|mihon,Rawdevart.art|ja.rawdevart,ja
+304,rawotaku.com,0,28,T3,,0,2,to-build,aidoku|mihon,Raw Otaku|ja.rawotaku,ja
+305,readcomicsonline.ru,0,28,T3,,0,2,to-build,aidoku|mihon,Read Comics Online|en.readcomicsonline,en
+306,rizzfables.com,0,28,T3,,0,2,to-build,aidoku|mihon,Rizz Comic|en.rizzfables,en
+307,silentquill.net,0,28,T3,,0,2,to-build,aidoku|mihon,SilentQuill|en.armageddon,en
+308,stonescape.xyz,0,28,T3,,0,2,to-build,aidoku|mihon,StoneScape|en.stonescape,en
+309,sushiscan.net,0,28,T3,,0,2,to-build,aidoku|mihon,Sushi-Scan|fr.sushiscan,fr
+310,tcbonepiecechapters.com,0,28,T3,,0,2,to-build,aidoku|mihon,TCB Scans|en.tcbscans,en
+311,toonily.com,0,28,T3,,0,2,to-build,aidoku|mihon,Toonily|en.toonily,en
+312,tortugaceviri.com,0,28,T3,,0,2,to-build,aidoku|mihon,Tortuga Ceviri|tr.tortugaceviri,tr
+313,truyenqqko.com,0,28,T3,,0,2,to-build,aidoku|mihon,TruyenQQ|vi.truyenqq,vi
+314,vortexscans.org,0,28,T3,,0,2,to-build,aidoku|mihon,Vortex Scans|en.vortexscans,en
+315,webtoon.xyz,0,28,T3,,0,2,to-build,aidoku|mihon,WebtoonXYZ|en.webtoonxyz,en
+316,weebcentral.com,0,28,T3,,0,2,to-build,aidoku|mihon,Weeb Central|en.weebcentral,en
+317,01.apkomik.com,0,18,T3,,0,1,to-build,mihon,APKOMIK,id
+318,01.pramramadhan.my.id,0,18,T3,,0,1,to-build,mihon,Pramramadhan,id
+319,02.hwago.xyz,0,18,T3,,0,1,to-build,mihon,Hwago,id
+320,02.ngomik.cc,0,18,T3,,0,1,to-build,mihon,Ngomik (unoriginal),id
+321,03.lumosgg.com,0,18,T3,,0,1,to-build,mihon,LumosKomik,id
+322,04.cosmicscans.to,0,18,T3,,0,1,to-build,mihon,CosmicScans,id
+323,08.ikiru.wtf,0,18,T3,,0,1,to-build,mihon,Ikiru,id
+324,1.seimanga.me,0,18,T3,,0,1,to-build,mihon,SeiManga,ru
+325,1.selfmanga.live,0,18,T3,,0,1,to-build,mihon,SelfManga,ru
+326,11.shinigami.asia,0,18,T3,,0,1,to-build,mihon,Shinigami,id
+327,11toon.com,0,18,T3,,0,1,to-build,mihon,11toon,ko
+328,127.0.0.1,0,18,T3,,0,1,existing,mihon,Bakkin Self-hosted|FoolSlide Customizable|Komga|Komga (2),all|en|other
+329,1manga.co,0,18,T3,,0,1,to-build,mihon,1Manga.co,en
+330,2.mintmanga.one,0,18,T3,,0,1,to-build,mihon,MintManga,ru
+331,9grid.cc,0,18,T3,,0,1,to-build,mihon,NineGrid,ru
+332,a.zazaza.me,0,18,T3,,0,1,to-build,mihon,ReadManga,ru
+333,acervoeremita.com,0,18,T3,,0,1,to-build,mihon,AcervoEremita,pt-br
+334,acomics.ru,0,18,T3,,0,1,to-build,mihon,AComics,ru
+335,afroditscans.com,0,18,T3,,0,1,to-build,mihon,Afrodit Scans,tr
+336,agcscanlation.it,0,18,T3,,0,1,to-build,mihon,Anime GDR Club,it
+337,akaicomic.org,0,18,T3,,0,1,to-build,mihon,Akai Comic,en
+338,akaya.io,0,18,T3,,0,1,to-build,mihon,AKAYA,es
+339,akazascans.org,0,18,T3,,0,1,to-build,mihon,Akaza Scans,en
+340,alandal.com,0,18,T3,,0,1,to-build,mihon,Alandal,en
+341,alpha-manga.com,0,18,T3,,0,1,to-build,mihon,Alpha Manga,en
+342,alphapolis.co.jp,0,18,T3,,0,1,to-build,mihon,Alphapolis,ja
+343,alucardscans.com,0,18,T3,,0,1,to-build,mihon,Alucard Scans,tr
+344,amangaplanet.com.tr,0,18,T3,,0,1,to-build,mihon,Amanga Planet,tr
+345,aniargos.com,0,18,T3,,0,1,to-build,mihon,Argos Comics,pt-br
+346,anikiga.com,0,18,T3,,0,1,to-build,mihon,Anikiga,tr
+347,anime-sama.to,0,18,T3,,0,1,to-build,mihon,AnimeSama,fr
+348,animexnovel.com,0,18,T3,,0,1,to-build,mihon,AnimeXNovel,pt-br
+349,anisascans.in,0,18,T3,,0,1,to-build,mihon,Anisa Scans,en
+350,anyonemanga.com,0,18,T3,,0,1,to-build,mihon,Anyone Manga,ar
+351,anzmanga25.com,0,18,T3,,0,1,to-build,mihon,AnzManga,es
+352,apenasmaisumyaoi.com,0,18,T3,,0,1,to-build,mihon,Amuy,pt-br
+353,apenasuma-fa.blogspot.com,0,18,T3,,0,1,to-build,mihon,Apenas Uma Fã,pt-br
+354,ar.kenmanga.com,0,18,T3,,0,1,to-build,mihon,أريا مانجا,ar
+355,aralosbd.fr,0,18,T3,,0,1,to-build,mihon,AralosBD,fr
+356,araznovel.com,0,18,T3,,0,1,to-build,mihon,ArazNovel,tr
+357,arc-relight.com,0,18,T3,,0,1,to-build,mihon,Arc-Relight,en
+358,archiviumbar.com,0,18,T3,,0,1,to-build,mihon,BarManga,es
+359,arcomixverse.blogspot.com,0,18,T3,,0,1,to-build,mihon,Comic Verse,ar
+360,arcurafansub.com,0,18,T3,,0,1,to-build,mihon,Arcura Fansub,tr
+361,arenascan.com,0,18,T3,,0,1,to-build,mihon,Arena Scans,en
+362,argoscomics.online,0,18,T3,,0,1,to-build,mihon,Argos Scan,pt-br
+363,ariatoon.com,0,18,T3,,0,1,to-build,mihon,AriaToon,ar
+364,arigl.xyz,0,18,T3,,0,1,to-build,mihon,Ariverse,vi
+365,arlas.online,0,18,T3,,0,1,to-build,mihon,Aarlas,id
+366,arthurscan.xyz,0,18,T3,,0,1,to-build,mihon,Arthur Scan,pt-br
+367,artlapsa.com,0,18,T3,,0,1,to-build,mihon,Art Lapsa,en
+368,asacomi.jp,0,18,T3,,0,1,to-build,mihon,Asacomi,ja
+369,asmotoon.com,0,18,T3,,0,1,to-build,mihon,Asmodeus Scans,en
+370,assortedscans.com,0,18,T3,,0,1,to-build,mihon,Assorted Scans,en
+371,astral-manga.fr,0,18,T3,,0,1,to-build,mihon,AstralManga,fr
+372,astramanga.org,0,18,T3,,0,1,to-build,mihon,AstraManga,ru
+373,asurascans.com.tr,0,18,T3,,0,1,to-build,mihon,Asura Scans TR,tr
+374,atsu.moe,0,18,T3,,0,1,to-build,mihon,Atsumaru,en
+375,azorafly.com,0,18,T3,,0,1,to-build,mihon,Azora,ar
+376,azuretoons.com,0,18,T3,,0,1,to-build,mihon,Azuretoons,pt-br
+377,bacakomik.my,0,18,T3,,0,1,to-build,mihon,BacaKomik,id
+378,bakkin.moe,0,18,T3,,0,1,to-build,mihon,Bakkin,en
+379,bato1.com,0,18,T3,,0,1,to-build,mihon,Bbato,en
+380,begatranslation.com,0,18,T3,,0,1,to-build,mihon,Bega Translation,es
+381,beta.taimumangas.com,0,18,T3,,0,1,to-build,mihon,Taimu Mangas,pt-br
+382,beta.toonbr.com,0,18,T3,,0,1,to-build,mihon,ToonBr,pt-br
+383,bibibi-comic.com,0,18,T3,,0,1,to-build,mihon,Bibibi Comic,ja
+384,bibliopanda.com,0,18,T3,,0,1,to-build,mihon,Biblio Panda,es
+385,bigcomics.jp,0,18,T3,,0,1,to-build,mihon,Big Comics,ja
+386,blacktoon.me,0,18,T3,,0,1,to-build,mihon,블랙툰,ko
+387,bladetoons.com,0,18,T3,,0,1,to-build,mihon,Bladetoons,pt-br
+388,blastwave-comic.com,0,18,T3,,0,1,to-build,mihon,Gone with the Blastwave,en
+389,bloomscans.com,0,18,T3,,0,1,to-build,mihon,Bloom Scans,es
+390,blossom-scans.com,0,18,T3,,0,1,to-build,mihon,Blossom Scans,fr
+391,bluesolo.org,0,18,T3,,0,1,to-build,mihon,Blue Solo,fr
+392,bokugents.com,0,18,T3,,0,1,to-build,mihon,BokugenTranslation,es
+393,book.dmm.co.jp,0,18,T3,,0,1,to-build,mihon,FANZA,ja
+394,book.dmm.com,0,18,T3,,0,1,to-build,mihon,DMM,ja
+395,bookwalker.com,0,18,T3,,0,1,to-build,mihon,BookWalker,en
+396,bookwalker.jp,0,18,T3,,0,1,to-build,mihon,BookWalker Japan,ja
+397,boratscans.com,0,18,T3,,0,1,to-build,mihon,Borat Scans,en
+398,br.comikey.com,0,18,T3,,0,1,to-build,mihon,Comikey Brasil,pt-br
+399,br.niadd.com,0,18,T3,,0,1,to-build,mihon,Niadd,pt-br
+400,br.novelcool.com,0,18,T3,,0,1,to-build,mihon,NovelCool,pt-br
+401,brainrotcomics.com,0,18,T3,,0,1,to-build,mihon,BrainRotComics,en
+402,bunmanga.com,0,18,T3,,0,1,to-build,mihon,Bun Manga,en
+403,cafecomyaoi.com.br,0,18,T3,,0,1,to-build,mihon,Café com Yaoi,pt-br
+404,capibaratraductor.com,0,18,T3,,0,1,to-build,mihon,CapibaraTraductor,es
+405,capitoons.com,0,18,T3,,0,1,to-build,mihon,Capitoons,pt-br
+406,caprazmanga.com,0,18,T3,,0,1,to-build,mihon,ÇaprazManga,tr
+407,ccc.vinnieveritas.com,0,18,T3,,0,1,to-build,mihon,Vinnie Veritas - CCC,en|es
+408,celestialmoonscan.es,0,18,T3,,0,1,to-build,mihon,Celestial Moon,es
+409,ch1.isekaikomik.site,0,18,T3,,0,1,to-build,mihon,IsekaiKomik,id
+410,championcross.jp,0,18,T3,,0,1,to-build,mihon,Champion Cross,ja
+411,chaostrad.fr,0,18,T3,,0,1,to-build,mihon,ChaosTrad,fr
+412,chikari.moe,0,18,T3,,0,1,to-build,aidoku,en.chikari,en
+413,ciao.shogakukan.co.jp,0,18,T3,,0,1,to-build,mihon,Ciao Plus,ja
+414,clowncorps.net,0,18,T3,,0,1,to-build,mihon,Clown Corps,en
+415,cmangax17.com,0,18,T3,,0,1,to-build,aidoku,vi.cmanga,vi
+416,cmangax18.com,0,18,T3,,0,1,to-build,mihon,CManga,vi
+417,cmanhua.com,0,18,T3,,0,1,to-build,mihon,CManhua,en
+418,cmoa.jp,0,18,T3,,0,1,to-build,mihon,C'moA,ja
+419,cocomic.co,0,18,T3,,0,1,to-build,mihon,Cocomic,en
+420,codex.readkisho.me,0,18,T3,,0,1,to-build,mihon,Codex Zero,es
+421,collectedcurios.com,0,18,T3,,0,1,to-build,mihon,Collected Curios,en
+422,colorizedmangas.com,0,18,T3,,0,1,to-build,mihon,Colorized Mangas,en
+423,comic-action.com,0,18,T3,,0,1,to-build,aidoku,ja.comicaction,ja
+424,comic-boost.com,0,18,T3,,0,1,to-build,mihon,Comic Boost,ja
+425,comic-earthstar.com,0,18,T3,,0,1,to-build,mihon,Comic Earth Star,ja
+426,comic-fuz.com,0,18,T3,,0,1,to-build,mihon,COMIC FUZ,ja
+427,comic-gardo.com,0,18,T3,,0,1,to-build,mihon,Comic Gardo,ja
+428,comic-growl.com,0,18,T3,,0,1,to-build,mihon,Comic Growl,all
+429,comic-room-base.com,0,18,T3,,0,1,to-build,mihon,Comic Room Base,ja
+430,comic-ryu.jp,0,18,T3,,0,1,to-build,mihon,Comic Ryu,ja
+431,comic-y-ours.com,0,18,T3,,0,1,to-build,mihon,Comic Y-OURs,ja
+432,comic-zenon.com,0,18,T3,,0,1,to-build,mihon,Zenon,ja
+433,comic.iowl.jp,0,18,T3,,0,1,to-build,mihon,Comic Festa,ja
+434,comic.j-nbooks.jp,0,18,T3,,0,1,to-build,mihon,J-N Books,ja
+435,comic.k-manga.jp,0,18,T3,,0,1,to-build,mihon,Manga Kingdom,ja
+436,comic.naver.com,0,18,T3,,0,1,to-build,mihon,Naver Webtoon|Naver Webtoon Best Challenge|Naver Webtoon Challenge,ko
+437,comicasura.net,0,18,T3,,0,1,to-build,mihon,Comic Asura,en
+438,comicaurora.com,0,18,T3,,0,1,to-build,mihon,Aurora,en
+439,comicborder.com,0,18,T3,,0,1,to-build,mihon,Comic Border,ja
+440,comichubfree.com,0,18,T3,,0,1,to-build,mihon,ComicHubFree,en
+441,comick.live,0,18,T3,,0,1,existing,mihon,Comick (Unoriginal),all
+442,comickfan.com,0,18,T3,,0,1,existing,mihon,ComicK Fanmade,en
+443,comicland.org,0,18,T3,,0,1,to-build,mihon,ComicLand,en
+444,comicnettai.com,0,18,T3,,0,1,to-build,mihon,Comic Nettai,ja
+445,comicpash.jp,0,18,T3,,0,1,to-build,mihon,Comic Pash,ja
+446,comicride.jp,0,18,T3,,0,1,to-build,mihon,Comic Ride,ja
+447,comics.inkr.com,0,18,T3,,0,1,to-build,mihon,INKR,en
+448,comics.manga-bang.com,0,18,T3,,0,1,to-build,mihon,MangaBang Comics,ja
+449,comikey.com,0,18,T3,,0,1,to-build,mihon,Comikey,en|es|id|pt-br
+450,comirela.com,0,18,T3,,0,1,to-build,mihon,Comirela,ja
+451,comivex.com,0,18,T3,,0,1,to-build,mihon,Comivex,en
+452,comixtopia.in.ua,0,18,T3,,0,1,to-build,mihon,ComixTopia,uk
+453,commitstrip.com,0,18,T3,,0,1,to-build,mihon,Commit Strip,en|fr
+454,coolmic.me,0,18,T3,,0,1,to-build,mihon,Coolmic,en
+455,corocoro.jp,0,18,T3,,0,1,to-build,mihon,Corocoro Online,ja
+456,cubari.moe,0,18,T3,,0,1,to-build,mihon,Cubari,all|en|other
+457,culturedworks.com,0,18,T3,,0,1,to-build,mihon,CulturedWorks,en
+458,cuutruyen.moe,0,18,T3,,0,1,to-build,mihon,CuuTruyen (unoriginal),vi
+459,cuutruyen.net,0,18,T3,,0,1,to-build,mihon,CuuTruyen,vi
+460,cycomi.com,0,18,T3,,0,1,to-build,mihon,CyComi,ja
+461,dailysuka.com,0,18,T3,,0,1,to-build,mihon,DailySuka ,id
+462,daomeoden.net,0,18,T3,,0,1,to-build,mihon,DaoMeoDen,vi
+463,darklegacycomics.com,0,18,T3,,0,1,to-build,mihon,Dark Legacy Comics,en
+464,darthsanddroids.net,0,18,T3,,0,1,to-build,mihon,Darths & Droids,en
+465,dassouscan.com,0,18,T3,,0,1,to-build,mihon,Dassou Scan,fr
+466,datgarscanlation.blogspot.com,0,18,T3,,0,1,to-build,mihon,Dat-Gar Scan,es
+467,dbook.docomo.ne.jp,0,18,T3,,0,1,to-build,mihon,Docomo,ja
+468,ddt.hastateam.com,0,18,T3,,0,1,to-build,mihon,DDT Team,it
+469,de.niadd.com,0,18,T3,,0,1,to-build,mihon,Niadd,de
+470,de.novelcool.com,0,18,T3,,0,1,to-build,mihon,NovelCool,de
+471,deatte5.com,0,18,T3,,0,1,to-build,mihon,Battle In 5 Seconds After Meeting,en
+472,despair-manga.net,0,18,T3,,0,1,to-build,mihon,Despair Manga,ar
+473,desu.uno,0,18,T3,,0,1,to-build,mihon,Desu,ru
+474,deviantart.com,0,18,T3,,0,1,to-build,mihon,DeviantArt,all
+475,dflow.alwaysdata.net,0,18,T3,,0,1,to-build,mihon,DFlowScans,en
+476,dgmanga.app,0,18,T3,,0,1,to-build,mihon,DGManga,uk
+477,dgtread.com,0,18,T3,,0,1,to-build,mihon,DigitalTeam,it
+478,diamondfansub.com,0,18,T3,,0,1,to-build,mihon,DiamondFansub,tr
+479,digitalcomicmuseum.com,0,18,T3,,0,1,to-build,mihon,Digital Comic Museum,en
+480,dilar.tube,0,18,T3,,0,1,to-build,mihon,Dilar,ar
+481,divascans.org,0,18,T3,,0,1,to-build,mihon,Diva Scans,en
+482,doctruyen3qhub.vip,0,18,T3,,0,1,to-build,mihon,DocTruyen3Q,vi
+483,dokiraw.click,0,18,T3,,0,1,to-build,mihon,Dokiraw,ja
+484,dokusho-ojikan.jp,0,18,T3,,0,1,to-build,mihon,Ameba Manga,ja
+485,dom4lfansub.online,0,18,T3,,0,1,to-build,mihon,Domal Fansub,tr
+486,doodmanga.com,0,18,T3,,0,1,to-build,mihon,Doodmanga,th
+487,dragontea.ink,0,18,T3,,0,1,to-build,mihon,DragonTea,en
+488,dragontranslation.org,0,18,T3,,0,1,to-build,mihon,DragonTranslation.org,es
+489,dresdencodak.com,0,18,T3,,0,1,to-build,mihon,Dark Science,en
+490,duskscans.com,0,18,T3,,0,1,to-build,mihon,Dusk Scans,en
+491,ebookjapan.yahoo.co.jp,0,18,T3,,0,1,to-build,mihon,eBookJapan,ja
+492,ebookstore.sony.jp,0,18,T3,,0,1,to-build,mihon,Reader Store,ja
+493,egotoons.com,0,18,T3,,0,1,to-build,mihon,Ego Toons,pt-br
+494,egscomics.com,0,18,T3,,0,1,to-build,mihon,El Goonish Shive,en
+495,elan.school,0,18,T3,,0,1,to-build,mihon,Elan School,en
+496,eldermanga.com,0,18,T3,,0,1,to-build,mihon,Elder Manga,tr
+497,emaqi.com,0,18,T3,,0,1,to-build,mihon,emaqi,en
+498,empreguetes.wtf,0,18,T3,,0,1,to-build,mihon,Maid Scan,pt-br
+499,en-hijala.com,0,18,T3,,0,1,to-build,mihon,Hijala Scans,en
+500,en-thunderscans.com,0,18,T3,,0,1,to-build,mihon,Thunder Scans,en
+501,enchiladascan.github.io,0,18,T3,,0,1,to-build,mihon,EnchiladaScan,es
+502,epsilonsoft.to,0,18,T3,,0,1,to-build,mihon,Soft Epsilon Scan,fr
+503,erisscans.com,0,18,T3,,0,1,to-build,mihon,Eris Scans,en
+504,es.niadd.com,0,18,T3,,0,1,to-build,mihon,Niadd,es
+505,es.novelcool.com,0,18,T3,,0,1,to-build,mihon,NovelCool,es
+506,es.xkcd.com,0,18,T3,,0,1,to-build,mihon,xkcd,es
+507,eshadow.net,0,18,T3,,0,1,to-build,mihon,EShadow,ar
+508,eskimangalar.com,0,18,T3,,0,1,to-build,mihon,Eski Mangalar,tr
+509,evascans.net,0,18,T3,,0,1,to-build,mihon,Eva Scans,en
+510,existentialcomics.com,0,18,T3,,0,1,to-build,mihon,Existential Comics,en
+511,explosm.net,0,18,T3,,0,1,to-build,mihon,Cyanide & Happiness,en
+512,fairyscans.org,0,18,T3,,0,1,to-build,mihon,Fairy Scans,en
+513,fanfox.net,0,18,T3,,0,1,to-build,mihon,MangaFox,en
+514,fastscan.org,0,18,T3,,0,1,to-build,mihon,FastScan,vi
+515,faust-web.com,0,18,T3,,0,1,to-build,mihon,Faust,uk
+516,fin-manga.com,0,18,T3,,0,1,to-build,mihon,Fin Manga,th
+517,firecross.jp,0,18,T3,,0,1,to-build,mihon,FireCross,ja
+518,flowercomics.jp,0,18,T3,,0,1,to-build,mihon,Flower Comics,ja
+519,flowermanga.net,0,18,T3,,0,1,to-build,aidoku,pt.flowermanga,pt
+520,flowermangas.net,0,18,T3,,0,1,to-build,mihon,FlowerManga.net,pt-br
+521,fr.niadd.com,0,18,T3,,0,1,to-build,mihon,Niadd,fr
+522,fr.novelcool.com,0,18,T3,,0,1,to-build,mihon,NovelCool,fr
+523,freewebnovel.com,0,18,T3,,0,1,to-build,aidoku,en.freewebnovel,en
+524,frieren.online,0,18,T3,,0,1,to-build,mihon,Frieren Online,en
+525,furyosociety.com,0,18,T3,,0,1,to-build,mihon,FuryoSquad,fr
+526,g-comi.jp,0,18,T3,,0,1,to-build,mihon,G-Comi,ja
+527,gafeland.com,0,18,T3,,0,1,to-build,mihon,gafeland,tr
+528,gaiatoon.com,0,18,T3,,0,1,to-build,mihon,Gaiatoon,tr
+529,gakamangas.com,0,18,T3,,0,1,to-build,mihon,GakaMangas,en
+530,galaxscanlator.blogspot.com,0,18,T3,,0,1,to-build,mihon,GALAX Scans,pt-br
+531,galaxymanga.io,0,18,T3,,0,1,to-build,mihon,Galaxy Manga,en
+532,ganganonline.com,0,18,T3,,0,1,to-build,mihon,Gangan Online,ja
+533,ganma.jp,0,18,T3,,0,1,to-build,mihon,GANMA!,ja
+534,gantzvn.com,0,18,T3,,0,1,to-build,mihon,GantzVN,vi
+535,garciamanga.com,0,18,T3,,0,1,to-build,mihon,Garcia Manga,tr
+536,gdscans.com,0,18,T3,,0,1,to-build,mihon,GalaxyDegenScans,en
+537,geasscomics.xyz,0,18,T3,,0,1,to-build,mihon,Geass Comics,pt-br
+538,genztoons.org,0,18,T3,,0,1,to-build,mihon,Genz Toons,en
+539,ghostoon.com,0,18,T3,,0,1,to-build,mihon,GhosToon,tr
+540,ghostscan.xyz,0,18,T3,,0,1,to-build,mihon,Ghost Scan,pt-br
+541,giantitp.com,0,18,T3,,0,1,to-build,mihon,The Order Of The Stick (OOTS),en
+542,gistamishousefansub.blogspot.com,0,18,T3,,0,1,to-build,mihon,Gistamis House,es
+543,global.manga-up.com,0,18,T3,,0,1,to-build,mihon,Manga UP!,en
+544,goctruyentranh.com,0,18,T3,,0,1,to-build,mihon,GocTruyenTranh,vi
+545,goctruyentranhvui41.com,0,18,T3,,0,1,to-build,mihon,Goc Truyen Tranh Vui,vi
+546,gojoscans.com,0,18,T3,,0,1,to-build,mihon,Greed Scans,en
+547,golgebahcesi.com,0,18,T3,,0,1,to-build,mihon,Gölge Bahçesi,tr
+548,gorakuweb.com,0,18,T3,,0,1,to-build,mihon,Goraku Web,ja
+549,gourmetsupremacy.com,0,18,T3,,0,1,to-build,mihon,Gourmet Scans,en
+550,gremoryhistorias.org,0,18,T3,,0,1,to-build,mihon,Gremory Mangas,es
+551,grimscans.com,0,18,T3,,0,1,to-build,mihon,Grim Scans,en
+552,grrlpowercomic.com,0,18,T3,,0,1,to-build,mihon,Grrl Power Comic,en
+553,gunnerkrigg.com,0,18,T3,,0,1,to-build,mihon,Gunnerkrigg Court,en
+554,hachiraw.net,0,18,T3,,0,1,to-build,mihon,Hachiraw,ja
+555,hachiraw.win,0,18,T3,,0,1,to-build,mihon,Manga1000,ja
+556,hachirumi.com,0,18,T3,,0,1,to-build,mihon,Hachirumi,en
+557,hadesscans.com,0,18,T3,,0,1,to-build,mihon,Hades Scans,en
+558,hanayume.com,0,18,T3,,0,1,to-build,mihon,Hana To Yume+,ja
+559,hanmokkuscan.blogspot.com,0,18,T3,,0,1,to-build,mihon,Hanmokku Scan,pt-br
+560,harmony-scan.fr,0,18,T3,,0,1,to-build,mihon,Harmony-Scan,fr
+561,hattoriscans.com,0,18,T3,,0,1,to-build,mihon,Hattori Scans,tr
+562,hayacomic.jp,0,18,T3,,0,1,to-build,mihon,HAYA Comic,ja
+563,hayalistic.online,0,18,T3,,0,1,to-build,mihon,Hayalistic,tr
+564,heavenmanga.com,0,18,T3,,0,1,to-build,mihon,HeavenManga,es
+565,hennoveltranslations.com,0,18,T3,,0,1,to-build,aidoku,en.hennoveltranslations,en
+566,heros-web.com,0,18,T3,,0,1,to-build,mihon,HERO'S Web,ja
+567,hijala.com,0,18,T3,,0,1,to-build,mihon,Hijala,ar
+568,hiperdex.tv,0,18,T3,,0,1,to-build,mihon,Hiperdex,en
+569,hipertoon.com,0,18,T3,,0,1,to-build,mihon,Hipertoon,pt-br
+570,hiveworkscomics.com,0,18,T3,,0,1,to-build,mihon,Hiveworks Comics,en
+571,hizomanga.net,0,18,T3,,0,1,to-build,mihon,Hizo Manga,ar
+572,hni-scantrad.net,0,18,T3,,0,1,to-build,mihon,HNI-Scantrad,all
+573,holodek.run,0,18,T3,,0,1,to-build,mihon,Holotoon,id
+574,holoearth.com,0,18,T3,,0,1,to-build,mihon,HOLONOMETRIA,en|id|ja
+575,honey-manga.com.ua,0,18,T3,,0,1,to-build,mihon,HoneyManga,uk
+576,honeytoon.com,0,18,T3,,0,1,to-build,mihon,Honeytoon,de|en|es|fr|it|pt-br
+577,hotcabaretscan.com,0,18,T3,,0,1,to-build,mihon,Hot Cabaret Scan,pt-br
+578,houseofotakusv2.xyz,0,18,T3,,0,1,to-build,mihon,House Of Otakus,es
+579,housesaikai.net,0,18,T3,,0,1,to-build,mihon,Saikai Scan,pt-br
+580,hq-now.com,0,18,T3,,0,1,to-build,mihon,HQ Now!,pt-br
+581,hunlightcomics.com,0,18,T3,,0,1,to-build,mihon,Hunlight Comics,en
+582,hyakuro.net,0,18,T3,,0,1,to-build,mihon,Hyakuro Translations,en
+583,ichicomi.com,0,18,T3,,0,1,to-build,mihon,Ichicomi,ja
+584,id.mgkomik.cc,0,18,T3,,0,1,to-build,mihon,MG Komik,id
+585,im.manga-chan.me,0,18,T3,,0,1,to-build,mihon,MangaChan,ru
+586,imanevilgod.com,0,18,T3,,0,1,to-build,mihon,I'm An Evil God,en
+587,imperiodabritannia.net,0,18,T3,,0,1,to-build,mihon,Sagrado Império da Britannia,pt-br
+588,imperiomanhua.com,0,18,T3,,0,1,to-build,mihon,Emperor Scan,es
+589,infinity896.blogspot.com,0,18,T3,,0,1,to-build,mihon,Orca Manga,ar
+590,infinityscans.org,0,18,T3,,0,1,to-build,mihon,InfinityScans,en
+591,infrafandub.com,0,18,T3,,0,1,to-build,mihon,InfraFandub,es
+592,inkstory.net,0,18,T3,,0,1,to-build,mihon,InkStory,ru
+593,inmanga.com,0,18,T3,,0,1,to-build,mihon,InManga,es
+594,insanoslibrary.com,0,18,T3,,0,1,to-build,mihon,InsanosScan,es
+595,inventariooculto.com,0,18,T3,,0,1,to-build,mihon,Inventario Oculto,es
+596,isekaiscan.top,0,18,T3,,0,1,to-build,mihon,IsekaiScan.top (unoriginal),en
+597,it.niadd.com,0,18,T3,,0,1,to-build,mihon,Niadd,it
+598,it.novelcool.com,0,18,T3,,0,1,to-build,mihon,NovelCool,it
+599,izanamiscans.my.id,0,18,T3,,0,1,to-build,mihon,Izanami Scans,id
+600,izneo.com,0,18,T3,,0,1,to-build,mihon,izneo,en|fr
+601,j-novel.club,0,18,T3,,0,1,to-build,mihon,J-Novel,en
+602,japscan.foo,0,18,T3,,0,1,to-build,mihon,Japscan,fr
+603,jinmangas.com,0,18,T3,,0,1,to-build,mihon,Jinmangas,en
+604,jmanga.cyou,0,18,T3,,0,1,to-build,mihon,Jmanga,ja
+605,jolleycomics.com,0,18,T3,,0,1,to-build,mihon,The Property of Hate,en
+606,juinjutsureader.ovh,0,18,T3,,0,1,to-build,mihon,Juin Jutsu Team Reader,it
+607,jumptoon.com,0,18,T3,,0,1,to-build,mihon,Jump Toon,ja
+608,kaliscan.com,0,18,T3,,0,1,to-build,mihon,KaliScan,en
+609,kamicomi.com,0,18,T3,,0,1,to-build,mihon,KamiComic,vi
+610,kansai.mag-garden.co.jp,0,18,T3,,0,1,to-build,mihon,MagKan,ja
+611,kappabeast.com,0,18,T3,,0,1,to-build,mihon,Kappa Beast,en
+612,kawaiimanga.org,0,18,T3,,0,1,to-build,mihon,Kawii Manga,ar
+613,kaynscans.com,0,18,T3,,0,1,to-build,mihon,Kayn Scans,en
+614,kazokuden.com,0,18,T3,,0,1,to-build,mihon,Kazoku Den,es
+615,kencomics.com,0,18,T3,,0,1,to-build,mihon,Ken Scans,en
+616,kewnscans.org,0,18,T3,,0,1,to-build,mihon,Kewn Scans,en
+617,killsixbilliondemons.com,0,18,T3,,0,1,to-build,mihon,KillSixBillionDemons,en
+618,kimicomi.com,0,18,T3,,0,1,to-build,mihon,KimiComi,ja
+619,kingofshojo.com,0,18,T3,,0,1,to-build,mihon,King of Shojo,en
+620,kirapo.jp,0,18,T3,,0,1,to-build,mihon,Kiraboshi,ja
+621,kiraproject.lat,0,18,T3,,0,1,to-build,mihon,Harem de Kira,es
+622,kissmanga.in,0,18,T3,,0,1,to-build,mihon,Kissmanga.in,en
+623,kitsuneyako.com,0,18,T3,,0,1,to-build,mihon,Point Zero Toons,pt-br
+624,kivaratoons.com,0,18,T3,,0,1,to-build,mihon,KivaraToons,pt-br
+625,kiwiyascans.com,0,18,T3,,0,1,to-build,mihon,Kiwiya Scans,fr
+626,klikmanga.org,0,18,T3,,0,1,to-build,mihon,KlikManga,id
+627,klraw.info,0,18,T3,,0,1,to-build,mihon,KL Raw,ja
+628,klto9.com,0,18,T3,,0,1,to-build,mihon,Klto9,ja
+629,klz9.com,0,18,T3,,0,1,to-build,mihon,KissLove,ja
+630,kmanga.kodansha.com,0,18,T3,,0,1,to-build,mihon,K Manga,en
+631,kmansin09.top,0,18,T3,,0,1,to-build,mihon,Kmansin09,ja
+632,kodansha.us,0,18,T3,,0,1,to-build,mihon,Kodansha,en
+633,kodokustudio.com,0,18,T3,,0,1,to-build,mihon,Kodoku Studio,all
+634,kokomangas.com,0,18,T3,,0,1,to-build,mihon,KokoMangas,en
+635,komikindo.ch,0,18,T3,,0,1,to-build,mihon,KomikIndoID,id
+636,komiknextgonline.com,0,18,T3,,0,1,to-build,mihon,Komik Next G Online,id
+637,komiksin.net,0,18,T3,,0,1,to-build,aidoku,id.komiksin,id
+638,komikstation.org,0,18,T3,,0,1,to-build,mihon,Komik Station,id
+639,komiku.org,0,18,T3,,0,1,to-build,mihon,Komiku,id
+640,komikzoid.id,0,18,T3,,0,1,to-build,mihon,Komikzoid,id
+641,korelimanga.com,0,18,T3,,0,1,to-build,mihon,Koreli Manga,tr
+642,ksgroupscans.com,0,18,T3,,0,1,to-build,mihon,KSGroupScans,en
+643,kumaraw.com,0,18,T3,,0,1,to-build,mihon,Kumaraw,ja
+644,kunmanga.online,0,18,T3,,0,1,to-build,mihon,Kun Manga Online,en
+645,kuragebunch.com,0,18,T3,,0,1,to-build,mihon,Kurage Bunch,ja
+646,kuramanga.com,0,18,T3,,0,1,to-build,mihon,KuraManga,en
+647,kuromanga.id,0,18,T3,,0,1,to-build,mihon,Kuro Manga,id
+648,kuromangas.com,0,18,T3,,0,1,to-build,mihon,KuroMangas,pt-br
+649,lagoonscans.com,0,18,T3,,0,1,to-build,mihon,Lagoon Scans,en
+650,lanhlungteam3.top,0,18,T3,,0,1,to-build,mihon,Team Lạnh Lùng,vi
+651,lanortrad.com,0,18,T3,,0,1,to-build,mihon,LanorTrad,fr
+652,lavascans.com,0,18,T3,,0,1,to-build,mihon,Lava Scans,ar
+653,lector.ragnascan.xyz,0,18,T3,,0,1,to-build,mihon,Ragna Scans,es
+654,lectorhades.latamtoon.com,0,18,T3,,0,1,to-build,mihon,Hades no Fansub,es
+655,lectorhub.j5z.xyz,0,18,T3,,0,1,to-build,mihon,Jeaz Scans,es
+656,lectormangass.com,0,18,T3,,0,1,to-build,mihon,LectorManga.lat,es
+657,lectortaurus.com,0,18,T3,,0,1,to-build,mihon,Taurus Fansub,es
+658,leemiau.com,0,18,T3,,0,1,to-build,mihon,Miau Scan,es|pt-br
+659,leercapitulo.co,0,18,T3,,0,1,to-build,mihon,LeerCapitulo,es
+660,legionscans.com,0,18,T3,,0,1,to-build,mihon,Cerberus Series,es
+661,leitor.borutoexplorer.com.br,0,18,T3,,0,1,to-build,mihon,Boruto Explorer,pt-br
+662,leitor.kamisama.com.br,0,18,T3,,0,1,to-build,mihon,Kami Sama Explorer,pt-br
+663,leitordemangas.com,0,18,T3,,0,1,to-build,mihon,Leitor de Mangas,pt-br
+664,leituramanga.net,0,18,T3,,0,1,to-build,mihon,Leitura Mangá,pt-br
+665,lelmanga.com,0,18,T3,,0,1,to-build,mihon,Lelmanga,fr
+666,lelscanfr.com,0,18,T3,,0,1,to-build,mihon,Lelscan-VF,fr
+667,lelscans.net,0,18,T3,,0,1,to-build,mihon,Lelscan,fr
+668,lepoytl.my.id,0,18,T3,,0,1,to-build,mihon,LepoyTL,id
+669,ler999.blogspot.com,0,18,T3,,0,1,to-build,mihon,Ler 999,pt-br
+670,leslie-victims.pages.dev,0,18,T3,,0,1,to-build,mihon,Leslie&Victims,en
+671,lesporoiniens.org,0,18,T3,,0,1,to-build,mihon,Les Poroiniens,fr
+672,lhtranslation.net,0,18,T3,,0,1,to-build,mihon,LHTranslation,en
+673,likemanga.ink,0,18,T3,,0,1,to-build,mihon,LikeManga,en
+674,lilymanga.net,0,18,T3,,0,1,to-build,mihon,Lily Manga,en
+675,limonmanga.com,0,18,T3,,0,1,to-build,mihon,Limon Manga,tr
+676,link-manga.net,0,18,T3,,0,1,to-build,mihon,مانجا لينك,ar
+677,linkmanga.com,0,18,T3,,0,1,to-build,mihon,LinkManga,en
+678,lmtos.net,0,18,T3,,0,1,to-build,mihon,Lmtos,es
+679,loadingartist.com,0,18,T3,,0,1,to-build,mihon,Loading Artist,en
+680,loner-tl.blogspot.com,0,18,T3,,0,1,to-build,mihon,Loner Translations,ar
+681,loppytoonn.com,0,18,T3,,0,1,to-build,mihon,LoppyToon,vi
+682,love4u.net,0,18,T3,,0,1,to-build,mihon,Love4u,ja
+683,luacomic.org,0,18,T3,,0,1,to-build,mihon,Lua Scans,en
+684,luminaretranslations.com,0,18,T3,,0,1,to-build,mihon,Luminare Translations,en
+685,lunapiecesfansub.com,0,18,T3,,0,1,to-build,mihon,Luna Pieces,es
+686,lunatoons.org,0,18,T3,,0,1,to-build,mihon,Luna Toons,en
+687,luottruyen999.com,0,18,T3,,0,1,to-build,mihon,LuotTruyen,vi
+688,lupiteam.net,0,18,T3,,0,1,to-build,mihon,LupiTeam,it
+689,luratoons.net,0,18,T3,,0,1,to-build,mihon,Lura Toon,pt-br
+690,lustoon.com,0,18,T3,,0,1,to-build,mihon,LustToon,en
+691,luvevalands2.co,0,18,T3,,0,1,to-build,mihon,LuvEvaLand,vi
+692,lycantoons.com,0,18,T3,,0,1,to-build,mihon,Lycan Toons,pt-br
+693,m440.in,0,18,T3,,0,1,to-build,mihon,Mangas.in,es
+694,madaradex.org,0,18,T3,,0,1,to-build,mihon,MadaraDex,en
+695,madarascans.org,0,18,T3,,0,1,to-build,mihon,Madara Scans,en
+696,magcomi.com,0,18,T3,,0,1,to-build,mihon,MAGCOMI,ja
+697,mahoushoujobu.com,0,18,T3,,0,1,to-build,mihon,Magical Translators,en|es|pl
+698,maid.my.id,0,18,T3,,0,1,to-build,mihon,Maid - Manga,id
+699,makimaaaaa.com,0,18,T3,,0,1,to-build,mihon,Makimaaaaa,th
+700,manga-5.com,0,18,T3,,0,1,to-build,mihon,Manga-5,ja
+701,manga-ai-land.blogspot.com,0,18,T3,,0,1,to-build,mihon,Manga Ai Land,ar
+702,manga-corporation.com,0,18,T3,,0,1,to-build,mihon,Manga-Corporation,fr
+703,manga-lc.net,0,18,T3,,0,1,to-build,mihon,Manga-Lc,th
+704,manga-lionz.org,0,18,T3,,0,1,to-build,mihon,MangaLionz,ar
+705,manga-mee.jp,0,18,T3,,0,1,to-build,mihon,MangaMee,ja
+706,manga-meets.jp,0,18,T3,,0,1,to-build,mihon,MangaMeets,ja
+707,manga-no.com,0,18,T3,,0,1,to-build,mihon,MangaNo,ja
+708,manga-nova.com,0,18,T3,,0,1,to-build,mihon,MangaNova,fr
+709,manga-one.com,0,18,T3,,0,1,to-build,mihon,Manga One,ja
+710,manga-oni.com,0,18,T3,,0,1,to-build,mihon,MangaOni,es
+711,manga-park.com,0,18,T3,,0,1,to-build,mihon,Manga-Park,ja
+712,manga-scantrad.io,0,18,T3,,0,1,to-build,mihon,Manga-Scantrad,fr
+713,manga-sehri.net,0,18,T3,,0,1,to-build,mihon,Manga Şehri.net,tr
+714,manga-shi.org,0,18,T3,,0,1,to-build,mihon,Manga-shi,ru
+715,manga-tr.com,0,18,T3,,0,1,to-build,mihon,Manga-TR,tr
+716,manga-tube.me,0,18,T3,,0,1,to-build,mihon,Manga Tube,de
+717,manga-up.com,0,18,T3,,0,1,to-build,mihon,Manga UP! (Japan),ja
+718,manga-zegra.com,0,18,T3,,0,1,to-build,mihon,Manga Zegra,ja
+719,manga.clone-army.org,0,18,T3,,0,1,to-build,mihon,Clone Manga,en
+720,manga.d34d.one,0,18,T3,,0,1,to-build,mihon,Monochrome Scans,en
+721,manga.detectiveconanar.com,0,18,T3,,0,1,to-build,mihon,شبكة كونان العربية,ar
+722,manga.fansubs.cat,0,18,T3,,0,1,to-build,mihon,Fansubs.cat,ca
+723,manga.fod.fujitv.co.jp,0,18,T3,,0,1,to-build,mihon,FOD,ja
+724,manga.honkaiimpact3.com,0,18,T3,,0,1,to-build,mihon,Honkai Impact 3rd,en
+725,manga.in.ua,0,18,T3,,0,1,to-build,mihon,MANGA/in/UA,uk
+726,manga.line.me,0,18,T3,,0,1,to-build,mihon,Line Manga,ja
+727,manga.nicovideo.jp,0,18,T3,,0,1,to-build,aidoku,ja.nicovideoseiga,ja
+728,manga.uno,0,18,T3,,0,1,to-build,mihon,Manga.uno,en
+729,manga1688.com,0,18,T3,,0,1,to-build,mihon,Manga168,th
+730,mangabahcesi.com,0,18,T3,,0,1,to-build,mihon,Manga Bahçesi,tr
+731,mangablackcat.com,0,18,T3,,0,1,to-build,mihon,MangaBlackCat,th
+732,mangablaze.com,0,18,T3,,0,1,to-build,mihon,MangaBlaze,en
+733,mangabolt.com,0,18,T3,,0,1,to-build,mihon,MangaBolt,en
+734,mangabu.jp,0,18,T3,,0,1,to-build,mihon,MangaBu,ja
+735,mangabuff.ru,0,18,T3,,0,1,to-build,mihon,MangaBuff,ru
+736,mangacanblog.com,0,18,T3,,0,1,to-build,mihon,Manga Can,id
+737,mangack.com,0,18,T3,,0,1,to-build,mihon,Mangack,en
+738,mangacloud.online,0,18,T3,,0,1,to-build,mihon,MangaCloud,ar
+739,mangacloud.org,0,18,T3,,0,1,to-build,mihon,MangaCloud,en
+740,mangacrab.org,0,18,T3,,0,1,to-build,mihon,Manga Crab,es
+741,mangadar.com,0,18,T3,,0,1,to-build,mihon,MangaDar,ar
+742,mangadash.net,0,18,T3,,0,1,to-build,mihon,MangaDash,pt-br
+743,mangadass.com,0,18,T3,,0,1,to-build,mihon,Manga Dass,en
+744,mangade.io,0,18,T3,,0,1,existing,mihon,MangaDE,en
+745,mangadenizi.net,0,18,T3,,0,1,to-build,mihon,MangaDenizi,tr
+746,mangadia.com,0,18,T3,,0,1,to-build,mihon,MangaDia,en
+747,mangadiyari.com,0,18,T3,,0,1,to-build,mihon,Manga Diyarı,tr
+748,mangadna.com,0,18,T3,,0,1,to-build,mihon,MangaDNA,all|en
+749,mangadraft.com,0,18,T3,,0,1,to-build,mihon,MangaDraft,all
+750,mangaflix.net,0,18,T3,,0,1,to-build,mihon,MangaFlix,pt-br
+751,mangafox.fun,0,18,T3,,0,1,to-build,mihon,MangaFox.fun,en
+752,mangagg.com,0,18,T3,,0,1,to-build,mihon,MangaGG,en
+753,mangago.fun,0,18,T3,,0,1,to-build,mihon,MangaGo.fun,en
+754,mangahe.com,0,18,T3,,0,1,to-build,mihon,MangaHe,en
+755,mangahere.cc,0,18,T3,,0,1,to-build,mihon,Mangahere,en
+756,mangahere.onl,0,18,T3,,0,1,to-build,mihon,MangaHere.onl,en
+757,mangahona.pl,0,18,T3,,0,1,to-build,mihon,MangaHoNa,pl
+758,mangahub.fr,0,18,T3,,0,1,to-build,mihon,MangaHub.fr,fr
+759,mangahub.io,0,18,T3,,0,1,to-build,mihon,MangaHub,en
+760,mangahub.ru,0,18,T3,,0,1,to-build,mihon,Mangahub,ru
+761,mangaisekaithai.net,0,18,T3,,0,1,to-build,mihon,MangaIsekaiThai,th
+762,mangak.io,0,18,T3,,0,1,to-build,mihon,MangaK,en
+763,mangaka.cc,0,18,T3,,0,1,to-build,mihon,MangaKa,en
+764,mangakakalot.fun,0,18,T3,,0,1,to-build,mihon,Mangakakalot.fun,en
+765,mangakatana.com,0,18,T3,,0,1,to-build,mihon,MangaKatana,en
+766,mangakawaii.fr,0,18,T3,,0,1,to-build,mihon,Mangakawaii,fr
+767,mangakimi.com,0,18,T3,,0,1,to-build,mihon,MangaKimi,th
+768,mangakiss.org,0,18,T3,,0,1,to-build,mihon,Manga Kiss,en
+769,mangakuro.net,0,18,T3,,0,1,to-build,mihon,MangaKuro,ja
+770,mangakusu.com,0,18,T3,,0,1,to-build,mihon,Manga Kusu,tr
+771,mangalay.blogspot.com,0,18,T3,,0,1,to-build,mihon,Mangalay,id
+772,mangalect.org,0,18,T3,,0,1,to-build,mihon,LeerMangaEsp,es
+773,mangalib.me,0,18,T3,,0,1,to-build,mihon,MangaLib,ru
+774,mangalik.net,0,18,T3,,0,1,to-build,mihon,مانجا ليك,ar
+775,mangalivre.blog,0,18,T3,,0,1,to-build,mihon,Manga Livre Blog,pt-br
+776,mangalivre.org,0,18,T3,,0,1,to-build,mihon,MangaLivre.org,pt-br
+777,mangalix.com,0,18,T3,,0,1,to-build,mihon,MangaLix,en
+778,mangalt.jp,0,18,T3,,0,1,to-build,mihon,Mangalt,ja
+779,mangamelon.com,0,18,T3,,0,1,to-build,mihon,MangaMelon,en
+780,mangamen.com,0,18,T3,,0,1,to-build,mihon,MangaMen,ru
+781,mangamirai.com,0,18,T3,,0,1,to-build,mihon,Manga Mirai,en
+782,mangamo.com,0,18,T3,,0,1,to-build,mihon,Mangamo,en
+783,mangamoins.com,0,18,T3,,0,1,to-build,mihon,MangaMoins,fr
+784,mangamukai.com,0,18,T3,,0,1,to-build,mihon,Manga Mukai,es
+785,manganato.gg,0,18,T3,,0,1,to-build,aidoku,en.manganato,en
+786,manganel.me,0,18,T3,,0,1,to-build,mihon,MangaNel,en
+787,manganow.to,0,18,T3,,0,1,to-build,mihon,MangaNow,en
+788,manganyx.com,0,18,T3,,0,1,to-build,mihon,Manga NXY,pt-br
+789,mangaonline.fun,0,18,T3,,0,1,to-build,mihon,MangaOnline.fun,en
+790,mangaonline.green,0,18,T3,,0,1,to-build,mihon,Manga Online,pt-br
+791,mangaowl.io,0,18,T3,,0,1,to-build,mihon,MangaOwl.io (unoriginal),en
+792,mangapanda.onl,0,18,T3,,0,1,to-build,mihon,MangaPanda.onl,en
+793,mangapdf.org,0,18,T3,,0,1,to-build,mihon,MANGAPDF,en
+794,mangapill.com,0,18,T3,,0,1,to-build,mihon,MangaPill,en
+795,mangaplus-creators.jp,0,18,T3,,0,1,to-build,mihon,MANGA Plus Creators by SHUEISHA,en|es
+796,mangapoisk.me,0,18,T3,,0,1,to-build,mihon,MangaPoisk,ru
+797,mangaportali.com,0,18,T3,,0,1,to-build,mihon,Manga Portalı,tr
+798,mangarama.com.ua,0,18,T3,,0,1,to-build,mihon,Mangarama,uk
+799,mangaraw.best,0,18,T3,,0,1,to-build,aidoku,ja.mangarawbest,ja
+800,mangarawjp.tv,0,18,T3,,0,1,to-build,aidoku,ja.mangarawjp,ja
+801,mangareader.in,0,18,T3,,0,1,to-build,mihon,MangaReader.in,en
+802,mangareader.site,0,18,T3,,0,1,to-build,mihon,MangaReader.site,en
+803,mangaromance19.com,0,18,T3,,0,1,to-build,mihon,Manga Romance,es
+804,mangas-origines.fr,0,18,T3,,0,1,to-build,mihon,Mangas-Origines.fr,fr
+805,mangasbrasuka.org,0,18,T3,,0,1,to-build,mihon,Mangas Brasuka,pt-br
+806,mangasect.net,0,18,T3,,0,1,to-build,aidoku,en.mangasect,en
+807,mangasnosekai.com,0,18,T3,,0,1,to-build,mihon,Mangas No Sekai,es
+808,mangaspa.nikkan-spa.jp,0,18,T3,,0,1,to-build,mihon,Manga SPA,ja
+809,mangastep.com,0,18,T3,,0,1,to-build,mihon,Mangastep,th
+810,mangastop.net,0,18,T3,,0,1,to-build,mihon,Manga Stop,pt-br
+811,mangasushi.org,0,18,T3,,0,1,to-build,mihon,Mangasushi,en
+812,mangatales.com,0,18,T3,,0,1,to-build,mihon,Manga Tales,ar
+813,mangataro.org,0,18,T3,,0,1,to-build,mihon,MangaTaro,en
+814,mangatek.com,0,18,T3,,0,1,to-build,mihon,MangaTek,ar
+815,mangatime.org,0,18,T3,,0,1,to-build,mihon,MangaTime,ar
+816,mangatoday.fun,0,18,T3,,0,1,to-build,mihon,MangaToday,en
+817,mangatop.org,0,18,T3,,0,1,to-build,mihon,Top Manhua,en
+818,mangatown.com,0,18,T3,,0,1,to-build,mihon,Mangatown,en
+819,mangatrend.org,0,18,T3,,0,1,to-build,mihon,Manga Trend,en
+820,mangatuk.com,0,18,T3,,0,1,to-build,mihon,MangaTuk,ar
+821,mangatv.net,0,18,T3,,0,1,to-build,mihon,Manga  TV,es
+822,mangavyvy.net,0,18,T3,,0,1,to-build,mihon,VyvyManga,en
+823,mangawow.org,0,18,T3,,0,1,to-build,mihon,MangaWOW,tr
+824,mangawt.com,0,18,T3,,0,1,to-build,mihon,MangaWT,tr
+825,mangayi.com,0,18,T3,,0,1,to-build,mihon,MangaYi,en
+826,mangayy.org,0,18,T3,,0,1,to-build,mihon,MangaYY,en
+827,mangazin.org,0,18,T3,,0,1,to-build,mihon,Zinmanga,en
+828,mangazure.net,0,18,T3,,0,1,to-build,mihon,MangaZure,tr
+829,mangeek.app,0,18,T3,,0,1,to-build,mihon,ManGeek,pt-br
+830,mangolibreria.com,0,18,T3,,0,1,to-build,mihon,MangoLibreria,es
+831,mangotoons.com,0,18,T3,,0,1,to-build,mihon,Mango Toons,pt-br
+832,manhatok.blogspot.com,0,18,T3,,0,1,to-build,mihon,Manhatok,ar
+833,manhua3q.com,0,18,T3,,0,1,to-build,aidoku,vi.truyen3q,vi
+834,manhuabug.com,0,18,T3,,0,1,to-build,mihon,ManhuaBug,th
+835,manhuafast.net,0,18,T3,,0,1,to-build,mihon,ManhuaFast.net (unoriginal),en
+836,manhuagold.top,0,18,T3,,0,1,to-build,aidoku,en.manhuagold,en
+837,manhuahot.com,0,18,T3,,0,1,to-build,mihon,ManhuaHot,en
+838,manhuakey.com,0,18,T3,,0,1,to-build,mihon,ManhuaKey,th
+839,manhuako.net,0,18,T3,,0,1,to-build,mihon,Dynasty,es
+840,manhuanext.com,0,18,T3,,0,1,to-build,mihon,Manhuanext,en
+841,manhuaplus.com,0,18,T3,,0,1,to-build,mihon,Manhua Plus,en
+842,manhuarmtl.com,0,18,T3,,0,1,to-build,mihon,Manhuarm,ar|en|es|fr|id|it|pt-br
+843,manhuarush.vercel.app,0,18,T3,,0,1,to-build,mihon,Manhua Rush,en
+844,manhuascans.org,0,18,T3,,0,1,existing,mihon,Goda,en
+845,manhuathai.com,0,18,T3,,0,1,to-build,mihon,ManhuaThai,th
+846,manhuatop.org,0,18,T3,,0,1,to-build,mihon,ManhuaTop,en
+847,manhuaus.com,0,18,T3,,0,1,to-build,mihon,ManhuaUS,en
+848,manhwa-latino.com,0,18,T3,,0,1,to-build,mihon,Manhwa-Latino,es
+849,manhwabreakup.com,0,18,T3,,0,1,to-build,mihon,ManhwaBreakup,th
+850,manhwabuddy.com,0,18,T3,,0,1,to-build,mihon,ManhwaBuddy,en
+851,manhwaget.com,0,18,T3,,0,1,to-build,mihon,ManhwaGet,en
+852,manhwahub.net,0,18,T3,,0,1,to-build,mihon,ManhwaHub,en
+853,manhwaindo.my,0,18,T3,,0,1,to-build,mihon,Manhwa Indo,id
+854,manhwalist.asia,0,18,T3,,0,1,to-build,mihon,Manhwa List,id
+855,manhwalist02.site,0,18,T3,,0,1,to-build,aidoku,id.manhwalist,id
+856,manhwanex.com,0,18,T3,,0,1,to-build,mihon,ManhwaNex,en
+857,manhwaread.com,0,18,T3,,0,1,to-build,mihon,ManhwaRead,en
+858,manhwareads.com,0,18,T3,,0,1,to-build,mihon,Manhwa Reads,en
+859,manhwatoon.me,0,18,T3,,0,1,to-build,mihon,Manhwa Toon,en
+860,manhwatop.com,0,18,T3,,0,1,to-build,mihon,Manhwatop,en
+861,manhwaweb.com,0,18,T3,,0,1,to-build,mihon,ManhwaWeb,es
+862,manhwax.top,0,18,T3,,0,1,to-build,aidoku,en.manhwax,en
+863,manhwaz.com,0,18,T3,,0,1,to-build,mihon,ManhwaZ,en
+864,manhwazone.com,0,18,T3,,0,1,to-build,mihon,ManhwaZone,en
+865,manta.net,0,18,T3,,0,1,to-build,mihon,Manta,en|es
+866,mantrazscan.co,0,18,T3,,0,1,to-build,mihon,Mantraz Scan,es
+867,marmota.me,0,18,T3,,0,1,to-build,mihon,Marmota,es
+868,mayochuu.xyz,0,18,T3,,0,1,to-build,mihon,MayoTune,en|ja
+869,mechacomi.jp,0,18,T3,,0,1,to-build,mihon,Manga Saison,ja
+870,mechacomic.jp,0,18,T3,,0,1,to-build,mihon,Mecha Comic,ja
+871,megatokyo.com,0,18,T3,,0,1,to-build,mihon,Megatokyo,en
+872,meitoon.org,0,18,T3,,0,1,to-build,mihon,MeiToon,en
+873,menudo-fansub.com,0,18,T3,,0,1,to-build,mihon,Menudo-Fansub,es
+874,meosss.com,0,18,T3,,0,1,to-build,mihon,MeoSSS,vi
+875,meosua.org,0,18,T3,,0,1,to-build,mihon,MeoSua,vi
+876,merlintoon.com,0,18,T3,,0,1,to-build,mihon,Merlin Scans,tr
+877,meshmanga.com,0,18,T3,,0,1,to-build,mihon,MangaSwat,ar
+878,mgeko.cc,0,18,T3,,0,1,to-build,mihon,MangaGeko,en
+879,mgread.io,0,18,T3,,0,1,to-build,mihon,Mgread.io,en
+880,mhscans.com,0,18,T3,,0,1,to-build,mihon,MHScans,es
+881,mikoroku.com,0,18,T3,,0,1,to-build,mihon,MikoRoku,id
+882,minitwoscan.com,0,18,T3,,0,1,to-build,mihon,MiniTwo Scan,pt-br
+883,minotruyenv5.xyz,0,18,T3,,0,1,existing,mihon,MinoTruyen Comics|MinoTruyen Hentai|MinoTruyen Manga,vi
+884,mistscans.com,0,18,T3,,0,1,to-build,mihon,Mist Scans,en
+885,mkissa.to,0,18,T3,,0,1,to-build,mihon,AllManga,en
+886,moe.suicaodex.com,0,18,T3,,0,1,to-build,mihon,MoeTruyenSuiCao (unoriginal),vi
+887,moetruyen.net,0,18,T3,,0,1,to-build,mihon,MoeTruyen,vi
+888,mokuro.moe,0,18,T3,,0,1,to-build,mihon,Mokuro,ja
+889,monochromecms.netlify.app,0,18,T3,,0,1,to-build,mihon,Monochrome Custom,en
+890,monomanga.com.tr,0,18,T3,,0,1,to-build,mihon,Mono Manga,tr
+891,monopolymanhua.com,0,18,T3,,0,1,to-build,mihon,Monopoly Scan,es
+892,montetaiscanlator.xyz,0,18,T3,,0,1,to-build,mihon,Monte Tai,pt-br
+893,mugiwarasoficial.org,0,18,T3,,0,1,to-build,mihon,Mugiwaras Oficial,pt-br
+894,murim.site,0,18,T3,,0,1,to-build,mihon,Murim,ar
+895,murimscans.site,0,18,T3,,0,1,to-build,mihon,MurimScan,en
+896,nabicix.com,0,18,T3,,0,1,to-build,mihon,Koreli Scans,tr
+897,namicomic.jp,0,18,T3,,0,1,to-build,mihon,Nami Comic,ja
+898,narasininja.net,0,18,T3,,0,1,to-build,mihon,NarasiNinja,id
+899,natomanga.com,0,18,T3,,0,1,to-build,mihon,Manganato,en
+900,natsu.one,0,18,T3,,0,1,to-build,mihon,Natsu,id
+901,natsu.tv,0,18,T3,,0,1,to-build,aidoku,id.natsu,id
+902,nb19u.blogspot.com,0,18,T3,,0,1,to-build,mihon,Oduto,ar
+903,nebulosascan.com,0,18,T3,,0,1,to-build,mihon,Nebulosa Scan,pt-br
+904,nekopost.net,0,18,T3,,0,1,to-build,mihon,Nekopost,th
+905,nekoproject.org,0,18,T3,,0,1,to-build,mihon,NekoScans,es
+906,nelomanga.net,0,18,T3,,0,1,to-build,aidoku,en.manganelo,en
+907,nemesisscans.com,0,18,T3,,0,1,to-build,mihon,Nemesisscans,tr
+908,neomanga.online,0,18,T3,,0,1,to-build,mihon,NeoManga,es
+909,nettruyen13s.com,0,18,T3,,0,1,to-build,mihon,NetTruyenS (unoriginal),vi
+910,nettruyenar.com,0,18,T3,,0,1,to-build,mihon,NetTruyenCO (unoriginal),vi
+911,nettruyenx.net,0,18,T3,,0,1,to-build,mihon,NetTruyenX (unoriginal),vi
+912,neverscans.com,0,18,T3,,0,1,to-build,mihon,NeverScans,ar
+913,new.astratoons.com,0,18,T3,,0,1,to-build,mihon,Astratoons,pt-br
+914,nexcomic.com,0,18,T3,,0,1,to-build,mihon,NexComic,en
+915,ngamenkomik05.blogspot.com,0,18,T3,,0,1,to-build,mihon,NgamenKomik,id
+916,nhattruyenqq.com,0,18,T3,,0,1,to-build,mihon,NhatTruyen,vi
+917,niadd.com,0,18,T3,,0,1,to-build,mihon,Niadd,en
+918,niceoppai.net,0,18,T3,,0,1,to-build,mihon,Niceoppai,th
+919,nicomanga.com,0,18,T3,,0,1,to-build,mihon,Nicomanga,ja
+920,nihonkuni.com,0,18,T3,,0,1,to-build,mihon,NihonKuni,ja
+921,nikkangecchan.jp,0,18,T3,,0,1,to-build,mihon,Nikkangecchan,ja
+922,ninekon.com,0,18,T3,,0,1,to-build,mihon,Ninekon,en
+923,ninjacomics.xyz,0,18,T3,,0,1,to-build,mihon,Ninja Scan,pt-br
+924,nirvanamanga.com,0,18,T3,,0,1,to-build,mihon,Nirvana Manga,tr
+925,niverafansub.one,0,18,T3,,0,1,to-build,mihon,Nivera Fansub,tr
+926,nobledicion.yoveo.xyz,0,18,T3,,0,1,to-build,mihon,Noblesse Translations,es
+927,nocfsb.com,0,18,T3,,0,1,to-build,mihon,Nocturne Summer,pt-br
+928,noromax02.my.id,0,18,T3,,0,1,to-build,mihon,Noromax,id
+929,novamanhwa.cc,0,18,T3,,0,1,to-build,mihon,Nova Manhwas,es
+930,novelbuddy.me,0,18,T3,,0,1,to-build,aidoku,en.novelbuddy,en
+931,novelcool.com,0,18,T3,,0,1,to-build,mihon,NovelCool,en
+932,novema.jp,0,18,T3,,0,1,to-build,mihon,Comic Grast,ja
+933,noxmangas.org,0,18,T3,,0,1,to-build,mihon,NoxManga,pt-br
+934,nuviatoon.com,0,18,T3,,0,1,to-build,mihon,Nuvia Toon,en
+935,nuxscans-comics.blogspot.com,0,18,T3,,0,1,to-build,mihon,Nux Scans,en
+936,nyanukafe.com,0,18,T3,,0,1,to-build,mihon,Nyanu Kafe,en
+937,nyrascans.com,0,18,T3,,0,1,to-build,mihon,Nyra Scans,en
+938,okutoon.com,0,18,T3,,0,1,to-build,mihon,OkuToon,tr
+939,okyykomik.my.id,0,18,T3,,0,1,to-build,mihon,OkyyKomik,id
+940,olympustaff.com,0,18,T3,,0,1,to-build,mihon,Team X,ar
+941,olympusxyz.com,0,18,T3,,0,1,to-build,mihon,Olympus Scanlation,es
+942,omicaso.org,0,18,T3,,0,1,to-build,mihon,Omicaso,id
+943,omoi.com,0,18,T3,,0,1,to-build,mihon,Omoi,en
+944,one-piece-fans2.com,0,18,T3,,0,1,to-build,mihon,One Piece Fans,en|es
+945,onemanga.info,0,18,T3,,0,1,to-build,mihon,OneManga.info,en
+946,onereader.net,0,18,T3,,0,1,to-build,mihon,OneReader,pt-br
+947,onfmangas.com,0,18,T3,,0,1,to-build,mihon,ONF MANGAS,es
+948,onisaga.com,0,18,T3,,0,1,to-build,mihon,OniSaga,all|en|es|es-419|fr|ja|pt|pt-br
+949,onma.top,0,18,T3,,0,1,to-build,mihon,مانجا اون لاين,ar
+950,ono.live,0,18,T3,,0,1,to-build,mihon,Ono,fr
+951,oremanga.net,0,18,T3,,0,1,to-build,mihon,OreManga,th
+952,orimanga.net,0,18,T3,,0,1,to-build,mihon,Ori Manga,tr
+953,orion-scans.com,0,18,T3,,0,1,to-build,mihon,Orion Scans,en
+954,osakascan.com,0,18,T3,,0,1,to-build,mihon,Osaka Scan,pt-br
+955,otakusic.com,0,18,T3,,0,1,to-build,mihon,Otakusic,vi
+956,otruyen.cc,0,18,T3,,0,1,to-build,mihon,OTruyen,vi
+957,panomic.online,0,18,T3,,0,1,to-build,mihon,Panomic,vi
+958,pantheon-scan.com,0,18,T3,,0,1,to-build,mihon,Pantheon Scan,fr
+959,paradoxscans.com,0,18,T3,,0,1,to-build,mihon,Paradox Scans,tr
+960,pash-up.jp,0,18,T3,,0,1,to-build,mihon,Pash Up!,ja
+961,patchfriday.com,0,18,T3,,0,1,to-build,mihon,Patch Friday,en
+962,patimanga.com,0,18,T3,,0,1,to-build,mihon,Pati Manga,tr
+963,peppercarrot.com,0,18,T3,,0,1,to-build,mihon,Pepper&Carrot,all
+964,phenix-scans.co,0,18,T3,,0,1,to-build,mihon,Phenix Scans (unoriginal),fr
+965,philiascans.org,0,18,T3,,0,1,to-build,mihon,Philia Scans,en
+966,phoenixscans.com,0,18,T3,,0,1,to-build,mihon,Phoenix Scans,it
+967,piacomic.jp,0,18,T3,,0,1,to-build,mihon,PiaComic,ja
+968,piccoma.com,0,18,T3,,0,1,to-build,mihon,Piccoma,ja
+969,pizzariacomics.com,0,18,T3,,0,1,to-build,mihon,PizzariaScan,pt-br
+970,platinumlilyscan.com,0,18,T3,,0,1,to-build,mihon,Platinum Lily Scan,es
+971,play.mobilelegends.com,0,18,T3,,0,1,to-build,mihon,MLBB Lore Comics,en
+972,plotnofansub.com,0,18,T3,,0,1,to-build,mihon,Plot Twist No Fansub,es
+973,plumacomics.cloud,0,18,T3,,0,1,to-build,mihon,Pluma Comics,pt-br
+974,pocket.shonenmagazine.com,0,18,T3,,0,1,to-build,mihon,Magazine Pocket,ja
+975,politeandgood.com,0,18,T3,,0,1,to-build,mihon,Broccoli Soup,en
+976,poseidon-scans.net,0,18,T3,,0,1,to-build,mihon,Poseidon Scans,fr
+977,pretty-frank.com,0,18,T3,,0,1,to-build,aidoku,th.prettyfrank,th
+978,projectsuki.com,0,18,T3,,0,1,to-build,mihon,Project Suki,all
+979,qimanga.com,0,18,T3,,0,1,to-build,mihon,QiScans,en
+980,qimanga.org,0,18,T3,,0,1,to-build,aidoku,en.qiscans,en
+981,questionablecontent.net,0,18,T3,,0,1,to-build,mihon,Questionable Content,en
+982,r1.richtoon.top,0,18,T3,,0,1,to-build,mihon,RichtoScan,es
+983,rackusreads.com,0,18,T3,,0,1,to-build,mihon,Rackus,en
+984,ragescans.com,0,18,T3,,0,1,to-build,mihon,Rage Scans,en
+985,ragnarokscanlation.org,0,18,T3,,0,1,to-build,mihon,Ragnarok Scanlation,es
+986,ragnarscans.net,0,18,T3,,0,1,to-build,mihon,Ragnar Scans,tr
+987,raijin-scans.fr,0,18,T3,,0,1,to-build,mihon,Raijin Scans,fr
+988,raindropteamfan.com,0,18,T3,,0,1,to-build,mihon,Raindrop Fansub,tr
+989,randowis.com,0,18,T3,,0,1,to-build,mihon,Randowiz,en
+990,ravenscans.org,0,18,T3,,0,1,to-build,mihon,Raven Scans,en
+991,raventard.xyz,0,18,T3,,0,1,to-build,mihon,RavenManga,es
+992,rawbaka.com,0,18,T3,,0,1,to-build,mihon,RawBaka,ja
+993,rawinu.com,0,18,T3,,0,1,to-build,mihon,RawINU,ja
+994,rawkuro.net,0,18,T3,,0,1,to-build,aidoku,ja.rawkuro,ja
+995,rawmiu.com,0,18,T3,,0,1,to-build,mihon,RawMiu,ja
+996,rawuwu.net,0,18,T3,,0,1,to-build,mihon,Raw UwU,ja
+997,razure.org,0,18,T3,,0,1,to-build,mihon,Razure,en
+998,rdscans.com,0,18,T3,,0,1,to-build,mihon,RD Scans,en
+999,re-yume.my.id,0,18,T3,,0,1,to-build,mihon,ReYume,id
+1000,read-horimiya.online,0,18,T3,,0,1,to-build,mihon,Read Horimiya Online,en
+1001,read-nifteam.info,0,18,T3,,0,1,to-build,mihon,NIFTeam,it
+1002,read.manga-bay.org,0,18,T3,,0,1,to-build,mihon,Manga-Bay,en
+1003,read.oppai.stream,0,18,T3,,0,1,to-build,mihon,Oppai Stream,en
+1004,read.yagami.me,0,18,T3,,0,1,to-build,mihon,YagamiProject,ru
+1005,readallcomics.com,0,18,T3,,0,1,to-build,mihon,ReadAllComics,en
+1006,readbagabondo.com,0,18,T3,,0,1,to-build,mihon,Read Vagabond Manga,en
+1007,readberserk.com,0,18,T3,,0,1,to-build,mihon,Read Berserk Manga,en
+1008,readcomiconline.li,0,18,T3,,0,1,to-build,mihon,ReadComicOnline,en
+1009,reader.deathtollscans.net,0,18,T3,,0,1,to-build,mihon,Death Toll Scans,en
+1010,reader.decadencescans.com,0,18,T3,,0,1,to-build,mihon,Decadence Scans,en
+1011,reader.gtothegreatsite.net,0,18,T3,,0,1,to-build,mihon,GTO The Great Site,it
+1012,reader.hastateam.com,0,18,T3,,0,1,to-build,mihon,Hasta Team,it
+1013,reader.mangatellers.gr,0,18,T3,,0,1,to-build,mihon,Mangatellers,en
+1014,readhunters.xyz,0,18,T3,,0,1,to-build,mihon,Hunters Scan,pt-br
+1015,reallifecomics.com,0,18,T3,,0,1,to-build,mihon,Real Life Comics,en
+1016,reapertrans.com,0,18,T3,,0,1,to-build,mihon,ReaperTrans,th
+1017,reimanga.net,0,18,T3,,0,1,to-build,mihon,ReiManga,en
+1018,renascans.net,0,18,T3,,0,1,to-build,mihon,Renascans,en
+1019,rfdragonscan.net,0,18,T3,,0,1,to-build,mihon,RF Dragon Scan,pt-br
+1020,rimacomiplus.jp,0,18,T3,,0,1,to-build,mihon,RimacomiPlus,ja
+1021,rimuscan.fr,0,18,T3,,0,1,to-build,mihon,Rimu Scans,fr
+1022,rinkocomics.com,0,18,T3,,0,1,to-build,mihon,Rinko Comics,en
+1023,risentoons.xyz,0,18,T3,,0,1,to-build,mihon,Risentoons,pt-br
+1024,ritharscans.com,0,18,T3,,0,1,to-build,mihon,RitharScans,en
+1025,riztranslation.pages.dev,0,18,T3,,0,1,to-build,mihon,Riztranslation,id
+1026,rizzcomic.com,0,18,T3,,0,1,to-build,mihon,Rizz Comic (unoriginal),en
+1027,rncalation.online,0,18,T3,,0,1,to-build,mihon,Rncalation,es
+1028,rocksmanga.com,0,18,T3,,0,1,to-build,mihon,Rocks Manga,ar
+1029,rokaricomics.com,0,18,T3,,0,1,to-build,mihon,RokariComics,en
+1030,roliascan.com,0,18,T3,,0,1,to-build,mihon,Rolia Scan,en
+1031,rookie.shonenjump.com,0,18,T3,,0,1,to-build,mihon,Jump Rookie!,ja
+1032,roseveil.org,0,18,T3,,0,1,to-build,mihon,Roseveil,id
+1033,roxinha.online,0,18,T3,,0,1,to-build,mihon,Roxinha,pt-br
+1034,ru.com-x.life,0,18,T3,,0,1,to-build,mihon,Com-X,ru
+1035,ru.niadd.com,0,18,T3,,0,1,to-build,mihon,Niadd,ru
+1036,ru.novelcool.com,0,18,T3,,0,1,to-build,mihon,NovelCool,ru
+1037,ruyamanga.net,0,18,T3,,0,1,to-build,mihon,Rüya Manga.net,tr
+1038,ruyamanga2.com,0,18,T3,,0,1,to-build,mihon,Rüya Manga,tr
+1039,s2read.com,0,18,T3,,0,1,to-build,mihon,S2Manga,en
+1040,sabrina-online.com,0,18,T3,,0,1,to-build,mihon,Sabrina Online,en
+1041,sacachispa.site,0,18,T3,,0,1,to-build,mihon,SACACHISPA,en
+1042,sai-zen-sen.jp,0,18,T3,,0,1,to-build,mihon,Twi4,ja
+1043,samurai.j5z.xyz,0,18,T3,,0,1,to-build,mihon,SamuraiScan,es
+1044,sanascans.com,0,18,T3,,0,1,to-build,mihon,Sana Scans,en
+1045,sandraandwoo.com,0,18,T3,,0,1,to-build,mihon,Sandra and Woo|Sandra und Woo,de|en
+1046,sangchanhteam.com,0,18,T3,,0,1,to-build,mihon,SangChanhTeam,vi
+1047,sapphirescan.com,0,18,T3,,0,1,to-build,mihon,SapphireScan,es
+1048,sas-api.fly.dev,0,18,T3,,0,1,to-build,mihon,Solar and Sundry,en
+1049,saytongtaii.site,0,18,T3,,0,1,to-build,mihon,MeDamTruyen,vi
+1050,scan-inmortal.com,0,18,T3,,0,1,to-build,mihon,Inmortal Scan,es
+1051,scan-vf.net,0,18,T3,,0,1,to-build,mihon,Scan VF,fr
+1052,scanpinkrosa.blogspot.com,0,18,T3,,0,1,to-build,mihon,Pink Rosa,pt-br
+1053,scanreader.net,0,18,T3,,0,1,to-build,mihon,Scan Reader,fr
+1054,scans.gg,0,18,T3,,0,1,to-build,mihon,ScansGG,en
+1055,scansfr.com,0,18,T3,,0,1,to-build,mihon,ScansFR,fr
+1056,scantrad-union.com,0,18,T3,,0,1,to-build,mihon,Scantrad Union,fr
+1057,schlockmercenary.com,0,18,T3,,0,1,to-build,mihon,Schlock Mercenary,en
+1058,scythescans.com,0,18,T3,,0,1,to-build,mihon,Scythe Scans,en
+1059,seikowo-app.blogspot.com,0,18,T3,,0,1,to-build,mihon,Seikowo,vi
+1060,sektekomik.id,0,18,T3,,0,1,to-build,mihon,Sekte Komik,id
+1061,sereinscan.com,0,18,T3,,0,1,to-build,mihon,Serein Scan,tr
+1062,setsuscans.com,0,18,T3,,0,1,to-build,mihon,Setsu Scans,en
+1063,shademanga.com,0,18,T3,,0,1,to-build,mihon,Shadow Manga|Shadow Manga (+18),es
+1064,shadowceviri.blogspot.com,0,18,T3,,0,1,to-build,mihon,Shadow Çeviri,tr
+1065,shijiescans.com,0,18,T3,,0,1,to-build,mihon,Shijie Scans,tr
+1066,shiraixis.space,0,18,T3,,0,1,to-build,mihon,Shirai Scans,pt-br
+1067,shiyurasub.blogspot.com,0,18,T3,,0,1,to-build,mihon,ShiyuraSub,id
+1068,siikomik.id,0,18,T3,,0,1,to-build,mihon,Siikomik,id
+1069,sing-manga.com,0,18,T3,,0,1,to-build,mihon,SingManga,th
+1070,sirenscans.com,0,18,T3,,0,1,to-build,mihon,Siren Scans,en
+1071,sirenscans.fr,0,18,T3,,0,1,to-build,mihon,Siren Scans FR,fr
+1072,skymangas.com,0,18,T3,,0,1,to-build,mihon,SkyMangas,es
+1073,slashlib.me,0,18,T3,,0,1,to-build,mihon,SlashLib,ru
+1074,sleepytranslations.com,0,18,T3,,0,1,to-build,mihon,Sleepy Translations,en
+1075,sleptmanga.com.tr,0,18,T3,,0,1,to-build,mihon,Slept Manga,tr
+1076,slimeread.app,0,18,T3,,0,1,to-build,mihon,SlimeRead (unoriginal),pt-br
+1077,slow-manga.net,0,18,T3,,0,1,to-build,mihon,Slow Manga,th
+1078,smbc-comics.com,0,18,T3,,0,1,to-build,mihon,Saturday Morning Breakfast Comics,en
+1079,soaicacomic2.top,0,18,T3,,0,1,to-build,mihon,SoaiCaComic,vi
+1080,softkomik.co,0,18,T3,,0,1,to-build,mihon,Softkomik,id
+1081,solaris-scans.fr,0,18,T3,,0,1,to-build,mihon,Solaris Scans,fr
+1082,soraraw.com,0,18,T3,,0,1,to-build,aidoku,ja.soraraw,ja
+1083,sp.manga.nicovideo.jp,0,18,T3,,0,1,to-build,mihon,Nicovideo Seiga,ja
+1084,sparkmanga.net,0,18,T3,,0,1,to-build,mihon,MangaSpark,ar
+1085,speed-manga.net,0,18,T3,,0,1,to-build,mihon,Speed Manga,th
+1086,spicyseries.com,0,18,T3,,0,1,to-build,mihon,Spicy Scan,es
+1087,spmanhwa.online,0,18,T3,,0,1,to-build,mihon,Spmanhwa,en
+1088,starzmanga.com,0,18,T3,,0,1,to-build,mihon,Manga Starz,ar
+1089,stellarsaber.pro,0,18,T3,,0,1,to-build,mihon,StellarSaber,ar
+1090,studio.booklista.co.jp,0,18,T3,,0,1,to-build,mihon,Booklista Studio,ja
+1091,summertoons.net,0,18,T3,,0,1,to-build,mihon,SummerToon,tr
+1092,sunday-webry.com,0,18,T3,,0,1,to-build,mihon,Sunday Web Every,ja
+1093,sunsetmanga.com,0,18,T3,,0,1,to-build,mihon,Sunset Manga,tr
+1094,supermegacomics.com,0,18,T3,,0,1,to-build,mihon,SUPER MEGA,en
+1095,sushiscan.fr,0,18,T3,,0,1,to-build,mihon,Sushiscan.fr,fr
+1096,swordscomic.com,0,18,T3,,0,1,to-build,mihon,Swords Comic,en
+1097,taddy.org,0,18,T3,,0,1,to-build,mihon,Taddy INK (Webtoons),all
+1098,taiyo.moe,0,18,T3,,0,1,to-build,mihon,Taiyō,pt-br
+1099,takecomic.jp,0,18,T3,,0,1,to-build,mihon,TakeComic,ja
+1100,tanuki-manga.net,0,18,T3,,0,1,to-build,mihon,Tanuki-Manga,th
+1101,taosect.com,0,18,T3,,0,1,to-build,mihon,Tao Sect,pt-br
+1102,tappytoon.com,0,18,T3,,0,1,to-build,mihon,Tappytoon,de|en|fr
+1103,tarotscans.com,0,18,T3,,0,1,to-build,mihon,Tarot Scans,tr
+1104,team-shadowi.com,0,18,T3,,0,1,to-build,mihon,Team Shadowi,en
+1105,teamscanr.fr,0,18,T3,,0,1,to-build,mihon,ScanR,fr
+1106,teletruyen.com,0,18,T3,,0,1,to-build,mihon,TeleTruyen,vi
+1107,tenshimanga.com,0,18,T3,,0,1,to-build,mihon,Tenshi Manga,tr
+1108,theduckwebcomics.com,0,18,T3,,0,1,to-build,mihon,The Duck Webcomics,en
+1109,thegirlfromrandomchatting.com,0,18,T3,,0,1,to-build,mihon,The Girl from Random Chatting Manga Online,en
+1110,thelibraryofohara.com,0,18,T3,,0,1,to-build,mihon,The Library of Ohara,ar|en|es|fr|id|it
+1111,themanga.site,0,18,T3,,0,1,to-build,mihon,TheManga,id
+1112,thohamngu.xyz,0,18,T3,,0,1,to-build,mihon,Thỏ Ham Ngủ,vi
+1113,tilkiscans.com,0,18,T3,,0,1,to-build,mihon,MangaTilkisi,tr
+1114,timelesstoons.org,0,18,T3,,0,1,to-build,mihon,TimelessToons,en
+1115,tiraninha.world,0,18,T3,,0,1,to-build,mihon,Little Tyrant,pt-br
+1116,tkor153.com,0,18,T3,,0,1,to-build,mihon,Toonkor,ko
+1117,to-corona-ex.com,0,18,T3,,0,1,to-build,mihon,Corona EX,ja
+1118,todaymanga.com,0,18,T3,,0,1,to-build,mihon,TodayManga,en
+1119,tomilo-lib.ru,0,18,T3,,0,1,to-build,mihon,Tomilo-lib,ru
+1120,tonarinoyj.jp,0,18,T3,,0,1,to-build,mihon,Tonari no Young Jump,ja
+1121,tonizu.top,0,18,T3,,0,1,to-build,mihon,TonizuToon,tr
+1122,toomtam-manga.com,0,18,T3,,0,1,to-build,mihon,ToomTam-Manga,th
+1123,toongod.org,0,18,T3,,0,1,to-build,mihon,ToonGod,en
+1124,toonily.me,0,18,T3,,0,1,to-build,aidoku,en.toonilyme,en
+1125,toonizy.com,0,18,T3,,0,1,to-build,mihon,Toonizy,en
+1126,toonlivre.net,0,18,T3,,0,1,to-build,mihon,ToonLivre,pt-br
+1127,toontaku.com,0,18,T3,,0,1,to-build,mihon,Toontaku,tr
+1128,topmanhua.fan,0,18,T3,,0,1,to-build,mihon,TopManhua.fan,en
+1129,topmanhua.net,0,18,T3,,0,1,to-build,mihon,TopManhua.net,en
+1130,toptruyenzonee.com,0,18,T3,,0,1,to-build,mihon,Top Truyen,vi
+1131,traduccionesmoonlight.com,0,18,T3,,0,1,to-build,mihon,Traducciones Moonlight,es
+1132,traducoesdolipe.blogspot.com,0,18,T3,,0,1,to-build,mihon,Traduções do Lipe,pt-br
+1133,tritinia.org,0,18,T3,,0,1,to-build,mihon,TritiniaScans,en
+1134,trmanga.com,0,18,T3,,0,1,to-build,mihon,TrManga,tr
+1135,trmangaoku.com,0,18,T3,,0,1,to-build,mihon,Türkçe Manga Oku,tr
+1136,truyenggvn.com,0,18,T3,,0,1,to-build,mihon,TruyenGGVN,vi
+1137,truyenkira.net,0,18,T3,,0,1,to-build,mihon,KiraKira,vi
+1138,truyenqq.com.vn,0,18,T3,,0,1,to-build,mihon,TruyenQQ VN,vi
+1139,truyenqq.online,0,18,T3,,0,1,to-build,aidoku,vi.truyenqq2,vi
+1140,truyentini.net,0,18,T3,,0,1,to-build,mihon,TruyenTini,vi
+1141,truyentuoitho.com,0,18,T3,,0,1,to-build,mihon,TruyenTuoiTho,vi
+1142,tsundoku.com.br,0,18,T3,,0,1,to-build,mihon,Tsundoku Traduções,pt-br
+1143,tuitruyen.top,0,18,T3,,0,1,to-build,mihon,TuiTruyen,vi
+1144,tusachxinhxinh12.online,0,18,T3,,0,1,to-build,mihon,TuSachXinhXinh,vi
+1145,tuttoanimemanga.net,0,18,T3,,0,1,to-build,mihon,TuttoAnimeManga,it
+1146,twatt.fr,0,18,T3,,0,1,to-build,mihon,Twatt,fr
+1147,twicomi.com,0,18,T3,,0,1,to-build,mihon,Twicomi,all
+1148,twokinds.keenspot.com,0,18,T3,,0,1,to-build,mihon,Keenspot TwoKinds,en
+1149,uchuujinmangas.com,0,18,T3,,0,1,to-build,mihon,Uchuujin Projects,es
+1150,ulascomic01.xyz,0,18,T3,,0,1,to-build,mihon,Ulas Comic,id
+1151,unicomics.ru,0,18,T3,,0,1,to-build,mihon,UniComics,ru
+1152,universe.leagueoflegends.com,0,18,T3,,0,1,to-build,mihon,League of Legends,cs|de|el|en|es|es-419|fr|hu|it|ja|ko|pl|pt-br|ro|ru|tr
+1153,up-manga.com,0,18,T3,,0,1,to-build,aidoku,th.upmanga,th
+1154,utsukushii-bg.com,0,18,T3,,0,1,to-build,mihon,Utsukushii,bg
+1155,uzaymanga.com,0,18,T3,,0,1,to-build,mihon,Uzay Manga,tr
+1156,v1.bacami.site,0,18,T3,,0,1,to-build,mihon,Bacami,id
+1157,v1.komiknesiaku.com,0,18,T3,,0,1,to-build,mihon,KomikNesia,id
+1158,v1.puremanga.me,0,18,T3,,0,1,to-build,mihon,PureManga,ru
+1159,v1.soulscans.org,0,18,T3,,0,1,to-build,mihon,Soul Scans,id
+1160,v1.westmanga.my,0,18,T3,,0,1,to-build,mihon,West Manga,id
+1161,v2.voratoon.com,0,18,T3,,0,1,to-build,mihon,VoraToon,id
+1162,v3.ainzscans01.com,0,18,T3,,0,1,to-build,mihon,Ainz Scans ID,id
+1163,v3.comicaso.pro,0,18,T3,,0,1,to-build,mihon,Comicaso,id
+1164,v5.luvyaa.co,0,18,T3,,0,1,to-build,mihon,Luvyaa,id
+1165,v7.kiryuu.to,0,18,T3,,0,1,to-build,mihon,Kiryuu,id
+1166,valirscans.org,0,18,T3,,0,1,to-build,mihon,Valir Scans,en
+1167,vanillascans.org,0,18,T3,,0,1,to-build,mihon,Vanilla Scans,en
+1168,vegitoons.black,0,18,T3,,0,1,to-build,mihon,Vegitoons,pt-br
+1169,verdinha.wtf,0,18,T3,,0,1,to-build,mihon,Verdinha,pt-br
+1170,vgperson.com,0,18,T3,,0,1,to-build,mihon,vgperson,en
+1171,video.unext.jp,0,18,T3,,0,1,to-build,mihon,U-NEXT,ja
+1172,viewer.heros-web.com,0,18,T3,,0,1,to-build,mihon,Comiplex,ja
+1173,violetscans.org,0,18,T3,,0,1,to-build,mihon,Violet Scans,en
+1174,visionhaze.com,0,18,T3,,0,1,to-build,mihon,Vision Haze,en
+1175,visor.chifa-tong.online,0,18,T3,,0,1,to-build,mihon,Lector Asteria,es
+1176,visorikigai.gettocaboca.com,0,18,T3,,0,1,to-build,mihon,Ikigai Mangas,es
+1177,visorjpg.lat,0,18,T3,,0,1,to-build,mihon,LectorJPG,es
+1178,vitruyen1.com,0,18,T3,,0,1,to-build,mihon,ViTruyen,vi
+1179,viz.com,0,18,T3,,0,1,to-build,mihon,VIZ Manga|VIZ Shonen Jump,en
+1180,voyce.me,0,18,T3,,0,1,to-build,mihon,VoyceMe,en
+1181,w11.1punchman.com,0,18,T3,,0,1,to-build,mihon,One Punch Man Online,en
+1182,walpurgiscan.it,0,18,T3,,0,1,to-build,mihon,Walpurgi Scan,it
+1183,wamanga.ru,0,18,T3,,0,1,to-build,mihon,WaManga,ru
+1184,web.usagi.one,0,18,T3,,0,1,to-build,mihon,Usagi,ru
+1185,webcomic.ohtabooks.com,0,18,T3,,0,1,to-build,mihon,Ohta Web Comic,ja
+1186,webcomicsapp.com,0,18,T3,,0,1,to-build,mihon,Webcomics,en|es|fr|id|pt
+1187,webdexscans.com,0,18,T3,,0,1,to-build,mihon,Webdex Scans,en
+1188,webnovel.com,0,18,T3,,0,1,to-build,mihon,WebNovel,en
+1189,webtoonhatti.club,0,18,T3,,0,1,to-build,mihon,Webtoon Hatti,tr
+1190,webtoonoku.org,0,18,T3,,0,1,to-build,mihon,WebtoonOku,tr
+1191,webtoonscan.com,0,18,T3,,0,1,to-build,mihon,WebtoonScan,en
+1192,weloma.net,0,18,T3,,0,1,to-build,mihon,WeLoveManga,ja
+1193,wfwf414.com,0,18,T3,,0,1,to-build,mihon,늑대닷컴 - 만화책|늑대닷컴 - 웹툰|늑대닷컴 - 포토툰,ko
+1194,witchtoons.net,0,18,T3,,0,1,to-build,mihon,WitchScans,en
+1195,wolftoon.lovable.app,0,18,T3,,0,1,to-build,mihon,Wolftoon,pt-br
+1196,woopread.com,0,18,T3,,0,1,to-build,mihon,WoopRead,en
+1197,wp.comicskingdom.com,0,18,T3,,0,1,to-build,mihon,Comics Kingdom,en|es
+1198,writerscans.com,0,18,T3,,0,1,to-build,mihon,Writer Scans,en
+1199,wurmz.net,0,18,T3,,0,1,to-build,mihon,Wurmz,id
+1200,wuxiaworld.site,0,18,T3,,0,1,to-build,mihon,WuxiaWorld,en
+1201,ww10.readblackclover.com,0,18,T3,,0,1,to-build,mihon,Read Black Clover Manga Online,en
+1202,ww12.readsnk.com,0,18,T3,,0,1,to-build,mihon,Read Attack on Titan Shingeki no Kyojin Manga,en
+1203,ww12.tokyoghoulre.com,0,18,T3,,0,1,to-build,mihon,Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online,en
+1204,ww13.readonepiece.com,0,18,T3,,0,1,to-build,mihon,Read One Piece Manga Online,en
+1205,ww3.mangafreak.me,0,18,T3,,0,1,to-build,mihon,Mangafreak,en
+1206,ww4.readsololeveling.org,0,18,T3,,0,1,to-build,mihon,Read Solo Leveling Manga Manhwa Online,en
+1207,ww6.readjujutsukaisen.com,0,18,T3,,0,1,to-build,mihon,Read Jujutsu Kaisen Manga Online,en
+1208,ww6.readkingdom.com,0,18,T3,,0,1,to-build,mihon,Read Kingdom Manga Online,en
+1209,ww7.readopm.com,0,18,T3,,0,1,to-build,mihon,Read One-Punch Man Manga Online,en
+1210,ww8.read7deadlysins.com,0,18,T3,,0,1,to-build,mihon,Read Nanatsu no Taizai 7 Deadly Sins Manga Online,en
+1211,ww9.readfairytail.com,0,18,T3,,0,1,to-build,mihon,Read Fairy Tail & Edens Zero Manga Online,en
+1212,xkcd.com,0,18,T3,,0,1,to-build,mihon,xkcd,en
+1213,xkcd.lapin.org,0,18,T3,,0,1,to-build,mihon,xkcd,fr
+1214,xkcd.ru,0,18,T3,,0,1,to-build,mihon,xkcd,ru
+1215,xn--l3c0azab5a2gta.com,0,18,T3,,0,1,to-build,mihon,สดใสเมะ,th
+1216,xomanga.site,0,18,T3,,0,1,to-build,mihon,XoManga,en
+1217,xoxocomic.com,0,18,T3,,0,1,to-build,mihon,XOXO Comics,en
+1218,xrabohrok.github.io,0,18,T3,,0,1,to-build,mihon,War For Rayuba,en
+1219,xsano-manga.com,0,18,T3,,0,1,to-build,mihon,XSano Manga,ar
+1220,yakshacomics.com,0,18,T3,,0,1,to-build,mihon,YakshaComics,en
+1221,yaoifanclub.com,0,18,T3,,0,1,to-build,mihon,Yaoi Fan Club,pt-br
+1222,yaoiscan.com,0,18,T3,,0,1,to-build,mihon,YaoiScan,en
+1223,ynjn.jp,0,18,T3,,0,1,to-build,mihon,Young Jump+,ja
+1224,yokai-team.blogspot.com,0,18,T3,,0,1,to-build,mihon,Yokai,ar
+1225,yomonga.com,0,18,T3,,0,1,to-build,mihon,Yomonga,ja
+1226,yomu.com.br,0,18,T3,,0,1,to-build,mihon,Yomu Comics,pt-br
+1227,yorai.io,0,18,T3,,0,1,to-build,mihon,Yorai,en
+1228,younganimal.com,0,18,T3,,0,1,to-build,mihon,Young Animal,ja
+1229,youngchampion.jp,0,18,T3,,0,1,to-build,mihon,Young Champion,ja
+1230,ysk-comics.com,0,18,T3,,0,1,to-build,mihon,YSK Comics,ar|en
+1231,yugenmangasbr.dxtg.online,0,18,T3,,0,1,to-build,mihon,Yugen Mangás,pt-br
+1232,yupmanga.com,0,18,T3,,0,1,to-build,mihon,Yupmanga,es
+1233,yuri-online.com,0,18,T3,,0,1,to-build,mihon,Yuri-Online,es
+1234,yurigarden.moe,0,18,T3,,0,1,to-build,mihon,YuriGarden,vi
+1235,yurilab.top,0,18,T3,,0,1,to-build,mihon,Ota Scans,id
+1236,yurinekoz.com,0,18,T3,,0,1,to-build,mihon,YuriNeko,vi
+1237,yurionair.top,0,18,T3,,0,1,to-build,mihon,Yuri on Air,pt-br
+1238,zazamanga.com,0,18,T3,,0,1,to-build,mihon,Zazamanga,en
+1239,zebrack-comic.shueisha.co.jp,0,18,T3,,0,1,to-build,mihon,Zebrack,ja
+1240,zenko.online,0,18,T3,,0,1,to-build,mihon,Zenko,uk
+1241,zerosumonline.com,0,18,T3,,0,1,to-build,mihon,Zerosum Online,ja
+1242,zettruyen.homes,0,18,T3,,0,1,to-build,aidoku,vi.zettruyen,vi
+1243,zettruyen1.com,0,18,T3,,0,1,to-build,mihon,ZetTruyen,vi
+1244,zeurelscan.com,0,18,T3,,0,1,to-build,mihon,ZeurelScan,it
+1245,zinmanga.net,0,18,T3,,0,1,to-build,mihon,Zinmanga.net,en
+1246,zonatmo.org,0,18,T3,,0,1,to-build,mihon,ZonaTMO.org (unoriginal),es
+1247,zonatmo.to,0,18,T3,,0,1,to-build,mihon,Zonatmo.to (unoriginal),es
+1248,kanzenin.info,0,16,T3,,1,2,to-build,aidoku|mihon,Kanzenin|id.kanzenin,id
+1249,komiktap.info,0,16,T3,,1,2,to-build,aidoku|mihon,Komiktap|id.komiktap,id
+1250,mangasusuku.com,0,16,T3,,1,2,to-build,aidoku|mihon,Mangasusu|id.mangasusu,id
+1251,mangaworldadult.net,0,16,T3,,1,2,to-build,aidoku|mihon,MangaworldAdult|it.mangaworldadult,it
+1252,senkuro.me,0,16,T3,,1,2,to-build,aidoku|mihon,Senkognito|Senkuro|ru.senkuro,ru
+1253,02.kaguya.pro,0,6,T3,,1,1,to-build,mihon,Kaguya,id
+1254,02.manhwaland.land,0,6,T3,,1,1,to-build,mihon,ManhwaLand.mom,id
+1255,18porncomic.com,0,6,T3,,1,1,to-build,mihon,18 Porn Comic,en
+1256,20.allhen.online,0,6,T3,,1,1,to-build,mihon,AllHentai,ru
+1257,2tencb.pro,0,6,T3,,1,1,to-build,mihon,CBHentai,vi
+1258,3600000.xyz,0,6,T3,,1,1,to-build,mihon,3600000 Beauty,all
+1259,3xyaoi.com,0,6,T3,,1,1,to-build,mihon,XXX Yaoi,pt-br
+1260,4khd.com,0,6,T3,,1,1,to-build,mihon,4KHD,all
+1261,9hentai.so,0,6,T3,,1,1,existing,mihon,NineHentai,en
+1262,acervohentai.com,0,6,T3,,1,1,to-build,mihon,Acervo Hentai,pt-br
+1263,aedexnox.akan01.com,0,6,T3,,1,1,to-build,mihon,Temple Scan,es
+1264,ahottie.top,0,6,T3,,1,1,to-build,mihon,AHottie,all
+1265,allporncomic.com,0,6,T3,,1,1,to-build,mihon,AllPornComic,en
+1266,allporncomic.io,0,6,T3,,1,1,to-build,mihon,AllPornComic.io,en
+1267,allporncomics.co,0,6,T3,,1,1,to-build,mihon,AllPornComics.co,all
+1268,apcomics.org,0,6,T3,,1,1,to-build,mihon,AP Comics,en
+1269,apollcomics.es,0,6,T3,,1,1,to-build,mihon,ApollComics,es
+1270,arabhentai.net,0,6,T3,,1,1,to-build,mihon,هنتاي العرب - نت,ar
+1271,arabmanhwa.com,0,6,T3,,1,1,to-build,mihon,ArabManhwa,ar
+1272,arabshentai.com,0,6,T3,,1,1,to-build,mihon,هنتاي العرب,ar
+1273,arabtoons.net,0,6,T3,,1,1,to-build,mihon,عرب تونز,ar
+1274,arbxcomix.com,0,6,T3,,1,1,to-build,mihon,ArbxComix,ar
+1275,asialotuss.com,0,6,T3,,1,1,to-build,mihon,Asia Lotus,es
+1276,asiatoon.net,0,6,T3,,1,1,to-build,mihon,AsiaToon,en
+1277,astralscans.top,0,6,T3,,1,1,to-build,mihon,Astral Scans,id
+1278,bakai.org,0,6,T3,,1,1,to-build,mihon,Bakai,pt-br
+1279,baobua.net,0,6,T3,,1,1,to-build,mihon,BaoBua,all
+1280,bestporncomix.com,0,6,T3,,1,1,to-build,mihon,PornComix,en
+1281,beta.kumopoi.com,0,6,T3,,1,1,to-build,mihon,KumoPoi,id
+1282,blackoutcomics.com,0,6,T3,,1,1,to-build,mihon,Blackout Comics,pt-br
+1283,brasilhentai.com,0,6,T3,,1,1,to-build,mihon,Brasil Hentai,pt-br
+1284,bryaoi.com,0,6,T3,,1,1,to-build,mihon,BR Yaoi,pt-br
+1285,buondua.com,0,6,T3,,1,1,to-build,mihon,Buon Dua,all
+1286,bymichiby.com,0,6,T3,,1,1,to-build,mihon,Bymichi Scan,es
+1287,cat-300.com,0,6,T3,,1,1,to-build,mihon,Cat300,th
+1288,catzaa.net,0,6,T3,,1,1,to-build,mihon,Catzaa,th
+1289,chochox.com,0,6,T3,,1,1,to-build,mihon,ChoChoX,es
+1290,colorcitoscan.com,0,6,T3,,1,1,to-build,mihon,Colorcito Scan,es
+1291,comic.cx,0,6,T3,,1,1,to-build,mihon,Comic CX,en
+1292,comics.8muses.com,0,6,T3,,1,1,to-build,mihon,8Muses,en
+1293,comicsvalley.com,0,6,T3,,1,1,to-build,mihon,Comics Valley,all
+1294,coomer.st,0,6,T3,,1,1,to-build,mihon,Coomer,all
+1295,covendasbruxonas.com,0,6,T3,,1,1,to-build,mihon,Coven Scan,pt-br
+1296,crotpedia.net,0,6,T3,,1,1,to-build,mihon,CrotPedia,id
+1297,cucumbermanga.com,0,6,T3,,1,1,to-build,mihon,Cucumber Manga,en
+1298,cutiecomics.com,0,6,T3,,1,1,to-build,mihon,Cutie Comics,en
+1299,damconuong.uno,0,6,T3,,1,1,to-build,mihon,DamCoNuong,vi
+1300,danbooru.donmai.us,0,6,T3,,1,1,to-build,mihon,Danbooru,all
+1301,dojing.net,0,6,T3,,1,1,to-build,mihon,Dojing.net,id
+1302,doujin-lc.net,0,6,T3,,1,1,to-build,mihon,Doujin-Lc,th
+1303,doujin.desu.xxx,0,6,T3,,1,1,to-build,mihon,Doujindesu,id
+1304,doujin.io,0,6,T3,,1,1,to-build,mihon,Doujin.io - J18,en
+1305,doujindistrict.com,0,6,T3,,1,1,to-build,mihon,HM2D,en
+1306,doujinhentai.net,0,6,T3,,1,1,existing,mihon,DoujinHentai,es
+1307,doujinku.org,0,6,T3,,1,1,to-build,mihon,Doujinku,id
+1308,doujinmoon.com,0,6,T3,,1,1,to-build,mihon,Doujin Moon,th
+1309,doujins.com,0,6,T3,,1,1,to-build,mihon,Doujins,en
+1310,doujinshell.net,0,6,T3,,1,1,to-build,mihon,DoujinsHell,es
+1311,doujinza.com,0,6,T3,,1,1,to-build,mihon,DoujinZa,th
+1312,doujiva.com,0,6,T3,,1,1,to-build,mihon,Doujiva,all
+1313,dreamteams.space,0,6,T3,,1,1,to-build,mihon,DreamTeams Scans,id
+1314,drecomi-plus.jp,0,6,T3,,1,1,to-build,mihon,DreComi+,ja
+1315,dualeotruyenwk.com,0,6,T3,,1,1,to-build,mihon,Dưa Leo Truyện,vi
+1316,duskoryvile.com,0,6,T3,,1,1,to-build,mihon,Duskoryvile,ar
+1317,e621.net,0,6,T3,,1,1,to-build,mihon,e621,all
+1318,ecchi-doujin.com,0,6,T3,,1,1,to-build,mihon,Ecchi-Doujin,th
+1319,eggporncomics.com,0,6,T3,,1,1,to-build,mihon,Eggporncomics,en
+1320,elitebabes.com,0,6,T3,,1,1,to-build,mihon,Elite Babes,all
+1321,en.girlstop.info,0,6,T3,,1,1,to-build,mihon,GirlsTop,en
+1322,epsilonscan.to,0,6,T3,,1,1,to-build,mihon,Epsilon Scan,fr
+1323,ero18x.com,0,6,T3,,1,1,to-build,mihon,Ero18x,en
+1324,erofus.com,0,6,T3,,1,1,to-build,mihon,Erofus,en
+1325,erosect.xyz,0,6,T3,,1,1,to-build,mihon,EroSect,pt-br
+1326,es.mi2manga.com,0,6,T3,,1,1,to-build,mihon,Es.Mi2Manga,es
+1327,euphoriascan.com,0,6,T3,,1,1,to-build,mihon,Euphoria Scan,pt-br
+1328,everia.club,0,6,T3,,1,1,to-build,mihon,Everia.club,all
+1329,everiaclub.com,0,6,T3,,1,1,to-build,mihon,EveriaClub (unoriginal),all
+1330,evil-manga.eu,0,6,T3,,1,1,to-build,mihon,Evil production,cs
+1331,exhentai.net.br,0,6,T3,,1,1,to-build,mihon,ExHentai.net.br,pt-br
+1332,falcoscan.net,0,6,T3,,1,1,to-build,mihon,Falco Scan,es
+1333,fbsquadx.com,0,6,T3,,1,1,to-build,mihon,Fleur Blanche,pt-br
+1334,femjoyhunter.com,0,6,T3,,1,1,to-build,mihon,Femjoy Hunter,all
+1335,fenixproject.site,0,6,T3,,1,1,to-build,mihon,Fenix Project,pt-br
+1336,foamgirl.net,0,6,T3,,1,1,to-build,mihon,FoamGirl,all
+1337,ftvhunter.com,0,6,T3,,1,1,to-build,mihon,FTV Hunter,all
+1338,gedecomix.com,0,6,T3,,1,1,to-build,mihon,GEDE Comix,en
+1339,gensura.net,0,6,T3,,1,1,to-build,mihon,Gensura,en
+1340,gingertoon.com,0,6,T3,,1,1,to-build,mihon,GingeRTooN,en
+1341,god-doujin.com,0,6,T3,,1,1,to-build,mihon,God-Doujin,th
+1342,goonscans.org,0,6,T3,,1,1,to-build,mihon,Goon Scans,ar
+1343,hana-book.fr,0,6,T3,,1,1,to-build,mihon,Hana Book,fr
+1344,hanamiheaven.org,0,6,T3,,1,1,to-build,mihon,Hanami Heaven,pt-br
+1345,hattorimanga.net,0,6,T3,,1,1,to-build,mihon,Hattori Manga,tr
+1346,hennojin.com,0,6,T3,,1,1,to-build,mihon,Hennojin,en|ja
+1347,hentai-archive.com,0,6,T3,,1,1,to-build,mihon,HentaiArchive,it
+1348,hentai-cosplay-xxx.com,0,6,T3,,1,1,to-build,mihon,Hentai Cosplay,all
+1349,hentai-origines.com,0,6,T3,,1,1,to-build,mihon,Hentai Origines,fr
+1350,hentai-scantrad.org,0,6,T3,,1,1,to-build,mihon,Hentai-Scantrad,fr
+1351,hentai.scanreader.net,0,6,T3,,1,1,to-build,mihon,Hentai Scan Reader,fr
+1352,hentai3z.cc,0,6,T3,,1,1,to-build,mihon,Hentai3z.CC,en
+1353,hentai4free.net,0,6,T3,,1,1,to-build,mihon,Hentai4Free,en
+1354,hentaicrot.com,0,6,T3,,1,1,to-build,mihon,Hentai Crot,id
+1355,hentaienvy.com,0,6,T3,,1,1,to-build,mihon,HentaiEnvy,all|de|en|es|fr|ja|ko|ru
+1356,hentaiera.com,0,6,T3,,1,1,to-build,mihon,HentaiEra,all|de|en|es|fr|ja|ko|ru
+1357,hentaifantasy.it,0,6,T3,,1,1,to-build,mihon,HentaiFantasy,it
+1358,hentaihall.com,0,6,T3,,1,1,to-build,mihon,HentaiHall,es
+1359,hentaihere.com,0,6,T3,,1,1,to-build,mihon,HentaiHere,en
+1360,hentaikisu.com,0,6,T3,,1,1,to-build,mihon,HentaiKisu,en
+1361,hentaikun.com,0,6,T3,,1,1,to-build,mihon,HentaiKun,en
+1362,hentailek.com,0,6,T3,,1,1,to-build,mihon,هنتاي ليك,ar
+1363,hentailib.me,0,6,T3,,1,1,to-build,mihon,HentaiLib,ru
+1364,hentailoop.com,0,6,T3,,1,1,to-build,mihon,HentaiLoop,all
+1365,hentaiman.net,0,6,T3,,1,1,to-build,mihon,HentaiMan,ar
+1366,hentaimode.com,0,6,T3,,1,1,to-build,mihon,HentaiMode,es
+1367,hentainexus.com,0,6,T3,,1,1,to-build,mihon,HentaiNexus,en
+1368,hentairead.com,0,6,T3,,1,1,to-build,mihon,HentaiRead,en
+1369,hentairead.io,0,6,T3,,1,1,to-build,mihon,HentaiRead.io,en
+1370,hentaisco.cc,0,6,T3,,1,1,to-build,mihon,HentaiSco,en
+1371,hentaiseason.com,0,6,T3,,1,1,to-build,mihon,Hentai Season,pt-br
+1372,hentaislayer.net,0,6,T3,,1,1,to-build,mihon,هنتاي سلاير,ar
+1373,hentaitnt.net,0,6,T3,,1,1,to-build,mihon,HentaiTnT,en
+1374,hentaitokyo.net,0,6,T3,,1,1,to-build,mihon,Hentai Tokyo,pt-br
+1375,hentaivn.show,0,6,T3,,1,1,to-build,mihon,HentaiVN.plus,vi
+1376,hentaivnx.com,0,6,T3,,1,1,to-build,mihon,HentaiVNx,vi
+1377,hentaixcomic.com,0,6,T3,,1,1,to-build,mihon,HentaiXComic,en
+1378,hentaixdickgirl.com,0,6,T3,,1,1,to-build,mihon,HentaiXDickgirl,en
+1379,hentaixyuri.com,0,6,T3,,1,1,to-build,mihon,HentaiXYuri,en
+1380,hentaizap.com,0,6,T3,,1,1,to-build,mihon,HentaiZap,all|de|en|es|fr|ja|ko|ru
+1381,hentaizone.xyz,0,6,T3,,1,1,to-build,mihon,HentaiZone,fr
+1382,hentalk.pw,0,6,T3,,1,1,to-build,mihon,SpyFakku,en
+1383,hentara.com,0,6,T3,,1,1,to-build,mihon,Hentara,en
+1384,hhentai.fr,0,6,T3,,1,1,to-build,mihon,HistoireDHentai,fr
+1385,holyscans.com.tr,0,6,T3,,1,1,to-build,mihon,Holy Scans,tr
+1386,horahentai.com,0,6,T3,,1,1,to-build,mihon,Hora Hentai,pt-br
+1387,hotcomics.me,0,6,T3,,1,1,to-build,mihon,HotComics,en
+1388,hv2tcomics.net,0,6,T3,,1,1,to-build,mihon,Học Viện 2Ten,vi
+1389,idol.gravureprincess.date,0,6,T3,,1,1,to-build,mihon,Idol. gravureprincess .date,ja
+1390,ikuhentai.net,0,6,T3,,1,1,to-build,mihon,Ikuhentai,es
+1391,imhentai.xxx,0,6,T3,,1,1,to-build,mihon,IMHentai,all|de|en|es|fr|ja|ko|ru
+1392,incase.buttsmithy.com,0,6,T3,,1,1,to-build,mihon,Buttsmithy,en
+1393,inkapk.net,0,6,T3,,1,1,to-build,mihon,Inkapk,pt-br
+1394,irovedout.com,0,6,T3,,1,1,to-build,mihon,I Roved Out,en
+1395,jjcos.com,0,6,T3,,1,1,to-build,mihon,JJCOS,all
+1396,joymiihub.com,0,6,T3,,1,1,to-build,mihon,Joymii Hub,all
+1397,kabusmanga.com,0,6,T3,,1,1,to-build,mihon,Kabus Manga,tr
+1398,kaizenscan.com,0,6,T3,,1,1,to-build,mihon,Kaizen Scan,en
+1399,kemono.cr,0,6,T3,,1,1,to-build,mihon,Kemono,all
+1400,khomanhwa.com,0,6,T3,,1,1,to-build,mihon,KhoManhwa,vi
+1401,kingcomix.com,0,6,T3,,1,1,to-build,mihon,KingComiX,en
+1402,kiutaku.com,0,6,T3,,1,1,to-build,mihon,Kiutaku,all
+1403,komikdewasa.art,0,6,T3,,1,1,to-build,mihon,Komik Dewasa Art,id
+1404,komikdewasa.mom,0,6,T3,,1,1,to-build,mihon,Komik Dewasak,id
+1405,komikindo.cam,0,6,T3,,1,1,to-build,mihon,Komikindo,id
+1406,kumapoi.info,0,6,T3,,1,1,to-build,mihon,KumaPoi,id
+1407,kuroimanga.site,0,6,T3,,1,1,to-build,mihon,Kuroi Manga,tr
+1408,laviniafansub.shop,0,6,T3,,1,1,to-build,mihon,Lavinia Fansub,tr
+1409,lc2.mangakuri.online,0,6,T3,,1,1,to-build,mihon,Mangakuri,id
+1410,lector-darkroomfansub.blogspot.com,0,6,T3,,1,1,to-build,mihon,Dark Room Fansub,es
+1411,lector.lolivault.net,0,6,T3,,1,1,to-build,mihon,Lolivault,es
+1412,leermanhwas.com,0,6,T3,,1,1,to-build,mihon,LeerManhwas,es
+1413,lerhentais.com,0,6,T3,,1,1,to-build,mihon,Hipercool,pt-br
+1414,lermangas.me,0,6,T3,,1,1,to-build,mihon,Ler Mangas,pt-br
+1415,lianscans.com,0,6,T3,,1,1,to-build,mihon,LianScans,id
+1416,loverstoon.com,0,6,T3,,1,1,to-build,mihon,Cerise Scan,pt-br
+1417,lxmanga.org,0,6,T3,,1,1,to-build,mihon,LxManga.org (unoriginal),vi
+1418,lxmanga.space,0,6,T3,,1,1,to-build,mihon,LXManga,vi
+1419,mahouirexnohentaikarte.com,0,6,T3,,1,1,to-build,mihon,Mahouirexnohentaikarte,en
+1420,manatoki552.net,0,6,T3,,1,1,to-build,mihon,Manatoki,ko
+1421,manga.hentai.cat,0,6,T3,,1,1,to-build,mihon,Hentai.cat,ca
+1422,manga18.club,0,6,T3,,1,1,to-build,mihon,Manga18.Club,en
+1423,manga18.me,0,6,T3,,1,1,to-build,mihon,Manga18.me,all|en
+1424,manga18free.com,0,6,T3,,1,1,to-build,mihon,Manga18Free,en
+1425,manga18fx.com,0,6,T3,,1,1,to-build,mihon,Manga18fx,all|en
+1426,manga18x.net,0,6,T3,,1,1,to-build,mihon,Manga 18x,en
+1427,mangacrazy.net,0,6,T3,,1,1,to-build,mihon,MangaCrazy,all
+1428,mangadrama.com,0,6,T3,,1,1,to-build,mihon,Manga Drama,en
+1429,mangadusleri.mom,0,6,T3,,1,1,to-build,mihon,Mangadusleri,tr
+1430,mangaforfree.com,0,6,T3,,1,1,to-build,mihon,Mangaforfree.com,en
+1431,mangaforfree.net,0,6,T3,,1,1,to-build,mihon,MangaForFree.net,all|en|ko
+1432,mangafree.info,0,6,T3,,1,1,to-build,mihon,Mangafree,en
+1433,mangamaniacs.org,0,6,T3,,1,1,to-build,mihon,MangaManiacs,en
+1434,mangas.codearctraducciones.com,0,6,T3,,1,1,to-build,mihon,Code Arc Mangas,es
+1435,mangaxhentai.com,0,6,T3,,1,1,to-build,mihon,MangaHub,ar
+1436,mangtto.com,0,6,T3,,1,1,to-build,mihon,Mangitto,tr
+1437,manhastro.net,0,6,T3,,1,1,to-build,mihon,Manhastro,pt-br
+1438,manhatic.com,0,6,T3,,1,1,to-build,mihon,Manhatic,ar
+1439,manhuazonghe.com,0,6,T3,,1,1,to-build,mihon,Manhua Zonghe,en
+1440,manhwa-online.com,0,6,T3,,1,1,to-build,mihon,ManhwaOnline,es
+1441,manhwa-raw.com,0,6,T3,,1,1,to-build,mihon,Manhwa-raw,all
+1442,manhwa18.cc,0,6,T3,,1,1,to-build,mihon,Manhwa18.cc,all|en|ko
+1443,manhwa18.com,0,6,T3,,1,1,to-build,mihon,Manhwa18,en
+1444,manhwa18.net,0,6,T3,,1,1,to-build,mihon,Manhwa18.Net,en
+1445,manhwa18.org,0,6,T3,,1,1,to-build,mihon,Manhwa18.org,en
+1446,manhwa68.com,0,6,T3,,1,1,to-build,mihon,Manhwa68,en
+1447,manhwaclub.net,0,6,T3,,1,1,to-build,mihon,ManhwaClub.net,en|ko
+1448,manhwacomics.com,0,6,T3,,1,1,to-build,mihon,Manhwa Comics,en
+1449,manhwaden.com,0,6,T3,,1,1,to-build,mihon,ManhwaDen,en
+1450,manhwadesu.wiki,0,6,T3,,1,1,to-build,mihon,ManhwaDesu,id
+1451,manhwalike.com,0,6,T3,,1,1,to-build,mihon,Manhwalike,en
+1452,manhwamanhua.com,0,6,T3,,1,1,to-build,mihon,ManhwaManhua,en
+1453,manhwas.me,0,6,T3,,1,1,to-build,mihon,ManhwasMe,es
+1454,mediocrescan.com,0,6,T3,,1,1,to-build,mihon,Mediocre Toons,pt-br
+1455,mehentai.live,0,6,T3,,1,1,existing,mihon,MeHentai,vi
+1456,mehgazone.com,0,6,T3,,1,1,to-build,mihon,Mehgazone,en
+1457,meijuntu.com,0,6,T3,,1,1,to-build,mihon,Junmeitu,all
+1458,metarthunter.com,0,6,T3,,1,1,to-build,mihon,Metart Hunter,all
+1459,metruyen18.vip,0,6,T3,,1,1,to-build,mihon,MeTruyen18,vi
+1460,mihentai.net,0,6,T3,,1,1,to-build,mihon,Mihentai,id
+1461,mikrokosmosfb.blogspot.com,0,6,T3,,1,1,to-build,mihon,Mikrokosmos Fansub,tr
+1462,miku-doujin.com,0,6,T3,,1,1,to-build,mihon,MikuDoujin,th
+1463,milftoon.xxx,0,6,T3,,1,1,to-build,mihon,Milftoon,en
+1464,millascan.com,0,6,T3,,1,1,to-build,mihon,MilaSub,tr
+1465,mimihentai.moe,0,6,T3,,1,1,to-build,mihon,MiMi,vi
+1466,mimihentai.net,0,6,T3,,1,1,to-build,mihon,MiMiHentai,vi
+1467,misskon.com,0,6,T3,,1,1,to-build,mihon,MissKon,all
+1468,mitaku.net,0,6,T3,,1,1,to-build,mihon,Mitaku,all
+1469,momon-ga.com,0,6,T3,,1,1,to-build,mihon,momon:GA,ja
+1470,moondaisyscans.pro,0,6,T3,,1,1,to-build,mihon,Moon Daisy Scans,tr
+1471,mrtenzus.com,0,6,T3,,1,1,to-build,mihon,MR Tenzus,pt-br
+1472,muitohentai.com,0,6,T3,,1,1,to-build,mihon,Muito Hentai,pt-br
+1473,multporn.net,0,6,T3,,1,1,to-build,mihon,Multporn,en
+1474,mundohentaioficial.com,0,6,T3,,1,1,to-build,mihon,Mundo Hentai,pt-br
+1475,mundomanhwa.com,0,6,T3,,1,1,to-build,mihon,Mundo Manhwa,es
+1476,myadultcomics.com,0,6,T3,,1,1,to-build,mihon,MyAdultComics,en
+1477,myhentaicomics.com,0,6,T3,,1,1,to-build,mihon,MyHentaiComics,en
+1478,myhentaigallery.com,0,6,T3,,1,1,to-build,mihon,MyHentaiGallery,en
+1479,newcat1.xyz,0,6,T3,,1,1,to-build,mihon,Catoons,es
+1480,nexusscanlation.com,0,6,T3,,1,1,to-build,mihon,NexusScanlation,es
+1481,nhentaiclub.online,0,6,T3,,1,1,existing,mihon,NhentaiClub,vi
+1482,nineanime.com,0,6,T3,,1,1,to-build,mihon,NineAnime,en
+1483,nixmanga.com,0,6,T3,,1,1,to-build,mihon,NixManga,en
+1484,novelcrow.com,0,6,T3,,1,1,to-build,mihon,NovelCrow,en
+1485,ntr-manga.net,0,6,T3,,1,1,to-build,mihon,NTR-Manga,th
+1486,nude-moon.org,0,6,T3,,1,1,to-build,mihon,Nude-Moon,ru
+1487,nx-toons.xyz,0,6,T3,,1,1,to-build,mihon,Nexus Toons,pt-br
+1488,octopusmanga.com,0,6,T3,,1,1,to-build,mihon,OctopusManga,en
+1489,oglaf.com,0,6,T3,,1,1,to-build,mihon,Oglaf,en
+1490,ohjoysextoy.com,0,6,T3,,1,1,to-build,mihon,Oh Joy Sex Toy,en
+1491,omegascans.org,0,6,T3,,1,1,to-build,mihon,Omega Scans,en
+1492,onlythebesthentai.com,0,6,T3,,1,1,to-build,mihon,Only The Best Hentai,en
+1493,opiatoon.shop,0,6,T3,,1,1,to-build,mihon,Opiatoon,tr
+1494,orchisasia.org,0,6,T3,,1,1,to-build,mihon,Orchisasia,en
+1495,orckumangas.com,0,6,T3,,1,1,to-build,mihon,Orcku Mangas,es
+1496,ortegascans.fr,0,6,T3,,1,1,to-build,mihon,Ortega Scans,fr
+1497,ososedki.com,0,6,T3,,1,1,to-build,mihon,OSOSEDKI,all
+1498,paradise-bl.com,0,6,T3,,1,1,to-build,mihon,Paradise BL,ar
+1499,paradisescans.com,0,6,T3,,1,1,to-build,mihon,Paradise Scans,en
+1500,paritehaber.com,0,6,T3,,1,1,to-build,mihon,Paritehaber,en
+1501,pawchive.pw,0,6,T3,,1,1,to-build,mihon,Pawchive,all
+1502,pawmanga.com,0,6,T3,,1,1,to-build,mihon,Paw Manga,en
+1503,perf-scan.xyz,0,6,T3,,1,1,to-build,mihon,Perf Scan,fr
+1504,petrotechsociety.org,0,6,T3,,1,1,to-build,mihon,Petrotechsociety,en
+1505,photos18.com,0,6,T3,,1,1,to-build,mihon,Photos18,all
+1506,pixhentai.com,0,6,T3,,1,1,to-build,mihon,Pix Hentai,id
+1507,pmatehunter.com,0,6,T3,,1,1,to-build,mihon,Playmate Hunter,all
+1508,pornhwa.fr,0,6,T3,,1,1,to-build,mihon,Pornwha.fr,fr
+1509,pornhwa18.com,0,6,T3,,1,1,to-build,mihon,Pornhwa18,id
+1510,portalyaoi.com,0,6,T3,,1,1,to-build,mihon,Portal Yaoi,pt-br
+1511,psunicorn.com,0,6,T3,,1,1,to-build,mihon,Pink Sea Unicorn,pt-br
+1512,raw18.icu,0,6,T3,,1,1,to-build,mihon,Raw18,ja
+1513,rawdex.net,0,6,T3,,1,1,to-build,mihon,RawDEX,ko
+1514,revistasequadrinhos.com,0,6,T3,,1,1,to-build,mihon,Revistas e Quadrinhos,pt
+1515,revivalscans.com,0,6,T3,,1,1,to-build,mihon,Revival Scans,en
+1516,rokuhentai.com,0,6,T3,,1,1,to-build,mihon,Roku Hentai,all
+1517,rosesquadscans.aishiteru.org,0,6,T3,,1,1,to-build,mihon,Rose Squad Scans,en
+1518,ryukomik.my.id,0,6,T3,,1,1,to-build,mihon,Ryukomik,id
+1519,sasangeyou.net,0,6,T3,,1,1,to-build,mihon,Sasangeyou,id
+1520,sayhentai.cx,0,6,T3,,1,1,to-build,mihon,SayHentai,vi
+1521,scan-manga.com,0,6,T3,,1,1,to-build,mihon,Scan-Manga,fr
+1522,sektedoujin.cc,0,6,T3,,1,1,to-build,mihon,Sekte Doujin,id
+1523,seraphic-deviltry.com,0,6,T3,,1,1,to-build,mihon,SeraphicDeviltry,en
+1524,shibamanga.com,0,6,T3,,1,1,to-build,mihon,Shiba Manga,en
+1525,shirodoujin.com,0,6,T3,,1,1,to-build,mihon,Shiro Doujin,id
+1526,simply-cosplay.com,0,6,T3,,1,1,to-build,mihon,Simply Cosplay,all
+1527,sinhsieusao.com,0,6,T3,,1,1,to-build,mihon,SinhSieuSao,vi
+1528,siyahmelek.live,0,6,T3,,1,1,to-build,mihon,Siyah Melek,tr
+1529,sokuyomi.jp,0,6,T3,,1,1,to-build,mihon,Sokuyomi,ja
+1530,spanish.seraphic-deviltry.com,0,6,T3,,1,1,to-build,mihon,SeraphicDeviltry,es
+1531,starligthscan.com,0,6,T3,,1,1,to-build,mihon,Starlight Scan,pt-br
+1532,strayfansub.net,0,6,T3,,1,1,to-build,mihon,Stray Fansub,tr
+1533,submanhwa.com,0,6,T3,,1,1,to-build,mihon,Submanhwa,es
+1534,tankouhentai.com,0,6,T3,,1,1,to-build,mihon,Tankou Hentai,pt-br
+1535,temakimangas.blogspot.com,0,6,T3,,1,1,to-build,mihon,Temaki mangás,pt-br
+1536,templetoons.com,0,6,T3,,1,1,to-build,mihon,Temple Scan,en
+1537,theblank.net,0,6,T3,,1,1,to-build,mihon,The Blank,en
+1538,thienthaitruyen14.com,0,6,T3,,1,1,to-build,mihon,ThienThaiTruyen,vi
+1539,tiamanhwa.com,0,6,T3,,1,1,to-build,mihon,Tia Manhwa,pt-br
+1540,tmohentai.app,0,6,T3,,1,1,to-build,mihon,TMOHentai (unoriginal),es
+1541,toon-es.com,0,6,T3,,1,1,to-build,mihon,Toon-es,es
+1542,toon18.to,0,6,T3,,1,1,to-build,mihon,Toon18,en
+1543,tooncubus.top,0,6,T3,,1,1,to-build,mihon,Tooncubus,id
+1544,toonfr.com,0,6,T3,,1,1,to-build,mihon,Toon FR,fr
+1545,toonhey.com,0,6,T3,,1,1,to-build,mihon,ToonHey,en
+1546,toontop.io,0,6,T3,,1,1,to-build,mihon,Toonily.me,en
+1547,topcomicporno.com,0,6,T3,,1,1,to-build,mihon,TopComicPorno,es
+1548,topcomicporno.net,0,6,T3,,1,1,to-build,mihon,TopComicPorno.net,es
+1549,tranh18.cc,0,6,T3,,1,1,to-build,mihon,Tranh18,vi
+1550,truyen18.co,0,6,T3,,1,1,to-build,mihon,Truyen18,vi
+1551,truyenhentai18.net,0,6,T3,,1,1,existing,mihon,Truyện Hentai 18+,vi
+1552,truyenhentaivn.store,0,6,T3,,1,1,existing,mihon,TruyenHentaivn,vi
+1553,truyenhentaiz.net,0,6,T3,,1,1,existing,mihon,TruyenHentaiz,vi
+1554,truyenmmhayr.com,0,6,T3,,1,1,to-build,mihon,TruyenMM,vi
+1555,truyentranhdammyy.site,0,6,T3,,1,1,to-build,mihon,Truyện tranh đam mỹ,vi
+1556,truyentvn.net,0,6,T3,,1,1,to-build,mihon,TruyenTVN,vi
+1557,truyenvn.sbs,0,6,T3,,1,1,to-build,mihon,TruyenVN,vi
+1558,tuhafscans.com,0,6,T3,,1,1,to-build,mihon,Luna Scans,tr
+1559,turkcemangaoku.com.tr,0,6,T3,,1,1,to-build,mihon,Türkçe Manga Oku TR,tr
+1560,umetruyenz.org,0,6,T3,,1,1,to-build,mihon,UmeTruyen,vi
+1561,universohentai.com,0,6,T3,,1,1,to-build,mihon,Universo Hentai,pt-br
+1562,v2ph.com,0,6,T3,,1,1,to-build,mihon,V2PH,all
+1563,vercomicsporno.com,0,6,T3,,1,1,to-build,mihon,VCP,es
+1564,vermangasporno.com,0,6,T3,,1,1,to-build,mihon,VMP,es
+1565,vermanhwa.com,0,6,T3,,1,1,to-build,mihon,Ver Manhwas,es
+1566,vi-hentai.moe,0,6,T3,,1,1,to-build,mihon,ViHentai,vi
+1567,vinahentai.click,0,6,T3,,1,1,to-build,mihon,VinaHentai,vi
+1568,visorkoi.com,0,6,T3,,1,1,to-build,mihon,Koinobori Scan,es
+1569,vixenlogic.com,0,6,T3,,1,1,to-build,mihon,Vixen Logic,en
+1570,webtoonempire-bl.com,0,6,T3,,1,1,to-build,mihon,Empire Webtoon,ar
+1571,whalemanga.com,0,6,T3,,1,1,to-build,mihon,WhaleManga,en
+1572,wings.sbs,0,6,T3,,1,1,to-build,mihon,Sunshine Butterfly Scans,en
+1573,ww6.readchainsawman.com,0,6,T3,,1,1,to-build,mihon,Read Chainsaw Man Manga Online,en
+1574,x-manga.org,0,6,T3,,1,1,to-build,mihon,X-Manga,fr
+1575,xarthunter.com,0,6,T3,,1,1,to-build,mihon,XArt Hunter,all
+1576,xasiat.com,0,6,T3,,1,1,to-build,mihon,XAsiat Albums,all
+1577,xiutaku.com,0,6,T3,,1,1,to-build,mihon,Xiutaku,all
+1578,xlecx.one,0,6,T3,,1,1,to-build,mihon,XlecX,en
+1579,xxl.hentaichan.live,0,6,T3,,1,1,to-build,mihon,HenChan,ru
+1580,xyzcomics.com,0,6,T3,,1,1,to-build,mihon,XYZ Comics,en
+1581,yabai.si,0,6,T3,,1,1,to-build,mihon,Yabai,all
+1582,yaoi-chan.me,0,6,T3,,1,1,to-build,mihon,YaoiChan,ru
+1583,yaoibar.lol,0,6,T3,,1,1,to-build,mihon,Yaoibar,tr
+1584,yaoiflix.fit,0,6,T3,,1,1,to-build,mihon,Yaoi Flix,tr
+1585,yaoihot.com,0,6,T3,,1,1,to-build,mihon,YaoiHot,en
+1586,yaoihub.org,0,6,T3,,1,1,to-build,mihon,Yaoihub,en
+1587,yaoimangaoku.net,0,6,T3,,1,1,to-build,mihon,Yaoi Manga Oku,tr
+1588,yaoimangaonline.com,0,6,T3,,1,1,to-build,mihon,Yaoi Manga Online,all
+1589,yaoiscan.fr,0,6,T3,,1,1,to-build,mihon,YaoiScan,fr
+1590,yomumangas.com,0,6,T3,,1,1,to-build,mihon,Yomu Mangás,pt-br
+1591,yonaber.com,0,6,T3,,1,1,to-build,mihon,Yona Bar,ar
+1592,yurimoonsub.blogspot.com,0,6,T3,,1,1,to-build,mihon,Yuri Moon Sub,ar
+1593,zettahq.com,0,6,T3,,1,1,to-build,mihon,ZettaHQ,pt-br

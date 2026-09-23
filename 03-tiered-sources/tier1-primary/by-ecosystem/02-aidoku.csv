@@ -1,0 +1,8 @@
+﻿rank,domain,subclass,latency_ms,speed,http_status,quality_score,quality_tier,effort,official,nsfw,ecosystem_count,ecosystems,source_names
+13,zaimanhua.com,B-reachable,625,mid,200,48,T2,to-build,,0,2,aidoku|cimoc,HAOMAN8|zh.zaimanhua
+14,dm5.com,B-reachable,850,mid,200,62,T1,existing,,0,4,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋
+15,mangadex.org,B-reachable,880,mid,200,81,T1,existing,MangaDex (open licensed),0,3,aidoku|mihon|venera,MangaDex|multi.mangadex
+18,godamh.com,B-reachable,1056,mid,200,48,T1,to-build,,0,2,aidoku|cimoc,HaoManEight|zh.godamanga
+21,rawkuma.net,B-reachable,1402,slow,200,56,T1,existing,,0,3,aidoku|mihon|venera,Rawkuma|ja.rawkuma
+28,bilimanga.net,B-reachable,2128,slow,200,87,T1,existing,Bilibili Comics (official),0,4,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫
+29,shonenjumpplus.com,B-reachable,3676,slow,200,81,T1,existing,Shonen Jump+ (official),0,3,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋

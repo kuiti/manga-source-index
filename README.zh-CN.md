@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Sources](https://img.shields.io/badge/sources-3126%20records%20%2F%201593%20sites-blue.svg)](#数据规模)
+[![Chinese](https://img.shields.io/badge/chinese%20sources-256-red.svg)](#数据规模)
 
 **简体中文** | [English](README.md)
 
@@ -11,6 +12,8 @@
 再按质量评分和三档分级。每一层都提供「跨生态去重总表 + 按生态拆分表」，
 方便按生态溯源，也方便按目标格式二次适配。
 
+> 只有数据。本仓库只索引**公开的源元信息**（站点域名、名称、所属生态），不托管任何漫画内容。
+
 ## 数据规模
 
 | 类别 | 源记录 | 说明 |
@@ -19,95 +22,104 @@
 | 所有生态 · 中文源 | **593 条** → 去重后 **256 个唯一站点** | 中文向 |
 | 所有生态 · 三档源 | 一档 32 · 二档 115 · 三档 102 · 已废 7 | 中文源按可用性与延迟分档 |
 
-> 注：`05-Venera.csv` 与 `06-Cimoc.csv` 的条数是各源仓库/配置的**原始记录数**，
+> 注：`05-venera.csv` 与 `06-cimoc.csv` 的条数是各源仓库/配置的**原始记录数**，
 > 同一源可能出现在多个社区仓库中，故会大于去重后数量。
 
 ## 目录结构
 
+> 仓库内目录名、文件名、表头、枚举值**全部为英文**；只有源名（`names` / `source_name`）
+> 保留原始写法（中/日文），因为那是各生态内部的标识符。
+
 ```
-01-所有生态-所有源/
-├── 00-去重总表.csv / .json          1593 个唯一站点（跨生态合并）
-├── 01-Mihon系.csv                   2372 条
-├── 02-Aidoku.csv                    136 条
-├── 03-Kotatsu.csv                   137 条
-├── 04-阅读Legado.csv                182 条
-├── 05-Venera.csv                    204 条
-├── 06-Cimoc.csv                     81 条
-└── 07-MangaReader.csv               14 条
+01-all-sources/                          所有生态 · 所有源
+├── 00-deduplicated-master.csv / .json   1593 个唯一站点（含排名与评分）
+├── 01-mihon-family.csv                  2372 条
+├── 02-aidoku.csv                        136 条
+├── 03-kotatsu.csv                       137 条
+├── 04-legado.csv                        182 条
+├── 05-venera.csv                        204 条
+├── 06-cimoc.csv                         81 条
+└── 07-mangareader.csv                   14 条
 
-02-所有生态-中文源/
-├── 00-去重总表.csv / .json          256 个唯一站点（含质量评分、适配工作量）
-├── 01-Mihon系.csv                   88 条
-├── 02-Aidoku.csv                    21 条
-├── 03-Kotatsu.csv                   3 条
-├── 04-阅读Legado.csv                182 条
-├── 05-Venera.csv                    204 条
-├── 06-Cimoc.csv                     81 条
-└── 07-MangaReader.csv               14 条
+02-chinese-sources/                      所有生态 · 中文源
+├── 00-deduplicated-master.csv / .json   256 个唯一站点（含排名与评分）
+├── 01-mihon-family.csv                  88 条
+├── 02-aidoku.csv                        21 条
+├── 03-kotatsu.csv                       3 条
+├── 04-legado.csv                        182 条
+├── 05-venera.csv                        204 条
+├── 06-cimoc.csv                         81 条
+└── 07-mangareader.csv                   14 条
 
-03-所有生态-三档源/
-├── 一档-首用/        00-本档完整清单.csv 32 条  +  按生态/*.csv
-├── 二档-备用/        00-本档完整清单.csv 115 条 +  按生态/*.csv
-├── 三档-待复测/      00-本档完整清单.csv 102 条 +  按生态/*.csv
-├── 已废-不建议投入/  00-本档完整清单.csv 7 条   +  按生态/*.csv
-└── 前两档精选.csv/.json  147 条（一档 + 二档，原始需求「分档的三档的前两档」）
+03-tiered-sources/                       所有生态 · 三档源
+├── tier1-primary/     00-full-list.csv 32 条  +  by-ecosystem/*.csv
+├── tier2-backup/      00-full-list.csv 115 条 +  by-ecosystem/*.csv
+├── tier3-retest/      00-full-list.csv 102 条 +  by-ecosystem/*.csv
+├── dead-skip/         00-full-list.csv 7 条   +  by-ecosystem/*.csv
+└── tier1-2-selection.csv / .json        147 条（一档 + 二档）
 
-04-工具/
-├── 全量重建.py          一键跑完整条流水线（可 --skip-network）
-├── 源工具.py            共享函数：域名归一化 norm()、源名折叠 fold_name()
-├── 重建清单.py          原始提取结果 → 去重主表 + 全量评分表 + 中文优先清单
-├── 连通性检测.py        并发探测站点存活与延迟
-├── 三档分级.py          按可用性与延迟分档
-├── 开源仓库构建.py      生成本仓库的三大类数据目录
-└── 手机源构建.py        生成手机上用的 Venera 源三档目录
+04-tools/                                可复现流水线
+├── rebuild_all.py        一键跑完整条流水线（--skip-network 可离线）
+├── source_utils.py       共享函数：域名归一化 norm()、源名折叠 fold_name()
+├── rebuild_index.py      原始提取结果 → 去重主表 + 全量评分表 + 中文优先清单
+├── check_connectivity.py 并发探测站点存活与延迟
+├── build_tiers.py        按可用性与延迟分档
+├── build_repo.py         生成本仓库的数据目录（唯一的中→英导出层）
+└── build_phone_sources.py 生成手机上用的 Venera 源分档目录
 ```
 
 ## 字段说明
 
-### 去重总表（`00-去重总表.csv`）
+### 去重总表（`00-deduplicated-master.csv`）
 
 | 字段 | 含义 |
 |---|---|
-| `domain` | 归一化后的站点域名（去协议、去 www/m/cn 前缀、去路径与端口），**去重主键** |
-| `ecosystems` | 收录该站点的生态，`\|` 分隔 |
-| `eco_count` | 被多少个生态收录（越多说明站点越稳定、内容量越大） |
-| `names` | 各生态里该站点的源名称 |
+| `rank` | 表内排名（中文源优先，再按评分降序） |
+| `domain` | 归一化后的站点域名（去协议、去 `www/m/mobile/cn/app` 前缀、去端口/路径/查询串），**去重主键** |
+| `is_chinese` | 是否判定为中文向，`1`/`0` |
 | `score` | 质量评分，0–100 |
-| `tier` | 质量层 T1/T2/T3（按分位数） |
+| `tier` | 质量层 `T1`/`T2`/`T3`（在中文源内按分位数） |
 | `official` | 已知的官方正版/授权站点名称，空表示非官方 |
 | `nsfw` | 是否成人向 |
-| `effort` | 适配工作量：`已有实现`（Venera 已有现成源）/ `需新写` |
+| `eco_count` | 被多少个生态收录（越多说明站点越稳定、内容量越大） |
+| `effort` | 适配工作量：`existing` = Venera 已有现成源 · `to-build` = 需新写 |
+| `ecosystems` | 收录该站点的生态，`\|` 分隔 |
+| `names` | 各生态里该站点的源名称（保留原始写法） |
+| `langs` | 该站点出现过的语言标记 |
 
-### 按生态拆分表
-
-| 字段 | 含义 |
-|---|---|
-| `生态` | 所属生态 |
-| `源名` | 该生态里的源名称 |
-| `站点域名` | 归一化域名（Kotatsu 未提取域名，此列为空） |
-| `语言` | 源的语言标记 |
-| `NSFW` | 该源所在扩展的内容分级 |
-| `标识/包名` | 该生态内的唯一标识（Mihon 为扩展包名、Aidoku 为源目录名、Cimoc 为源 KEY 等） |
-
-### 三档表
-
-在通用字段基础上增加：
+### 按生态拆分表（`01-*.csv` … `07-*.csv`）
 
 | 字段 | 含义 |
 |---|---|
-| `档位` | 一档-首用 / 二档-备用 / 三档-待复测 / 已废-不建议投入 |
-| `档内排名` | 档内按延迟升序的名次 |
-| `子类` | `B-正常可达`、`A-反爬拦截(活着)`、`C-超时(待复测)`、`C-代理/网关错误(待复测)`、`D-HTTP错误(可能改版)`、`E-其他失败`、`F-DNS/TLS失败(已废)` |
-| `延迟ms` / `速度` | 首页响应耗时；快 &lt;400ms · 中 400–1200ms · 慢 &gt;1200ms |
-| `适配工作量` | `已有实现` / `需新写` |
-| `收录生态` | 该站点被哪些生态收录 |
+| `ecosystem` | 生态显示名 |
+| `source_name` | 该生态里的源名称 |
+| `domain` | 归一化域名（Kotatsu 未提取域名，此列为空） |
+| `language` | 源的语言标记 |
+| `nsfw` | 该源所在扩展的内容分级 |
+| `identifier` | 该生态内的唯一标识（Mihon 为扩展包名、Aidoku 为源目录名、Cimoc 为源 KEY、Legado 为书源分组 等） |
+
+### 三档表（`00-full-list.csv`、`tier1-2-selection.csv`）
+
+在总表字段基础上增加：
+
+| 字段 | 含义 |
+|---|---|
+| `tier` | `tier1-primary` / `tier2-backup` / `tier3-retest` / `dead-skip`（仅出现在精选表） |
+| `rank` | 档内按延迟升序的名次 |
+| `subclass` | `B-reachable`（正常可达）· `A-bot-blocked (alive)`（反爬拦截，活着）· `C-timeout (retest)`（超时）· `C-proxy-or-gateway-error (retest)`（代理/网关错误）· `D-http-error (possibly redesigned)`（HTTP 错误，可能改版）· `E-other-failure`（其他失败）· `F-dns-failure (dead)` / `F-tls-failure (dead)`（DNS/TLS 失败，已废） |
+| `latency_ms` / `speed` | 首页响应耗时；`fast` <400ms · `mid` 400–1200ms · `slow` >1200ms |
+| `http_status` | 最近一次探测的 HTTP 状态码 |
+| `quality_score` / `quality_tier` | 同总表的 `score` / `tier` |
+| `effort` | `existing` / `to-build` |
+| `ecosystem_count` / `ecosystems` | 被多少个 / 哪些生态收录 |
+| `source_names` | 该站点在各生态的源名称 |
 
 ## 各生态来源
 
 | 生态 | 源记录 | 索引来源 |
 |---|---|---|
-| Mihon系 | 2372 | `keiyoushi/extensions` 的 `index.json`（Mihon / Tachiyomi / Suwayomi / Komikku / Neko 共用） |
-| 阅读Legado | 182 | `aoaostar/legado` 的 `sources/*.json`，仅取 `bookSourceGroup` 含「漫画」的条目 |
+| Mihon 系 | 2372 | `keiyoushi/extensions` 的 `index.json`（Mihon / Tachiyomi / Suwayomi / Komikku / Neko 共用） |
+| Legado（阅读） | 182 | `aoaostar/legado` 的 `sources/*.json`，仅取 `bookSourceGroup` 含「漫画」的条目 |
 | Kotatsu | 137 | `KotatsuApp/kotatsu-parsers` 解析器类清单 |
 | Aidoku | 136 | `aidoku-community/sources`，域名取自各源 `src/lib.rs` 的 `BASE_URL` 常量 |
 | Venera | 204 | `venera-app/venera-configs` 及 5 个社区源仓库（原始记录数，含跨仓库重复） |
@@ -140,7 +152,7 @@ Tachiyomi 系（Mihon）的索引里，同一个站点会**按语言重复展开
 | 来自已归档生态（Kotatsu） | −6 |
 | NSFW | −12 |
 
-中文向判定：`language` 属于 zh 系列 ∪ 生态属于 Cimoc/Venera/MangaReader（天然中文向）
+中文向判定：`language` 属于 zh 系列 ∪ 生态属于 Cimoc/Venera/Legado/MangaReader（天然中文向）
 ∪ 源名含中日文字符。
 
 ### 三档规则
@@ -149,27 +161,27 @@ Tachiyomi 系（Mihon）的索引里，同一个站点会**按语言重复展开
 
 | 档位 | 规则 |
 |---|---|
-| 一档-首用 | HTTP 200 可达，且（官方正版 或 跨生态收录 或 质量分 ≥ 46） |
-| 二档-备用 | HTTP 200 可达，但为单生态小站 |
-| 三档-待复测 | 反爬 403/503、超时、代理网关错误、HTTP 4xx |
-| 已废 | DNS 解析失败或 TLS 握手失败，不建议投入 |
+| `tier1-primary`（一档-首用） | HTTP 200 可达，且（官方正版 或 跨生态收录 或 质量分 ≥ 46） |
+| `tier2-backup`（二档-备用） | HTTP 200 可达，但为单生态小站 |
+| `tier3-retest`（三档-待复测） | 反爬 403/503、超时、代理网关错误、HTTP 4xx |
+| `dead-skip`（已废） | DNS 解析失败或 TLS 握手失败，不建议投入 |
 
 ### 连通性检测
 
-`04-工具/连通性检测.py`，并发探测每个域名的 `https://` 与 `http://` 首页，
+`04-tools/check_connectivity.py` 并发探测每个域名的 `https://` 与 `http://` 首页，
 记录状态码、延迟、页面标题，并粗判是否为漫画站。
 
 ```bash
-python 04-工具/连通性检测.py --input 02-所有生态-中文源/00-去重总表.json --tag 本地环境 --workers 30
-python 04-工具/连通性检测.py --input 02-所有生态-中文源/00-去重总表.json --tag 全局代理 --workers 30
-python 04-工具/连通性检测.py --input 02-所有生态-中文源/00-去重总表.json --tag 直连 --no-proxy
+python 04-tools/check_connectivity.py --input 02-chinese-sources/00-deduplicated-master.json --tag local --workers 30
+python 04-tools/check_connectivity.py --input 02-chinese-sources/00-deduplicated-master.json --tag proxy --workers 30
+python 04-tools/check_connectivity.py --input 02-chinese-sources/00-deduplicated-master.json --tag direct --no-proxy
 ```
 
 ```bash
-python 04-工具/三档分级.py \
-    --sources 02-所有生态-中文源/00-去重总表.json \
-    --connectivity connectivity_本地环境.json \
-    --outdir 03-所有生态-三档源 --prefix 三档分级清单
+python 04-tools/build_tiers.py \
+    --sources 02-chinese-sources/00-deduplicated-master.json \
+    --connectivity connectivity_local.json \
+    --outdir 03-tiered-sources --prefix tiers
 ```
 
 **重要：连通性结果与网络环境强相关。**
@@ -179,18 +191,19 @@ python 04-工具/三档分级.py \
 
 ## 已知情况
 
-- **域名归一化**：会剥掉协议、`www/m/mobile/cn/app` 前缀、端口、路径与查询串，
-  并清洗 `example.com已整理` 这类脏尾巴；CDN 地址（jsDelivr、raw.githubusercontent 等）
-  不作为站点域名。
+- **域名归一化**：会剥掉协议、`www/m/mobile/cn/app` 前缀、端口、路径与查询串，并清洗脏尾巴；
+  CDN 地址（jsDelivr、raw.githubusercontent 等）不作为站点域名。
 - **Kotatsu 未提取域名**：其 137 个源是解析器类，域名需逐个解析 Kotlin 源码，暂未补全。
 - **反爬站点**：约 12 个高质量站在裸请求下返回 403/503（Cloudflare 等），
   它们并未失效，适配时带上 `Referer` / `Cookie` 或走浏览器内核即可。
 - **成人向内容**：中文源 256 个中 40 个标记为 NSFW，可按 `nsfw` 字段过滤。
 - **CDN 地址已全部排除**：Venera 源 js 里的 `url` 字段是源的**更新地址**
   （`cdn.jsdelivr.net/...`），不是站点域名；早期版本误把它当站点域，
-  导致数十个源被折叠成同一个假站点。现已由 `源工具.norm()` 统一排除。
+  导致数十个源被折叠成同一个假站点。现已由 `source_utils.norm()` 统一排除。
 - **适配工作量**（`effort` 字段）：中文源 256 个中 **95 个已有现成 Venera 实现**
   （装上即可用），**161 个需新写**。
+- **源名不翻译**：`names` / `source_name` 保留原始写法（常为中文或日文），
+  它们是各生态内部用于标识源的名称，翻译后会失去对应关系。
 
 ## 免责声明
 
