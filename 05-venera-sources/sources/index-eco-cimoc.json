@@ -1,0 +1,74 @@
+[
+    {
+        "name": "看漫画",
+        "key": "kanman",
+        "version": "2.2.7",
+        "fileName": "kanman.js"
+    },
+    {
+        "name": "漫本",
+        "key": "manben",
+        "version": "1.1.0",
+        "fileName": "manben.js"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua_fixed_v15",
+        "version": "1.2.6",
+        "fileName": "rumanhua_fixed_v16.js"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua",
+        "version": "2.4.1",
+        "fileName": "rumanhua.js"
+    },
+    {
+        "name": "动漫屋",
+        "key": "dm5",
+        "version": "7.0.0",
+        "fileName": "dm5.js"
+    },
+    {
+        "name": "来漫画（分流）",
+        "key": "laimanhua_split",
+        "version": "1.2.1",
+        "fileName": "laimanhua_split_hosts_v1.2.1_configurable.js"
+    },
+    {
+        "name": "嗶哩漫畫",
+        "key": "bilimanga",
+        "version": "1.1.0",
+        "fileName": "bilimanga.js"
+    },
+    {
+        "name": "野漫漫画(漫神)",
+        "key": "yemanmh",
+        "version": "1.0.0",
+        "fileName": "yemanmh.js"
+    },
+    {
+        "name": "优酷漫画",
+        "key": "ykmh",
+        "version": "1.0.0",
+        "fileName": "ykmh.js"
+    },
+    {
+        "name": "MYCOMIC",
+        "key": "mycomic",
+        "version": "1.1.0",
+        "fileName": "mycomic.js"
+    },
+    {
+        "name": "Komiic",
+        "key": "Komiic",
+        "version": "1.0.3",
+        "fileName": "komiic.js"
+    },
+    {
+        "name": "Mangabz",
+        "key": "mangabz",
+        "version": "0.9.3",
+        "fileName": "mangabz.js"
+    }
+]

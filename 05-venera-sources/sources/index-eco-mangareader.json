@@ -1,0 +1,26 @@
+[
+    {
+        "name": "嗨皮漫画",
+        "key": "happy",
+        "version": "1.0.0",
+        "fileName": "happy.js"
+    },
+    {
+        "name": "Mangabz",
+        "key": "mangabz",
+        "version": "0.9.3",
+        "fileName": "mangabz.js"
+    },
+    {
+        "name": "nhentai",
+        "key": "nhentai",
+        "version": "1.1.0",
+        "fileName": "nhentai.js"
+    },
+    {
+        "name": "漫画柜",
+        "key": "ManHuaGui",
+        "version": "1.2.1",
+        "fileName": "manhuagui.js"
+    }
+]

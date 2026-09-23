@@ -1,0 +1,26 @@
+[
+    {
+        "name": "漫客栈",
+        "key": "mkzhan",
+        "version": "1.1.4",
+        "fileName": "mkzhan.js"
+    },
+    {
+        "name": "看漫画",
+        "key": "kanman",
+        "version": "2.2.7",
+        "fileName": "kanman.js"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official_v1",
+        "version": "1.0.3",
+        "fileName": "tencent_comic_official.js"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official",
+        "version": "2.0.0",
+        "fileName": "qq_comic_official.js"
+    }
+]

@@ -6,7 +6,7 @@
 一、按档位 / by tier
 ==================================================================
 
-[all   ]  79 个
+[all   ]  80 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json
   pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/all/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json
@@ -21,7 +21,7 @@
   pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/tier2/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier2/index.json
 
-[tier3 ]  26 个
+[tier3 ]  27 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json
   pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/tier3/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json
@@ -49,7 +49,7 @@
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/index.json
   tier1  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/tier1/index.json
 
-[venera     ] Venera   75 个
+[venera     ] Venera   76 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json
   tier1  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier1/index.json
   tier2  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier2/index.json
@@ -74,5 +74,37 @@
 ==================================================================
 三、每个文件的直接地址 / per-file URLs
 ==================================================================
-  共 79 个，列表见同目录 files.txt（人看）/ files.json（机器读）
+  共 80 个，列表见同目录 files.txt（人看）/ files.json（机器读）
   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/files.txt
+
+==================================================================
+四、严格官方格式 / official-format lists
+==================================================================
+  字段与官方 venera-configs 完全一致（name/key/version/fileName），无扩展字段。
+  因官方格式无 url，App 只能按「列表目录 + fileName」定位 js，
+  故这些文件与 js 同级放在 sources/ 下。代价：App 里看不到档位提示。
+
+[index.json                ]  80 个  全部 / all
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index.json
+[index-tier1.json          ]  19 个  一档
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-tier1.json
+[index-tier2.json          ]  33 个  二档
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-tier2.json
+[index-tier3.json          ]  27 个  三档
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-tier3.json
+[index-extra.json          ]   1 个  其他-未定档
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-extra.json
+[index-eco-mihon.json      ]  23 个  mihon
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-mihon.json
+[index-eco-aidoku.json     ]  11 个  aidoku
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-aidoku.json
+[index-eco-legado.json     ]   4 个  legado
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-legado.json
+[index-eco-venera.json     ]  76 个  venera
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-venera.json
+[index-eco-cimoc.json      ]  12 个  cimoc
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-cimoc.json
+[index-eco-mangareader.json]   4 个  mangareader
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-mangareader.json
+[index-eco-unmapped.json   ]   3 个  unmapped
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-unmapped.json

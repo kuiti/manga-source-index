@@ -111,51 +111,53 @@
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/wmanhua.js
  55. 拷贝漫画  [tier3-retest · 35ms]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/copy_manga.js
- 56. 动漫啦  [tier3-retest · 431ms]
+ 56. 拷贝漫画M  [tier3-retest · 35ms]
+     https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/copy_manga_multi_accounts.js
+ 57. 动漫啦  [tier3-retest · 431ms]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dongman_la_fixed_v101.js
- 57. 优酷漫画  [tier3-retest · 812ms]
+ 58. 优酷漫画  [tier3-retest · 812ms]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ykmh.js
- 58. MYCOMIC  [tier3-retest · 834ms]
+ 59. MYCOMIC  [tier3-retest · 834ms]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mycomic.js
- 59. カドコミ  [tier3-retest · 979ms]
+ 60. カドコミ  [tier3-retest · 979ms]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/comic_walker.js
- 60. 18漫画  [tier3 · -]
+ 61. 18漫画  [tier3 · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mh18.js
- 61. CosplayTele  [tier3-retest · -]
+ 62. CosplayTele  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/cosplaytele.js
- 62. H-Comic  [dead-skip · -]
+ 63. H-Comic  [dead-skip · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hcomic.js
- 63. Kavita  [tier3-retest · -]
+ 64. Kavita  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/kavita.js
- 64. Komiic  [dead-skip · -]
+ 65. Komiic  [dead-skip · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/komiic.js
- 65. Mangabz  [tier3-retest · -]
+ 66. Mangabz  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mangabz.js
- 66. Picacg  [tier3-retest · -]
+ 67. Picacg  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/picacg.js
- 67. Pixiv  [tier3-retest · -]
+ 68. Pixiv  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/pixiv.js
- 68. ehentai  [tier3-retest · -]
+ 69. ehentai  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ehentai.js
- 69. hitomi.la  [tier3-retest · -]
+ 70. hitomi.la  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hitomi.js
- 70. jcomic.net  [tier3-retest · -]
+ 71. jcomic.net  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/jcomic.js
- 71. nhentai  [tier3-retest · -]
+ 72. nhentai  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/nhentai.js
- 72. 漫小肆  [tier3-retest · -]
+ 73. 漫小肆  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mxs.js
- 73. 漫画柜  [tier3-retest · -]
+ 74. 漫画柜  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manhuagui.js
- 74. 漫蛙吧  [tier3-retest · -]
+ 75. 漫蛙吧  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manwaba.js
- 75. 热辣漫画  [tier3-retest · -]
+ 76. 热辣漫画  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hot_manga.js
- 76. 爱看漫  [tier3-retest · -]
-     https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ikmmh.js
  77. 爱看漫  [tier3-retest · -]
+     https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ikmmh.js
+ 78. 爱看漫  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ikmmh_v2.js
- 78. 紳士漫畫  [tier3-retest · -]
+ 79. 紳士漫畫  [tier3-retest · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/wnacg.js
- 79. 311漫画  [extra · -]
+ 80. 311漫画  [extra · -]
      https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/311.js

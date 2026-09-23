@@ -1,0 +1,140 @@
+[
+    {
+        "name": "咚漫",
+        "key": "dongmanmanhua",
+        "version": "1.0.6",
+        "fileName": "dongmanmanhua.js"
+    },
+    {
+        "name": "咚漫",
+        "key": "dongman",
+        "version": "1.0.8",
+        "fileName": "dongman.js"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua_fixed_v15",
+        "version": "1.2.6",
+        "fileName": "rumanhua_fixed_v16.js"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua",
+        "version": "2.4.1",
+        "fileName": "rumanhua.js"
+    },
+    {
+        "name": "动漫屋",
+        "key": "dm5",
+        "version": "7.0.0",
+        "fileName": "dm5.js"
+    },
+    {
+        "name": "MangaDex",
+        "key": "manga_dex",
+        "version": "1.2.0",
+        "fileName": "manga_dex.js"
+    },
+    {
+        "name": "漫画看",
+        "key": "mhkan",
+        "version": "1.1.7",
+        "fileName": "mhkan.js"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official_v1",
+        "version": "1.0.3",
+        "fileName": "tencent_comic_official.js"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official",
+        "version": "2.0.0",
+        "fileName": "qq_comic_official.js"
+    },
+    {
+        "name": "Rawkuma",
+        "key": "rawkuma",
+        "version": "1.1.0",
+        "fileName": "rawkuma.js"
+    },
+    {
+        "name": "LINE WEBTOON",
+        "key": "webtoons_zh_hant",
+        "version": "1.0.0",
+        "fileName": "webtoons_zh_hant.js"
+    },
+    {
+        "name": "嗶哩漫畫",
+        "key": "bilimanga",
+        "version": "1.1.0",
+        "fileName": "bilimanga.js"
+    },
+    {
+        "name": "少年ジャンプ＋",
+        "key": "shonen_jump_plus",
+        "version": "1.1.1",
+        "fileName": "shonen_jump_plus.js"
+    },
+    {
+        "name": "瓜子漫画",
+        "key": "guazimanhua",
+        "version": "1.0.4",
+        "fileName": "guazi_manhua_v1.1.0.js"
+    },
+    {
+        "name": "zero搬运网",
+        "key": "zerobyw",
+        "version": "1.2.0",
+        "fileName": "zero.js"
+    },
+    {
+        "name": "优酷漫画",
+        "key": "ykmh",
+        "version": "1.0.0",
+        "fileName": "ykmh.js"
+    },
+    {
+        "name": "MYCOMIC",
+        "key": "mycomic",
+        "version": "1.1.0",
+        "fileName": "mycomic.js"
+    },
+    {
+        "name": "CosplayTele",
+        "key": "cosplaytele",
+        "version": "1.0.3",
+        "fileName": "cosplaytele.js"
+    },
+    {
+        "name": "H-Comic",
+        "key": "hcomic",
+        "version": "1.0.0",
+        "fileName": "hcomic.js"
+    },
+    {
+        "name": "Komiic",
+        "key": "Komiic",
+        "version": "1.0.3",
+        "fileName": "komiic.js"
+    },
+    {
+        "name": "Mangabz",
+        "key": "mangabz",
+        "version": "0.9.3",
+        "fileName": "mangabz.js"
+    },
+    {
+        "name": "jcomic.net",
+        "key": "jcomic",
+        "version": "1.0.0",
+        "fileName": "jcomic.js"
+    },
+    {
+        "name": "漫画柜",
+        "key": "ManHuaGui",
+        "version": "1.2.1",
+        "fileName": "manhuagui.js"
+    }
+]

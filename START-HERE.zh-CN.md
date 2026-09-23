@@ -33,7 +33,7 @@ https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/
 
 点 **Refresh**，列表就出来了。每个源右边有一个 **Add** 按钮，点一下就把这个源装进去。
 
-**新手直接用这一条就行** —— 它是全部 79 个源，已经按质量排好序（好的在前面）。
+**新手直接用这一条就行** —— 它是全部 80 个源，已经按质量排好序（好的在前面）。
 每个源的名字下面会有一行小字，比如 `tier1-primary · 110ms · 2 ecosystems`，
 那是它的档位、响应速度和被多少个生态收录。看着顺眼就 Add。
 
@@ -47,7 +47,7 @@ https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/
 |---|---|---|
 | **一档** `tier1` | 19 | **最稳最快的**。两轮探测都是正常 200，站点也稳定。**先装这一批** |
 | **二档** `tier2` | 33 | 能用，但站点小一些，或者只被一个生态收录。一档不够时再来拿 |
-| **三档** `tier3` | 26 | **要折腾的**：被反爬拦、或超时、或站点改版了。想碰运气就试 |
+| **三档** `tier3` | 27 | **要折腾的**：被反爬拦、或超时、或站点改版了。想碰运气就试 |
 | 其他 `extra` | 1 | 没归进上面的（缺域名信息，没法判断） |
 
 **只想装最靠谱的** → 用一档那条地址。
@@ -61,10 +61,10 @@ https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/
 
 | 列表 | 源数 | 地址（直接复制） |
 |---|---|---|
-| 全部 | 79 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json` |
+| 全部 | 80 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json` |
 | 一档 · 首用 | 19 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json` |
 | 二档 · 备用 | 33 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json` |
-| 三档 · 待复测 | 26 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json` |
+| 三档 · 待复测 | 27 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json` |
 | 其他 · 未定档 | 1 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json` |
 
 ---
@@ -77,14 +77,14 @@ https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/
 | 生态 | 源数 | 全部档 | 一档 | 二档 | 三档 |
 |---|---|---|---|---|---|
 | Mihon 系 | 23 | [`…/mihon/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/index.json) | [一档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier1/index.json) | — | [三档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier3/index.json) |
-| Venera | 75 | [`…/venera/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json) | [一档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier1/index.json) | [二档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier2/index.json) | [三档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier3/index.json) |
+| Venera | 76 | [`…/venera/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json) | [一档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier1/index.json) | [二档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier2/index.json) | [三档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier3/index.json) |
 | Cimoc | 12 | [`…/cimoc/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/index.json) | [一档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier1/index.json) | [二档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier2/index.json) | [三档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier3/index.json) |
 | Aidoku（iOS） | 11 | [`…/aidoku/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/index.json) | [一档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier1/index.json) | — | [三档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier3/index.json) |
 | 阅读 Legado | 4 | [`…/legado/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/index.json) | [一档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/tier1/index.json) | — | — |
 | MangaReader | 4 | [`…/mangareader/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mangareader/index.json) | — | — | [三档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mangareader/tier3/index.json) |
 | 未归类 | 3 | [`…/unmapped/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/index.json) | — | [二档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier2/index.json) | [三档](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier3/index.json) |
 
-> **这是重叠分类**：一个源覆盖的站点可能同时被好几个生态收录，所以各生态的源数相加会 **大于 79**。
+> **这是重叠分类**：一个源覆盖的站点可能同时被好几个生态收录，所以各生态的源数相加会 **大于 80**。
 > 这个维度是给「只想要某类站」的人用的，新手忽略它，直接用上面的档位地址就好。
 
 ---
@@ -93,7 +93,7 @@ https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/
 
 Venera 的源页顶部还有一个单独的 URL 输入框，粘一个 `.js` 地址就能直接加那一个源。
 
-**全部 79 个源的逐条地址**（带档位和延迟）在这两个文件里：
+**全部 80 个源的逐条地址**（带档位和延迟）在这两个文件里：
 
 - 人看：[`05-venera-sources/files.txt`](05-venera-sources/files.txt)
 - 程序读：[`05-venera-sources/files.json`](05-venera-sources/files.json)
@@ -118,7 +118,7 @@ https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sour
 | **列表太长看不过来** | 只用一档那条地址，19 个，看完再考虑加 |
 | **有成人内容** | 列表里确实含成人向源（约 40 个站点）。不需要的在 App 的源管理里单独关掉 |
 | **会不会有法律问题？** | 见下面免责声明。清单里的站绝大多数是第三方非官方站，用之前自己判断，优先支持正版 |
-| **这些数据哪来的？** | 从 7 个开源漫画阅读器生态收集的源定义，去重、评分、实测后分档。细节看 [README.zh-CN.md](README.zh-CN.md) |
+| **这些数据哪来的？** | 从 7 个开源漫画阅读器生态收集的源定义，去重、评分、实测后分档。**已包含 Venera 官方源列表的全部 33 个源**，另外多了 47 个。细节看 [README.zh-CN.md](README.zh-CN.md) |
 | **iPhone 能用吗？** | Venera 是安卓应用，用不了。iOS 那边生态不一样，本仓库有 Aidoku 的源清单数据可以参考 |
 
 ---

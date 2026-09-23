@@ -34,7 +34,7 @@ https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/
 Tap **Refresh** and the list appears. Each source has an **Add** button on the right —
 tap it to install that source.
 
-**Beginners: just use that one URL.** It is all 79 sources, already sorted best-first.
+**Beginners: just use that one URL.** It is all 80 sources, already sorted best-first.
 Under each source name you'll see a line like `tier1-primary · 110ms · 2 ecosystems` —
 that's its tier, response time, and how many ecosystems index the site.
 
@@ -48,7 +48,7 @@ Every source was probed live, twice, and ranked by "does it work + is it fast". 
 |---|---|---|
 | **Tier 1** `tier1` | 19 | **Most stable and fastest.** Both probe rounds returned 200. **Start with these** |
 | **Tier 2** `tier2` | 33 | Works, but smaller sites or indexed by a single ecosystem. Come back when tier 1 isn't enough |
-| **Tier 3** `tier3` | 26 | **Needs patience**: bot-blocked, timing out, or the site was redesigned. Try if you like |
+| **Tier 3** `tier3` | 27 | **Needs patience**: bot-blocked, timing out, or the site was redesigned. Try if you like |
 | Extra `extra` | 1 | Not classified above (no domain info to judge) |
 
 **Only want the reliable ones** → use the tier 1 URL.
@@ -62,10 +62,10 @@ Only one URL can be set at a time — to switch tiers, replace the URL and Refre
 
 | List | Sources | URL (copy directly) |
 |---|---|---|
-| All | 79 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json` |
+| All | 80 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json` |
 | Tier 1 · primary | 19 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json` |
 | Tier 2 · backup | 33 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json` |
-| Tier 3 · retest | 26 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json` |
+| Tier 3 · retest | 27 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json` |
 | Extra · unmapped | 1 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json` |
 
 ---
@@ -78,7 +78,7 @@ Most sites are indexed by several reader ecosystems at once. If you specifically
 | Ecosystem | Sources | All tiers | Tier 1 | Tier 2 | Tier 3 |
 |---|---|---|---|---|---|
 | Mihon family | 23 | [`…/mihon/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/index.json) | [t1](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier1/index.json) | — | [t3](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier3/index.json) |
-| Venera | 75 | [`…/venera/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json) | [t1](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier1/index.json) | [t2](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier2/index.json) | [t3](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier3/index.json) |
+| Venera | 76 | [`…/venera/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json) | [t1](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier1/index.json) | [t2](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier2/index.json) | [t3](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier3/index.json) |
 | Cimoc | 12 | [`…/cimoc/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/index.json) | [t1](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier1/index.json) | [t2](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier2/index.json) | [t3](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier3/index.json) |
 | Aidoku (iOS) | 11 | [`…/aidoku/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/index.json) | [t1](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier1/index.json) | — | [t3](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier3/index.json) |
 | Legado (阅读) | 4 | [`…/legado/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/index.json) | [t1](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/tier1/index.json) | — | — |
@@ -86,7 +86,7 @@ Most sites are indexed by several reader ecosystems at once. If you specifically
 | Unmapped | 3 | [`…/unmapped/index.json`](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/index.json) | — | [t2](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier2/index.json) | [t3](https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier3/index.json) |
 
 > **This dimension overlaps.** One source can cover a site indexed by several ecosystems,
-> so the per-ecosystem counts add up to **more than 79**. It's for "I only want that kind of site";
+> so the per-ecosystem counts add up to **more than 80**. It's for "I only want that kind of site";
 > beginners can ignore it and use the tier URLs above.
 
 ---
@@ -96,7 +96,7 @@ Most sites are indexed by several reader ecosystems at once. If you specifically
 The Comic Source page also has a single-URL field at the top: paste one `.js` URL to add exactly
 that one source.
 
-**Per-file URLs for all 79 sources** (with tier and latency):
+**Per-file URLs for all 80 sources** (with tier and latency):
 
 - Human-readable: [`05-venera-sources/files.txt`](05-venera-sources/files.txt)
 - Machine-readable: [`05-venera-sources/files.json`](05-venera-sources/files.json)
@@ -121,7 +121,7 @@ Swap the filename at the end for any other source.
 | **The list is too long to pick from** | Use the tier 1 URL only — 19 sources. Add more later |
 | **Adult content** | The lists do include adult sources (~40 sites). Disable the ones you don't want in the app's source manager |
 | **Is this legal?** | See the disclaimer below. Nearly all indexed sites are third-party and unofficial — judge for yourself and prefer official channels |
-| **Where does this data come from?** | Source definitions collected from 7 open-source manga reader ecosystems, deduplicated, scored and probed. Details in [README.md](README.md) |
+| **Where does this data come from?** | Source definitions collected from 7 open-source manga reader ecosystems, deduplicated, scored and probed. **Includes every one of Venera's 33 official sources**, plus 47 more. Details in [README.md](README.md) |
 | **Does it work on iPhone?** | No — Venera is Android-only. iOS has a different ecosystem; this repo's Aidoku data may help |
 
 ---

@@ -1,6 +1,6 @@
 {
   "version": "v1.0.0",
-  "count": 79,
+  "count": 80,
   "files": [
     {
       "file": "mkzhan.js",
@@ -967,6 +967,23 @@
       "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/copy_manga.js",
       "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/sources/copy_manga.js",
       "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/copy_manga.js"
+    },
+    {
+      "file": "copy_manga_multi_accounts.js",
+      "name": "拷贝漫画M",
+      "key": "copy_manga",
+      "version": "1.4.1",
+      "minAppVersion": "1.6.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 35,
+      "domain": "marketing.aiacgn.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/copy_manga_multi_accounts.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/sources/copy_manga_multi_accounts.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/copy_manga_multi_accounts.js"
     },
     {
       "file": "dongman_la_fixed_v101.js",

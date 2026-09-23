@@ -74,11 +74,14 @@
 └── build_phone_sources.py 生成手机上用的 Venera 源分档目录
 
 05-venera-sources/                       可直接导入的 Venera 源列表
-├── sources/*.js                         79 个可用的 Venera 源文件
-├── all/index.json                       全部 79 个，按 tier1 → tier2 → tier3 → extra 排序
+├── sources/*.js                         80 个可用的 Venera 源文件
+├── sources/index.json                   全部 80 个，**严格官方格式**（见下）
+├── sources/index-<档位>.json            官方格式，按档位
+├── sources/index-eco-<生态>.json        官方格式，按生态
+├── all/index.json                       全部 80 个，按 tier1 → tier2 → tier3 → extra 排序
 ├── tier1/index.json                     19 个
 ├── tier2/index.json                     33 个
-├── tier3/index.json                     26 个
+├── tier3/index.json                     27 个
 ├── extra/index.json                     1 个（不在中文三档内）
 ├── by-ecosystem/<生态>/index.json        同一批源按生态筛选
 ├── by-ecosystem/<生态>/<档位>/index.json … 以及生态 × 档位
@@ -86,6 +89,9 @@
 ├── venera-import.json                   配置文件：可直接粘贴的 URL + 说明
 └── urls.txt                             纯 URL 清单
 ```
+
+**覆盖度**：本列表是 Venera 官方 `venera-configs` 的**严格超集** ——
+官方 33 个源文件**全部包含（33/33）**，另外多了 47 个（共 80 个）。
 
 ## 字段说明
 
@@ -247,8 +253,29 @@ python 04-tools/build_tiers.py \
 
 Venera 解析列表条目的逻辑是（见 `comic_source_page.dart`）：条目的 `url` 字段若是合法绝对
 地址就直接用，否则拿列表自己的目录去拼 `fileName`。所以
-`05-venera-sources/*/index.json` 里**每条都写了绝对 `url`**，79 个 js 因此只需在 `sources/`
+`05-venera-sources/*/index.json` 里**每条都写了绝对 `url`**，80 个 js 因此只需在 `sources/`
 放一份，不必按档位复制多份。
+
+### 严格官方格式的列表
+
+如果你要的是**条目字段和 Venera 官方 `venera-configs` 完全一致**的列表
+（`{name, key, version, fileName}`，没有任何扩展字段）：
+
+```
+https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index.json
+```
+
+按档位、按生态的同类文件也在旁边：`index-tier1.json`、`index-eco-mihon.json` 等。
+
+严格格式有两个必须知道的代价：
+
+1. **必须和 js 放在同一目录**。官方格式没有 `url` 字段，App 只能拿「列表 URL 的目录 + `fileName`」
+   去定位 js —— 所以 `sources/index.json` 是**放在 `sources/` 里面**的。
+2. **App 里看不到档位提示**。档位/延迟写在 `description` 字段里，而严格格式没有这个字段。
+   日常使用建议用上面的富格式列表（`all/`、`tier1/` 那些）。
+
+另外，我们的条目本身也是官方格式的**兼容超集**：富格式列表带着官方那 4 个字段，外加若干
+扩展字段，App 不认识的那些会被直接忽略。
 
 ## 已知情况
 

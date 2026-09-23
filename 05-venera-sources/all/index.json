@@ -856,6 +856,21 @@
         "description": "tier3-retest · 35ms · 1 ecosystems"
     },
     {
+        "name": "拷贝漫画M",
+        "key": "copy_manga",
+        "version": "1.4.1",
+        "minAppVersion": "1.6.0",
+        "fileName": "copy_manga_multi_accounts.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/copy_manga_multi_accounts.js",
+        "tier": "tier3-retest",
+        "latency_ms": 35,
+        "ecosystems": [
+            "venera"
+        ],
+        "domain": "marketing.aiacgn.com",
+        "description": "tier3-retest · 35ms · official index"
+    },
+    {
         "name": "动漫啦",
         "key": "dongman_la",
         "version": "1.0.1",

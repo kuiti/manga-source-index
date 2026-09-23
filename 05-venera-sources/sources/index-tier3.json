@@ -1,0 +1,164 @@
+[
+    {
+        "name": "嗨皮漫画",
+        "key": "happy",
+        "version": "1.0.0",
+        "fileName": "happy.js"
+    },
+    {
+        "name": "W漫画",
+        "key": "wmanhua",
+        "version": "1.0.1",
+        "fileName": "wmanhua.js"
+    },
+    {
+        "name": "拷贝漫画",
+        "key": "copy_manga",
+        "version": "1.4.2",
+        "fileName": "copy_manga.js"
+    },
+    {
+        "name": "拷贝漫画M",
+        "key": "copy_manga",
+        "version": "1.4.1",
+        "fileName": "copy_manga_multi_accounts.js"
+    },
+    {
+        "name": "动漫啦",
+        "key": "dongman_la",
+        "version": "1.0.1",
+        "fileName": "dongman_la_fixed_v101.js"
+    },
+    {
+        "name": "优酷漫画",
+        "key": "ykmh",
+        "version": "1.0.0",
+        "fileName": "ykmh.js"
+    },
+    {
+        "name": "MYCOMIC",
+        "key": "mycomic",
+        "version": "1.1.0",
+        "fileName": "mycomic.js"
+    },
+    {
+        "name": "カドコミ",
+        "key": "comic_walker",
+        "version": "1.0.1",
+        "fileName": "comic_walker.js"
+    },
+    {
+        "name": "18漫画",
+        "key": "mh18",
+        "version": "1.0.0",
+        "fileName": "mh18.js"
+    },
+    {
+        "name": "CosplayTele",
+        "key": "cosplaytele",
+        "version": "1.0.3",
+        "fileName": "cosplaytele.js"
+    },
+    {
+        "name": "H-Comic",
+        "key": "hcomic",
+        "version": "1.0.0",
+        "fileName": "hcomic.js"
+    },
+    {
+        "name": "Kavita",
+        "key": "kavita",
+        "version": "1.0.0",
+        "fileName": "kavita.js"
+    },
+    {
+        "name": "Komiic",
+        "key": "Komiic",
+        "version": "1.0.3",
+        "fileName": "komiic.js"
+    },
+    {
+        "name": "Mangabz",
+        "key": "mangabz",
+        "version": "0.9.3",
+        "fileName": "mangabz.js"
+    },
+    {
+        "name": "Picacg",
+        "key": "picacg",
+        "version": "1.0.6",
+        "fileName": "picacg.js"
+    },
+    {
+        "name": "Pixiv",
+        "key": "pixiv",
+        "version": "1.7.2",
+        "fileName": "pixiv.js"
+    },
+    {
+        "name": "ehentai",
+        "key": "ehentai",
+        "version": "1.2.0",
+        "fileName": "ehentai.js"
+    },
+    {
+        "name": "hitomi.la",
+        "key": "hitomi",
+        "version": "1.1.2",
+        "fileName": "hitomi.js"
+    },
+    {
+        "name": "jcomic.net",
+        "key": "jcomic",
+        "version": "1.0.0",
+        "fileName": "jcomic.js"
+    },
+    {
+        "name": "nhentai",
+        "key": "nhentai",
+        "version": "1.1.0",
+        "fileName": "nhentai.js"
+    },
+    {
+        "name": "漫小肆",
+        "key": "mxs",
+        "version": "1.0.0",
+        "fileName": "mxs.js"
+    },
+    {
+        "name": "漫画柜",
+        "key": "ManHuaGui",
+        "version": "1.2.1",
+        "fileName": "manhuagui.js"
+    },
+    {
+        "name": "漫蛙吧",
+        "key": "manwaba",
+        "version": "1.0.3",
+        "fileName": "manwaba.js"
+    },
+    {
+        "name": "热辣漫画",
+        "key": "hot_manga",
+        "version": "1.0.0",
+        "fileName": "hot_manga.js"
+    },
+    {
+        "name": "爱看漫",
+        "key": "ikmmh",
+        "version": "1.0.6",
+        "fileName": "ikmmh.js"
+    },
+    {
+        "name": "爱看漫",
+        "key": "ikmmh_v2",
+        "version": "3.0.0",
+        "fileName": "ikmmh_v2.js"
+    },
+    {
+        "name": "紳士漫畫",
+        "key": "wnacg",
+        "version": "1.0.5",
+        "fileName": "wnacg.js"
+    }
+]

@@ -5,18 +5,18 @@
   "howto_en": "Open Venera → Comic Source → paste a URL below into 'Repo URL' → Refresh → tap Add on each entry you want. Use a tier or ecosystem URL to narrow down. To add a single source, use a per-file URL from files.txt.",
   "supported": "Venera >= 1.6.0（列表内所有源 minAppVersion 最高 1.6.0）",
   "counts": {
-    "total": 79,
+    "total": 80,
     "tiers": {
       "tier1": 19,
       "tier2": 33,
-      "tier3": 26,
+      "tier3": 27,
       "extra": 1
     },
     "ecosystems": {
       "mihon": 23,
       "aidoku": 11,
       "legado": 4,
-      "venera": 75,
+      "venera": 76,
       "cimoc": 12,
       "mangareader": 4,
       "unmapped": 3
@@ -26,7 +26,7 @@
     "by_tier": [
       {
         "key": "all",
-        "count": 79,
+        "count": 80,
         "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json",
         "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/all/index.json",
         "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json"
@@ -47,7 +47,7 @@
       },
       {
         "key": "tier3",
-        "count": 26,
+        "count": 27,
         "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json",
         "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/tier3/index.json",
         "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json"
@@ -103,7 +103,7 @@
         "key": "venera",
         "label_zh": "Venera",
         "label_en": "Venera",
-        "count": 75,
+        "count": 76,
         "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json",
         "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/by-ecosystem/venera/index.json",
         "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/venera/index.json",
@@ -156,9 +156,88 @@
     ]
   },
   "per_file": {
-    "count": 79,
+    "count": 80,
     "files_json": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/files.json",
     "files_txt": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/files.txt"
+  },
+  "official_format": {
+    "note_zh": "严格照官方 venera-configs 的字段（name/key/version/fileName），不含 url / tier / description 等扩展字段。官方格式没有 url，App 只能用「列表 URL 的目录 + fileName」定位 js，所以这些文件必须与 js 同级——它们都放在 sources/ 下。代价：App 里看不到档位提示（档位写在 description 里，严格格式没有该字段）。日常使用建议用上面的富格式列表。",
+    "note_en": "Exactly the official venera-configs fields (name/key/version/fileName), with none of our extensions (url / tier / description). The official format has no url field, so the app can only resolve `fileName` against the list URL's own directory — these files therefore live in sources/, next to the JS. Trade-off: no tier hint in the app, because tiers ride on the description field. For everyday use prefer the rich lists above.",
+    "dir": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources",
+    "lists": [
+      {
+        "file": "index.json",
+        "label": "全部 / all",
+        "count": 80,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index.json"
+      },
+      {
+        "file": "index-tier1.json",
+        "label": "一档",
+        "count": 19,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-tier1.json"
+      },
+      {
+        "file": "index-tier2.json",
+        "label": "二档",
+        "count": 33,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-tier2.json"
+      },
+      {
+        "file": "index-tier3.json",
+        "label": "三档",
+        "count": 27,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-tier3.json"
+      },
+      {
+        "file": "index-extra.json",
+        "label": "其他-未定档",
+        "count": 1,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-extra.json"
+      },
+      {
+        "file": "index-eco-mihon.json",
+        "label": "mihon",
+        "count": 23,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-mihon.json"
+      },
+      {
+        "file": "index-eco-aidoku.json",
+        "label": "aidoku",
+        "count": 11,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-aidoku.json"
+      },
+      {
+        "file": "index-eco-legado.json",
+        "label": "legado",
+        "count": 4,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-legado.json"
+      },
+      {
+        "file": "index-eco-venera.json",
+        "label": "venera",
+        "count": 76,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-venera.json"
+      },
+      {
+        "file": "index-eco-cimoc.json",
+        "label": "cimoc",
+        "count": 12,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-cimoc.json"
+      },
+      {
+        "file": "index-eco-mangareader.json",
+        "label": "mangareader",
+        "count": 4,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-mangareader.json"
+      },
+      {
+        "file": "index-eco-unmapped.json",
+        "label": "unmapped",
+        "count": 3,
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index-eco-unmapped.json"
+      }
+    ]
   },
   "notes_zh": [
     "一次只能填一个列表 URL（App 只存一个 Repo URL 槽位），换档位/换生态就换 URL。",

@@ -1,0 +1,200 @@
+[
+    {
+        "name": "再漫画",
+        "key": "zaimanhua",
+        "version": "1.0.2",
+        "fileName": "zaimanhua.js"
+    },
+    {
+        "name": "SF漫画",
+        "key": "sfacg_manhua",
+        "version": "1.0.0",
+        "fileName": "sfacg_manhua.js"
+    },
+    {
+        "name": "古风漫画",
+        "key": "GfmhApp",
+        "version": "1.3.0",
+        "fileName": "gfmh.js"
+    },
+    {
+        "name": "古风漫画",
+        "key": "gfmh",
+        "version": "1.3.1",
+        "fileName": "lx7km9__gfmh.js"
+    },
+    {
+        "name": "漫画人",
+        "key": "manhuaren",
+        "version": "1.0.0",
+        "fileName": "manhuaren.js"
+    },
+    {
+        "name": "4399漫画网",
+        "key": "mh4399",
+        "version": "1.0.3",
+        "fileName": "mh4399.js"
+    },
+    {
+        "name": "漫画1234",
+        "key": "mh1234",
+        "version": "1.0.0",
+        "fileName": "mh1234.js"
+    },
+    {
+        "name": "NoyManga",
+        "key": "noymanga",
+        "version": "1.1.3",
+        "fileName": "noymanga.js"
+    },
+    {
+        "name": "包子漫画",
+        "key": "baozi",
+        "version": "1.1.6",
+        "fileName": "baozi.js"
+    },
+    {
+        "name": "嬉皮漫畫",
+        "key": "hipmh",
+        "version": "1.0.1",
+        "fileName": "hipmh.js"
+    },
+    {
+        "name": "漫网",
+        "key": "manwang",
+        "version": "1.2.0",
+        "fileName": "manwang_fixed_v120.js"
+    },
+    {
+        "name": "香蕉漫画",
+        "key": "manhuauo_banana_v2",
+        "version": "1.0.3",
+        "fileName": "manhuauo_fixed_v2.js"
+    },
+    {
+        "name": "香蕉漫画",
+        "key": "banana",
+        "version": "1.0.4",
+        "fileName": "banana.js"
+    },
+    {
+        "name": "禁漫天堂",
+        "key": "jm",
+        "version": "1.4.0",
+        "fileName": "jm.js"
+    },
+    {
+        "name": "好看漫画",
+        "key": "haokan_txt",
+        "version": "1.0.4",
+        "fileName": "haokan.js"
+    },
+    {
+        "name": "comick",
+        "key": "comick",
+        "version": "1.2.0",
+        "fileName": "comick.js"
+    },
+    {
+        "name": "野蛮漫画",
+        "key": "yemancomic",
+        "version": "1.3.8",
+        "fileName": "yemancomic.js"
+    },
+    {
+        "name": "Lanraragi",
+        "key": "lanraragi",
+        "version": "1.2.0",
+        "fileName": "lanraragi.js"
+    },
+    {
+        "name": "飞翔漫画",
+        "key": "ffppt",
+        "version": "1.0.1",
+        "fileName": "ffppt.js"
+    },
+    {
+        "name": "CCC追漫台",
+        "key": "ccc",
+        "version": "1.0.1",
+        "fileName": "ccc.js"
+    },
+    {
+        "name": "Komga",
+        "key": "komga",
+        "version": "1.0.0",
+        "fileName": "komga.js"
+    },
+    {
+        "name": "漫画皮",
+        "key": "manhuapi",
+        "version": "1.4.2",
+        "fileName": "manhuapi.js"
+    },
+    {
+        "name": "图库漫画",
+        "key": "tuku_cc",
+        "version": "1.0.1",
+        "fileName": "tuku_cc.js"
+    },
+    {
+        "name": "MOJOIN",
+        "key": "mojoin_v2",
+        "version": "1.0.7",
+        "fileName": "mojoin_fixed_v107.js"
+    },
+    {
+        "name": "MOJOIN",
+        "key": "mojoin",
+        "version": "1.0.8",
+        "fileName": "mojoin.js"
+    },
+    {
+        "name": "zero搬运网",
+        "key": "zerobyw33",
+        "version": "1.2.0",
+        "fileName": "zerobyw33.js"
+    },
+    {
+        "name": "布卡漫画",
+        "key": "bukamh",
+        "version": "1.2.9",
+        "fileName": "bukamh.js"
+    },
+    {
+        "name": "次元漫画",
+        "key": "cycomic",
+        "version": "1.0.3",
+        "fileName": "cycomic.js"
+    },
+    {
+        "name": "极速漫画",
+        "key": "one_kkk",
+        "version": "1.0.1",
+        "fileName": "one_kkk.js"
+    },
+    {
+        "name": "野漫漫画(漫神)",
+        "key": "yemanmh",
+        "version": "1.0.0",
+        "fileName": "yemanmh.js"
+    },
+    {
+        "name": "百合会",
+        "key": "baihehui",
+        "version": "1.0.0",
+        "fileName": "baihehui.js"
+    },
+    {
+        "name": "51漫画",
+        "key": "manga51",
+        "version": "1.2.0",
+        "fileName": "manga51.js"
+    },
+    {
+        "name": "GoDa漫画",
+        "key": "goda",
+        "version": "1.2.1",
+        "fileName": "goda.js"
+    }
+]

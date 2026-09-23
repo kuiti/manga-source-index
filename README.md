@@ -68,11 +68,14 @@ Source definitions are aggregated from **7 mainstream open-source manga reader e
 └── build_phone_sources.py builds an on-device Venera source tree by tier
 
 05-venera-sources/                       ready-to-import Venera source lists
-├── sources/*.js                         79 working Venera source files
-├── all/index.json                       all 79, sorted tier1 → tier2 → tier3 → extra
+├── sources/*.js                         80 working Venera source files
+├── sources/index.json                   all 80 in **exact official format** (see below)
+├── sources/index-<tier>.json            official format, per tier
+├── sources/index-eco-<eco>.json         official format, per ecosystem
+├── all/index.json                       all 80, sorted tier1 → tier2 → tier3 → extra
 ├── tier1/index.json                     19 sources
 ├── tier2/index.json                     33 sources
-├── tier3/index.json                     26 sources
+├── tier3/index.json                     27 sources
 ├── extra/index.json                     1 source (not in the Chinese tiers)
 ├── by-ecosystem/<eco>/index.json        same sources filtered by ecosystem
 ├── by-ecosystem/<eco>/<tier>/index.json … and by ecosystem × tier
@@ -80,6 +83,9 @@ Source definitions are aggregated from **7 mainstream open-source manga reader e
 ├── venera-import.json                   config file: the paste-ready URLs, with notes
 └── urls.txt                             plain URL list
 ```
+
+**Coverage:** the list is a strict **superset of Venera's own `venera-configs`** —
+all **33/33** official source files are present, plus 47 more (80 total).
 
 ## Field reference
 
@@ -246,7 +252,29 @@ and machine-readable in [`venera-import.json`](05-venera-sources/venera-import.j
 Venera resolves each list entry like this (see `comic_source_page.dart`): use the entry's `url`
 field when it is a valid absolute URL, otherwise resolve `fileName` against the list's own
 directory. `05-venera-sources/*/index.json` therefore carries an **absolute `url` per entry**,
-which is why all 79 JS files can live once in `sources/` instead of being duplicated per tier.
+which is why all 80 JS files can live once in `sources/` instead of being duplicated per tier.
+
+### Official-format lists
+
+If you need a list whose entries look **exactly** like Venera's own `venera-configs`
+(`{name, key, version, fileName}` — no extra fields):
+
+```
+https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/index.json
+```
+
+Per-tier and per-ecosystem variants sit beside it as `index-tier1.json`, `index-eco-mihon.json`, …
+
+Two consequences of the strict format worth knowing:
+
+1. **They must live next to the JS files.** The official format has no `url` field, so the app
+   can only resolve `fileName` against the list URL's own directory — hence `sources/index.json`
+   sits *inside* `sources/`.
+2. **No tier hints in the app.** Tier/latency live in the `description` field, which the strict
+   format drops. For everyday use prefer the rich lists (`all/`, `tier1/`, …).
+
+Our entries are also a compatible **superset** of the official format: the rich lists carry all
+four official fields plus extras, and Venera ignores what it doesn't know.
 
 ## Known caveats
 

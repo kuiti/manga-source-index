@@ -1,0 +1,482 @@
+[
+    {
+        "name": "漫客栈",
+        "key": "mkzhan",
+        "version": "1.1.4",
+        "fileName": "mkzhan.js"
+    },
+    {
+        "name": "看漫画",
+        "key": "kanman",
+        "version": "2.2.7",
+        "fileName": "kanman.js"
+    },
+    {
+        "name": "咚漫",
+        "key": "dongmanmanhua",
+        "version": "1.0.6",
+        "fileName": "dongmanmanhua.js"
+    },
+    {
+        "name": "咚漫",
+        "key": "dongman",
+        "version": "1.0.8",
+        "fileName": "dongman.js"
+    },
+    {
+        "name": "漫本",
+        "key": "manben",
+        "version": "1.1.0",
+        "fileName": "manben.js"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua_fixed_v15",
+        "version": "1.2.6",
+        "fileName": "rumanhua_fixed_v16.js"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua",
+        "version": "2.4.1",
+        "fileName": "rumanhua.js"
+    },
+    {
+        "name": "动漫屋",
+        "key": "dm5",
+        "version": "7.0.0",
+        "fileName": "dm5.js"
+    },
+    {
+        "name": "MangaDex",
+        "key": "manga_dex",
+        "version": "1.2.0",
+        "fileName": "manga_dex.js"
+    },
+    {
+        "name": "漫画看",
+        "key": "mhkan",
+        "version": "1.1.7",
+        "fileName": "mhkan.js"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official_v1",
+        "version": "1.0.3",
+        "fileName": "tencent_comic_official.js"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official",
+        "version": "2.0.0",
+        "fileName": "qq_comic_official.js"
+    },
+    {
+        "name": "Rawkuma",
+        "key": "rawkuma",
+        "version": "1.1.0",
+        "fileName": "rawkuma.js"
+    },
+    {
+        "name": "来漫画（分流）",
+        "key": "laimanhua_split",
+        "version": "1.2.1",
+        "fileName": "laimanhua_split_hosts_v1.2.1_configurable.js"
+    },
+    {
+        "name": "LINE WEBTOON",
+        "key": "webtoons_zh_hant",
+        "version": "1.0.0",
+        "fileName": "webtoons_zh_hant.js"
+    },
+    {
+        "name": "嗶哩漫畫",
+        "key": "bilimanga",
+        "version": "1.1.0",
+        "fileName": "bilimanga.js"
+    },
+    {
+        "name": "少年ジャンプ＋",
+        "key": "shonen_jump_plus",
+        "version": "1.1.1",
+        "fileName": "shonen_jump_plus.js"
+    },
+    {
+        "name": "瓜子漫画",
+        "key": "guazimanhua",
+        "version": "1.0.4",
+        "fileName": "guazi_manhua_v1.1.0.js"
+    },
+    {
+        "name": "zero搬运网",
+        "key": "zerobyw",
+        "version": "1.2.0",
+        "fileName": "zero.js"
+    },
+    {
+        "name": "再漫画",
+        "key": "zaimanhua",
+        "version": "1.0.2",
+        "fileName": "zaimanhua.js"
+    },
+    {
+        "name": "SF漫画",
+        "key": "sfacg_manhua",
+        "version": "1.0.0",
+        "fileName": "sfacg_manhua.js"
+    },
+    {
+        "name": "古风漫画",
+        "key": "GfmhApp",
+        "version": "1.3.0",
+        "fileName": "gfmh.js"
+    },
+    {
+        "name": "古风漫画",
+        "key": "gfmh",
+        "version": "1.3.1",
+        "fileName": "lx7km9__gfmh.js"
+    },
+    {
+        "name": "漫画人",
+        "key": "manhuaren",
+        "version": "1.0.0",
+        "fileName": "manhuaren.js"
+    },
+    {
+        "name": "4399漫画网",
+        "key": "mh4399",
+        "version": "1.0.3",
+        "fileName": "mh4399.js"
+    },
+    {
+        "name": "漫画1234",
+        "key": "mh1234",
+        "version": "1.0.0",
+        "fileName": "mh1234.js"
+    },
+    {
+        "name": "NoyManga",
+        "key": "noymanga",
+        "version": "1.1.3",
+        "fileName": "noymanga.js"
+    },
+    {
+        "name": "包子漫画",
+        "key": "baozi",
+        "version": "1.1.6",
+        "fileName": "baozi.js"
+    },
+    {
+        "name": "嬉皮漫畫",
+        "key": "hipmh",
+        "version": "1.0.1",
+        "fileName": "hipmh.js"
+    },
+    {
+        "name": "漫网",
+        "key": "manwang",
+        "version": "1.2.0",
+        "fileName": "manwang_fixed_v120.js"
+    },
+    {
+        "name": "香蕉漫画",
+        "key": "manhuauo_banana_v2",
+        "version": "1.0.3",
+        "fileName": "manhuauo_fixed_v2.js"
+    },
+    {
+        "name": "香蕉漫画",
+        "key": "banana",
+        "version": "1.0.4",
+        "fileName": "banana.js"
+    },
+    {
+        "name": "禁漫天堂",
+        "key": "jm",
+        "version": "1.4.0",
+        "fileName": "jm.js"
+    },
+    {
+        "name": "好看漫画",
+        "key": "haokan_txt",
+        "version": "1.0.4",
+        "fileName": "haokan.js"
+    },
+    {
+        "name": "comick",
+        "key": "comick",
+        "version": "1.2.0",
+        "fileName": "comick.js"
+    },
+    {
+        "name": "野蛮漫画",
+        "key": "yemancomic",
+        "version": "1.3.8",
+        "fileName": "yemancomic.js"
+    },
+    {
+        "name": "Lanraragi",
+        "key": "lanraragi",
+        "version": "1.2.0",
+        "fileName": "lanraragi.js"
+    },
+    {
+        "name": "飞翔漫画",
+        "key": "ffppt",
+        "version": "1.0.1",
+        "fileName": "ffppt.js"
+    },
+    {
+        "name": "CCC追漫台",
+        "key": "ccc",
+        "version": "1.0.1",
+        "fileName": "ccc.js"
+    },
+    {
+        "name": "Komga",
+        "key": "komga",
+        "version": "1.0.0",
+        "fileName": "komga.js"
+    },
+    {
+        "name": "漫画皮",
+        "key": "manhuapi",
+        "version": "1.4.2",
+        "fileName": "manhuapi.js"
+    },
+    {
+        "name": "图库漫画",
+        "key": "tuku_cc",
+        "version": "1.0.1",
+        "fileName": "tuku_cc.js"
+    },
+    {
+        "name": "MOJOIN",
+        "key": "mojoin_v2",
+        "version": "1.0.7",
+        "fileName": "mojoin_fixed_v107.js"
+    },
+    {
+        "name": "MOJOIN",
+        "key": "mojoin",
+        "version": "1.0.8",
+        "fileName": "mojoin.js"
+    },
+    {
+        "name": "zero搬运网",
+        "key": "zerobyw33",
+        "version": "1.2.0",
+        "fileName": "zerobyw33.js"
+    },
+    {
+        "name": "布卡漫画",
+        "key": "bukamh",
+        "version": "1.2.9",
+        "fileName": "bukamh.js"
+    },
+    {
+        "name": "次元漫画",
+        "key": "cycomic",
+        "version": "1.0.3",
+        "fileName": "cycomic.js"
+    },
+    {
+        "name": "极速漫画",
+        "key": "one_kkk",
+        "version": "1.0.1",
+        "fileName": "one_kkk.js"
+    },
+    {
+        "name": "野漫漫画(漫神)",
+        "key": "yemanmh",
+        "version": "1.0.0",
+        "fileName": "yemanmh.js"
+    },
+    {
+        "name": "百合会",
+        "key": "baihehui",
+        "version": "1.0.0",
+        "fileName": "baihehui.js"
+    },
+    {
+        "name": "51漫画",
+        "key": "manga51",
+        "version": "1.2.0",
+        "fileName": "manga51.js"
+    },
+    {
+        "name": "GoDa漫画",
+        "key": "goda",
+        "version": "1.2.1",
+        "fileName": "goda.js"
+    },
+    {
+        "name": "嗨皮漫画",
+        "key": "happy",
+        "version": "1.0.0",
+        "fileName": "happy.js"
+    },
+    {
+        "name": "W漫画",
+        "key": "wmanhua",
+        "version": "1.0.1",
+        "fileName": "wmanhua.js"
+    },
+    {
+        "name": "拷贝漫画",
+        "key": "copy_manga",
+        "version": "1.4.2",
+        "fileName": "copy_manga.js"
+    },
+    {
+        "name": "拷贝漫画M",
+        "key": "copy_manga",
+        "version": "1.4.1",
+        "fileName": "copy_manga_multi_accounts.js"
+    },
+    {
+        "name": "动漫啦",
+        "key": "dongman_la",
+        "version": "1.0.1",
+        "fileName": "dongman_la_fixed_v101.js"
+    },
+    {
+        "name": "优酷漫画",
+        "key": "ykmh",
+        "version": "1.0.0",
+        "fileName": "ykmh.js"
+    },
+    {
+        "name": "MYCOMIC",
+        "key": "mycomic",
+        "version": "1.1.0",
+        "fileName": "mycomic.js"
+    },
+    {
+        "name": "カドコミ",
+        "key": "comic_walker",
+        "version": "1.0.1",
+        "fileName": "comic_walker.js"
+    },
+    {
+        "name": "18漫画",
+        "key": "mh18",
+        "version": "1.0.0",
+        "fileName": "mh18.js"
+    },
+    {
+        "name": "CosplayTele",
+        "key": "cosplaytele",
+        "version": "1.0.3",
+        "fileName": "cosplaytele.js"
+    },
+    {
+        "name": "H-Comic",
+        "key": "hcomic",
+        "version": "1.0.0",
+        "fileName": "hcomic.js"
+    },
+    {
+        "name": "Kavita",
+        "key": "kavita",
+        "version": "1.0.0",
+        "fileName": "kavita.js"
+    },
+    {
+        "name": "Komiic",
+        "key": "Komiic",
+        "version": "1.0.3",
+        "fileName": "komiic.js"
+    },
+    {
+        "name": "Mangabz",
+        "key": "mangabz",
+        "version": "0.9.3",
+        "fileName": "mangabz.js"
+    },
+    {
+        "name": "Picacg",
+        "key": "picacg",
+        "version": "1.0.6",
+        "fileName": "picacg.js"
+    },
+    {
+        "name": "Pixiv",
+        "key": "pixiv",
+        "version": "1.7.2",
+        "fileName": "pixiv.js"
+    },
+    {
+        "name": "ehentai",
+        "key": "ehentai",
+        "version": "1.2.0",
+        "fileName": "ehentai.js"
+    },
+    {
+        "name": "hitomi.la",
+        "key": "hitomi",
+        "version": "1.1.2",
+        "fileName": "hitomi.js"
+    },
+    {
+        "name": "jcomic.net",
+        "key": "jcomic",
+        "version": "1.0.0",
+        "fileName": "jcomic.js"
+    },
+    {
+        "name": "nhentai",
+        "key": "nhentai",
+        "version": "1.1.0",
+        "fileName": "nhentai.js"
+    },
+    {
+        "name": "漫小肆",
+        "key": "mxs",
+        "version": "1.0.0",
+        "fileName": "mxs.js"
+    },
+    {
+        "name": "漫画柜",
+        "key": "ManHuaGui",
+        "version": "1.2.1",
+        "fileName": "manhuagui.js"
+    },
+    {
+        "name": "漫蛙吧",
+        "key": "manwaba",
+        "version": "1.0.3",
+        "fileName": "manwaba.js"
+    },
+    {
+        "name": "热辣漫画",
+        "key": "hot_manga",
+        "version": "1.0.0",
+        "fileName": "hot_manga.js"
+    },
+    {
+        "name": "爱看漫",
+        "key": "ikmmh",
+        "version": "1.0.6",
+        "fileName": "ikmmh.js"
+    },
+    {
+        "name": "爱看漫",
+        "key": "ikmmh_v2",
+        "version": "3.0.0",
+        "fileName": "ikmmh_v2.js"
+    },
+    {
+        "name": "紳士漫畫",
+        "key": "wnacg",
+        "version": "1.0.5",
+        "fileName": "wnacg.js"
+    },
+    {
+        "name": "311漫画",
+        "key": "s311_com",
+        "version": "1.2.0",
+        "fileName": "311.js"
+    }
+]
