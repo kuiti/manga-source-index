@@ -1,0 +1,262 @@
+[
+    {
+        "name": "嗨皮漫画",
+        "key": "happy",
+        "version": "1.0.0",
+        "fileName": "happy.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/happy.js",
+        "tier": "tier3-retest",
+        "latency_ms": 11,
+        "description": "tier3-retest · 11ms · 3 ecosystems"
+    },
+    {
+        "name": "W漫画",
+        "key": "wmanhua",
+        "version": "1.0.1",
+        "fileName": "wmanhua.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/wmanhua.js",
+        "tier": "tier3-retest",
+        "latency_ms": 22,
+        "description": "tier3-retest · 22ms · 1 ecosystems"
+    },
+    {
+        "name": "拷贝漫画",
+        "key": "copy_manga",
+        "version": "1.4.2",
+        "fileName": "copy_manga.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/copy_manga.js",
+        "tier": "tier3-retest",
+        "latency_ms": 35,
+        "description": "tier3-retest · 35ms · 1 ecosystems"
+    },
+    {
+        "name": "动漫啦",
+        "key": "dongman_la",
+        "version": "1.0.1",
+        "fileName": "dongman_la_fixed_v101.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dongman_la_fixed_v101.js",
+        "tier": "tier3-retest",
+        "latency_ms": 431,
+        "description": "tier3-retest · 431ms · 1 ecosystems"
+    },
+    {
+        "name": "优酷漫画",
+        "key": "ykmh",
+        "version": "1.0.0",
+        "fileName": "ykmh.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ykmh.js",
+        "tier": "tier3-retest",
+        "latency_ms": 812,
+        "description": "tier3-retest · 812ms · 3 ecosystems"
+    },
+    {
+        "name": "x",
+        "key": "mycomic",
+        "version": "1.1.0",
+        "fileName": "mycomic.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mycomic.js",
+        "tier": "tier3-retest",
+        "latency_ms": 834,
+        "description": "tier3-retest · 834ms · 4 ecosystems"
+    },
+    {
+        "name": "カドコミ",
+        "key": "comic_walker",
+        "version": "1.0.1",
+        "fileName": "comic_walker.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/comic_walker.js",
+        "tier": "tier3-retest",
+        "latency_ms": 979,
+        "description": "tier3-retest · 979ms · 1 ecosystems"
+    },
+    {
+        "name": "18漫画",
+        "key": "mh18",
+        "version": "1.0.0",
+        "fileName": "mh18.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mh18.js",
+        "tier": "",
+        "latency_ms": 0,
+        "description": "matched by name"
+    },
+    {
+        "name": "CosplayTele",
+        "key": "cosplaytele",
+        "version": "1.0.3",
+        "fileName": "cosplaytele.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/cosplaytele.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 2 ecosystems"
+    },
+    {
+        "name": "H-Comic",
+        "key": "hcomic",
+        "version": "1.0.0",
+        "fileName": "hcomic.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hcomic.js",
+        "tier": "dead-skip",
+        "latency_ms": 0,
+        "description": "dead-skip · 2 ecosystems"
+    },
+    {
+        "name": "Kavita",
+        "key": "kavita",
+        "version": "1.0.0",
+        "fileName": "kavita.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/kavita.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "Komiic",
+        "key": "Komiic",
+        "version": "1.0.3",
+        "fileName": "komiic.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/komiic.js",
+        "tier": "dead-skip",
+        "latency_ms": 0,
+        "description": "dead-skip · 4 ecosystems"
+    },
+    {
+        "name": "Mangabz",
+        "key": "mangabz",
+        "version": "0.9.3",
+        "fileName": "mangabz.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mangabz.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 5 ecosystems"
+    },
+    {
+        "name": "Picacg",
+        "key": "picacg",
+        "version": "1.0.6",
+        "fileName": "picacg.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/picacg.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "Pixiv",
+        "key": "pixiv",
+        "version": "1.7.2",
+        "fileName": "pixiv.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/pixiv.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "ehentai",
+        "key": "ehentai",
+        "version": "1.2.0",
+        "fileName": "ehentai.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ehentai.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "galleriesindex",
+        "key": "hitomi",
+        "version": "1.1.2",
+        "fileName": "hitomi.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hitomi.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 2 ecosystems"
+    },
+    {
+        "name": "jcomic.net",
+        "key": "jcomic",
+        "version": "1.0.0",
+        "fileName": "jcomic.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/jcomic.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 2 ecosystems"
+    },
+    {
+        "name": "nhentai",
+        "key": "nhentai",
+        "version": "1.1.0",
+        "fileName": "nhentai.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/nhentai.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 3 ecosystems"
+    },
+    {
+        "name": "漫小肆",
+        "key": "mxs",
+        "version": "1.0.0",
+        "fileName": "mxs.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mxs.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "漫画柜",
+        "key": "ManHuaGui",
+        "version": "1.2.1",
+        "fileName": "manhuagui.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manhuagui.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 3 ecosystems"
+    },
+    {
+        "name": "漫蛙吧",
+        "key": "manwaba",
+        "version": "1.0.3",
+        "fileName": "manwaba.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manwaba.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "热辣漫画",
+        "key": "hot_manga",
+        "version": "1.0.0",
+        "fileName": "hot_manga.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hot_manga.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "爱看漫",
+        "key": "ikmmh",
+        "version": "1.0.6",
+        "fileName": "ikmmh.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ikmmh.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "爱看漫",
+        "key": "ikmmh_v2",
+        "version": "3.0.0",
+        "fileName": "ikmmh_v2.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ikmmh_v2.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    },
+    {
+        "name": "紳士漫畫",
+        "key": "wnacg",
+        "version": "1.0.5",
+        "fileName": "wnacg.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/wnacg.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "description": "tier3-retest · 1 ecosystems"
+    }
+]

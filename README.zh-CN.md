@@ -66,6 +66,16 @@
 ├── build_tiers.py        按可用性与延迟分档
 ├── build_repo.py         生成本仓库的数据目录（唯一的中→英导出层）
 └── build_phone_sources.py 生成手机上用的 Venera 源分档目录
+
+05-venera-sources/                       可直接导入的 Venera 源列表
+├── sources/*.js                         79 个可用的 Venera 源文件
+├── all/index.json                       全部 79 个，按 tier1 → tier2 → tier3 → extra 排序
+├── tier1/index.json                     19 个
+├── tier2/index.json                     33 个
+├── tier3/index.json                     26 个
+├── extra/index.json                     1 个（不在中文三档内）
+├── venera-import.json                   配置文件：可直接粘贴的 URL + 说明
+└── urls.txt                             纯 URL 清单
 ```
 
 ## 字段说明
@@ -188,6 +198,47 @@ python 04-tools/build_tiers.py \
 非中国大陆网络下大量中文站会超时；经代理时部分站点会被网关返回 502。
 这两类都不代表站点本身失效，建议在**目标使用环境**下重测后再定档。
 经验数据：两轮同环境检测的存活数为 161 / 160（共 256），只差 1 个，结果稳定可信。
+
+## 导入到 Venera
+
+`05-venera-sources/` 是**打包好、可直接导入**的 Venera 源列表 —— 不用 clone、不用拷文件。
+往 App 里粘一个 URL，源就会列出来，一个个 Add 即可。
+
+**操作步骤**
+
+1. 打开 Venera → **漫画源** → 进 **Comic Source**（源列表）
+2. 把下面任一 URL 粘进 **Repo URL** 输入框
+3. 点 **Refresh**，列表加载出来
+4. 想导哪个就点那条右侧的 **Add**（已装的会显示勾）
+
+| 列表 | 源数 | URL |
+|---|---|---|
+| 全部（按档位排序） | 79 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json` |
+| `tier1-primary` 一档 | 19 | `.../05-venera-sources/tier1/index.json` |
+| `tier2-backup` 二档 | 33 | `.../05-venera-sources/tier2/index.json` |
+| `tier3-retest` 三档 | 26 | `.../05-venera-sources/tier3/index.json` |
+| `extra` 未定档 | 1 | `.../05-venera-sources/extra/index.json` |
+
+完整可复制的地址见 [`05-venera-sources/urls.txt`](05-venera-sources/urls.txt)，
+机器可读版见 [`venera-import.json`](05-venera-sources/venera-import.json)。
+
+**要知道的几点**
+
+- App 只存**一个** Repo URL —— 想换档位就换 URL 再 Refresh。
+- 每个源的名称下方会显示**档位、探测延迟、收录生态数**（走的是 `description` 字段），
+  所以在全量列表里可以直接按眼睛挑。
+- 如果被 jsDelivr 缓存（最长约 12 小时）卡住，用 `raw.githubusercontent.com` 那个备用地址，
+  两个都在 `urls.txt` 里。
+- 所有源的 `minAppVersion` 都 ≤ 1.6.0，Venera 1.6.x 都能加载（含已归档的 1.6.3；
+  Venera Prime 比这个要求更新）。
+- 列表里含成人向源，不需要的在 App 里单独关掉。
+
+### 为什么不用拷文件也能用
+
+Venera 解析列表条目的逻辑是（见 `comic_source_page.dart`）：条目的 `url` 字段若是合法绝对
+地址就直接用，否则拿列表自己的目录去拼 `fileName`。所以
+`05-venera-sources/*/index.json` 里**每条都写了绝对 `url`**，79 个 js 因此只需在 `sources/`
+放一份，不必按档位复制多份。
 
 ## 已知情况
 

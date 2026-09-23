@@ -1,0 +1,192 @@
+[
+    {
+        "name": "漫客栈",
+        "key": "mkzhan",
+        "version": "1.1.4",
+        "fileName": "mkzhan.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mkzhan.js",
+        "tier": "tier1-primary",
+        "latency_ms": 110,
+        "description": "tier1-primary · 110ms · 2 ecosystems"
+    },
+    {
+        "name": "看漫画",
+        "key": "kanman",
+        "version": "2.2.7",
+        "fileName": "kanman.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/kanman.js",
+        "tier": "tier1-primary",
+        "latency_ms": 352,
+        "description": "tier1-primary · 352ms · 3 ecosystems"
+    },
+    {
+        "name": "咚漫",
+        "key": "dongmanmanhua",
+        "version": "1.0.6",
+        "fileName": "dongmanmanhua.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dongmanmanhua.js",
+        "tier": "tier1-primary",
+        "latency_ms": 407,
+        "description": "tier1-primary · 407ms · 2 ecosystems"
+    },
+    {
+        "name": "咚漫",
+        "key": "dongman",
+        "version": "1.0.8",
+        "fileName": "dongman.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dongman.js",
+        "tier": "tier1-primary",
+        "latency_ms": 407,
+        "description": "tier1-primary · 407ms · 2 ecosystems"
+    },
+    {
+        "name": "漫本",
+        "key": "manben",
+        "version": "1.1.0",
+        "fileName": "manben.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manben.js",
+        "tier": "tier1-primary",
+        "latency_ms": 509,
+        "description": "tier1-primary · 509ms · 2 ecosystems"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua_fixed_v15",
+        "version": "1.2.6",
+        "fileName": "rumanhua_fixed_v16.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rumanhua_fixed_v16.js",
+        "tier": "tier1-primary",
+        "latency_ms": 539,
+        "description": "tier1-primary · 539ms · 3 ecosystems"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua",
+        "version": "2.4.1",
+        "fileName": "rumanhua.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rumanhua.js",
+        "tier": "tier1-primary",
+        "latency_ms": 539,
+        "description": "tier1-primary · 539ms · 3 ecosystems"
+    },
+    {
+        "name": "动漫屋",
+        "key": "dm5",
+        "version": "7.0.0",
+        "fileName": "dm5.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dm5.js",
+        "tier": "tier1-primary",
+        "latency_ms": 850,
+        "description": "tier1-primary · 850ms · 4 ecosystems"
+    },
+    {
+        "name": "MangaDex",
+        "key": "manga_dex",
+        "version": "1.2.0",
+        "fileName": "manga_dex.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manga_dex.js",
+        "tier": "tier1-primary",
+        "latency_ms": 880,
+        "description": "tier1-primary · 880ms · 3 ecosystems · MangaDex（开放授权）"
+    },
+    {
+        "name": "漫画看",
+        "key": "mhkan",
+        "version": "1.1.7",
+        "fileName": "mhkan.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mhkan.js",
+        "tier": "tier1-primary",
+        "latency_ms": 978,
+        "description": "tier1-primary · 978ms · 2 ecosystems"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official_v1",
+        "version": "1.0.3",
+        "fileName": "tencent_comic_official.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/tencent_comic_official.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1120,
+        "description": "tier1-primary · 1120ms · 3 ecosystems · 腾讯动漫（正版）"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official",
+        "version": "2.0.0",
+        "fileName": "qq_comic_official.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/qq_comic_official.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1120,
+        "description": "tier1-primary · 1120ms · 3 ecosystems · 腾讯动漫（正版）"
+    },
+    {
+        "name": "search_nonce",
+        "key": "rawkuma",
+        "version": "1.1.0",
+        "fileName": "rawkuma.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rawkuma.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1402,
+        "description": "tier1-primary · 1402ms · 3 ecosystems"
+    },
+    {
+        "name": "来漫画（分流）",
+        "key": "laimanhua_split",
+        "version": "1.2.1",
+        "fileName": "laimanhua_split_hosts_v1.2.1_configurable.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/laimanhua_split_hosts_v1.2.1_configurable.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1563,
+        "description": "tier1-primary · 1563ms · 2 ecosystems"
+    },
+    {
+        "name": "LINE WEBTOON",
+        "key": "webtoons_zh_hant",
+        "version": "1.0.0",
+        "fileName": "webtoons_zh_hant.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/webtoons_zh_hant.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1668,
+        "description": "tier1-primary · 1668ms · 2 ecosystems · LINE WEBTOON（正版）"
+    },
+    {
+        "name": "嗶哩漫畫",
+        "key": "bilimanga",
+        "version": "1.1.0",
+        "fileName": "bilimanga.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/bilimanga.js",
+        "tier": "tier1-primary",
+        "latency_ms": 2128,
+        "description": "tier1-primary · 2128ms · 4 ecosystems · 哔哩漫画（正版）"
+    },
+    {
+        "name": "少年ジャンプ＋",
+        "key": "shonen_jump_plus",
+        "version": "1.1.1",
+        "fileName": "shonen_jump_plus.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/shonen_jump_plus.js",
+        "tier": "tier1-primary",
+        "latency_ms": 3676,
+        "description": "tier1-primary · 3676ms · 3 ecosystems · 少年Jump+（正版）"
+    },
+    {
+        "name": "瓜子漫画",
+        "key": "guazimanhua",
+        "version": "1.0.4",
+        "fileName": "guazi_manhua_v1.1.0.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/guazi_manhua_v1.1.0.js",
+        "tier": "tier1-primary",
+        "latency_ms": 3801,
+        "description": "tier1-primary · 3801ms · 2 ecosystems"
+    },
+    {
+        "name": "zero搬运网",
+        "key": "zerobyw",
+        "version": "1.2.0",
+        "fileName": "zero.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/zero.js",
+        "tier": "tier1-primary",
+        "latency_ms": 4009,
+        "description": "tier1-primary · 4009ms · 2 ecosystems"
+    }
+]

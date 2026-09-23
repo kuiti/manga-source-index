@@ -1,0 +1,23 @@
+# Venera 源列表地址 / Source list URLs  (v1.0.0)
+# 用法：Venera → 漫画源 → comic source → 粘进 Repo URL → Refresh
+
+[all   ]  79 个
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json
+  https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json   (备用，无缓存)
+
+[tier1 ]  19 个
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json
+  https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier1/index.json   (备用，无缓存)
+
+[tier2 ]  33 个
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json
+  https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier2/index.json   (备用，无缓存)
+
+[tier3 ]  26 个
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json
+  https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json   (备用，无缓存)
+
+[extra ]   1 个
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json
+  https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/extra/index.json   (备用，无缓存)
+

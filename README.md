@@ -60,6 +60,16 @@ Source definitions are aggregated from **7 mainstream open-source manga reader e
 ├── build_tiers.py        tier assignment by availability and latency
 ├── build_repo.py         builds this repository's data tree
 └── build_phone_sources.py builds an on-device Venera source tree by tier
+
+05-venera-sources/                       ready-to-import Venera source lists
+├── sources/*.js                         79 working Venera source files
+├── all/index.json                       all 79, sorted tier1 → tier2 → tier3 → extra
+├── tier1/index.json                     19 sources
+├── tier2/index.json                     33 sources
+├── tier3/index.json                     26 sources
+├── extra/index.json                     1 source (not in the Chinese tiers)
+├── venera-import.json                   config file: the paste-ready URLs, with notes
+└── urls.txt                             plain URL list
 ```
 
 ## Field reference
@@ -185,6 +195,47 @@ Outside mainland China many Chinese sites time out; behind a proxy some sites ge
 gateway. Neither means the site is dead — re-test in your **target environment** before finalizing
 tiers. Reference data: two runs in the same environment found 161 / 160 alive out of 256 — a
 difference of just 1, so results are stable and trustworthy.
+
+## Import the sources into Venera
+
+`05-venera-sources/` is a **ready-to-import** Venera source list — no cloning, no file copying.
+Paste one URL into the app and the sources show up as a list you can add one by one.
+
+**Steps**
+
+1. Open Venera → **Comic Source** (漫画源) → the **Comic Source** entry (源列表)
+2. Paste one of the URLs below into the **Repo URL** field
+3. Tap **Refresh** — the list loads
+4. Tap **Add** on each source you want (sources already installed show a check mark)
+
+| List | Sources | URL |
+|---|---|---|
+| All (sorted by tier) | 79 | `https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json` |
+| `tier1-primary` | 19 | `.../05-venera-sources/tier1/index.json` |
+| `tier2-backup` | 33 | `.../05-venera-sources/tier2/index.json` |
+| `tier3-retest` | 26 | `.../05-venera-sources/tier3/index.json` |
+| `extra` (not in Chinese tiers) | 1 | `.../05-venera-sources/extra/index.json` |
+
+The full list, ready to copy, is in [`05-venera-sources/urls.txt`](05-venera-sources/urls.txt)
+and machine-readable in [`venera-import.json`](05-venera-sources/venera-import.json).
+
+**Things to know**
+
+- The app stores **one** Repo URL at a time — to switch tiers, just replace the URL and Refresh.
+- Every entry shows its tier, probe latency and ecosystem count **under the source name**
+  (that's the `description` field), so you can pick by eye in the all-list.
+- Use the `raw.githubusercontent.com` variant if jsDelivr's cache (~12h) holds you back;
+  both are listed in `urls.txt`.
+- All sources declare `minAppVersion` ≤ 1.6.0, so they load on Venera 1.6.x
+  (including the archived 1.6.3; Venera Prime is newer than that requirement).
+- Adult sources are included — disable the ones you don't want inside the app.
+
+### Why it works without copying files
+
+Venera resolves each list entry like this (see `comic_source_page.dart`): use the entry's `url`
+field when it is a valid absolute URL, otherwise resolve `fileName` against the list's own
+directory. `05-venera-sources/*/index.json` therefore carries an **absolute `url` per entry**,
+which is why all 79 JS files can live once in `sources/` instead of being duplicated per tier.
 
 ## Known caveats
 

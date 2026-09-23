@@ -1,0 +1,53 @@
+{
+  "name": "Venera 漫画源在线列表 / Venera comic source lists",
+  "version": "v1.0.0",
+  "howto_zh": "打开 Venera → 漫画源 → comic source（源列表）→ 把下面的 URL 粘进 'Repo URL' 输入框 → 点 Refresh → 列表出来后点条目右侧 Add 导入。只想导某一档就填对应的 tier URL。",
+  "howto_en": "Open Venera → Comic Source → paste one of the URLs below into the 'Repo URL' field → Refresh → tap Add on each entry you want. Use a tier URL to see only that tier.",
+  "supported": "Venera >= 1.6.0（本列表内所有源 minAppVersion 最高 1.6.0）",
+  "lists": [
+    {
+      "key": "all",
+      "count": 79,
+      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json",
+      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json"
+    },
+    {
+      "key": "tier1",
+      "count": 19,
+      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json",
+      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier1/index.json"
+    },
+    {
+      "key": "tier2",
+      "count": 33,
+      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json",
+      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier2/index.json"
+    },
+    {
+      "key": "tier3",
+      "count": 26,
+      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json",
+      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json"
+    },
+    {
+      "key": "extra",
+      "count": 1,
+      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json",
+      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/extra/index.json"
+    }
+  ],
+  "notes_zh": [
+    "一次只能填一个列表 URL（App 只存一个 Repo URL 槽位），换档位就换 URL。",
+    "全量列表里每个源的名称下方会显示档位、延迟、收录生态数。",
+    "jsDelivr 有缓存（最长约 12 小时），数据更新后想立刻生效可改用 raw 地址。",
+    "含 NSFW 源，不需要的在 App 里单独关掉。",
+    "源指向第三方站点，可用性与合规性请自行判断。"
+  ],
+  "notes_en": [
+    "Only one list URL can be set at a time (the app stores a single Repo URL).",
+    "In the all-list, each entry shows tier / latency / ecosystem count under its name.",
+    "jsDelivr caches (up to ~12h); use the raw URL for the freshest copy.",
+    "Includes NSFW sources; disable the ones you don't want in the app.",
+    "Sources point to third-party sites — availability and legality are your call."
+  ]
+}
