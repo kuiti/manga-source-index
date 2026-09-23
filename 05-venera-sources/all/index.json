@@ -200,7 +200,7 @@
         "description": "tier1-primary · 1120ms · 3 ecosystems · 腾讯动漫（正版）"
     },
     {
-        "name": "search_nonce",
+        "name": "Rawkuma",
         "key": "rawkuma",
         "version": "1.1.0",
         "minAppVersion": "1.0.0",
@@ -467,7 +467,7 @@
     },
     {
         "name": "漫网",
-        "key": "9S8$vJnU2ANeSRoF",
+        "key": "manwang",
         "version": "1.2.0",
         "minAppVersion": "1.4.0",
         "fileName": "manwang_fixed_v120.js",
@@ -888,7 +888,7 @@
         "description": "tier3-retest · 812ms · 3 ecosystems"
     },
     {
-        "name": "x",
+        "name": "MYCOMIC",
         "key": "mycomic",
         "version": "1.1.0",
         "minAppVersion": "1.4.6",
@@ -1063,7 +1063,7 @@
         "description": "tier3-retest · 1 ecosystems"
     },
     {
-        "name": "galleriesindex",
+        "name": "hitomi.la",
         "key": "hitomi",
         "version": "1.1.2",
         "minAppVersion": "1.4.6",

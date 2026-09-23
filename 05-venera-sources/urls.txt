@@ -8,27 +8,27 @@
 
 [all   ]  79 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json
-  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/all/index.json
+  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/all/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json
 
 [tier1 ]  19 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json
-  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier1/index.json
+  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/tier1/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier1/index.json
 
 [tier2 ]  33 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json
-  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier2/index.json
+  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/tier2/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier2/index.json
 
 [tier3 ]  26 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json
-  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier3/index.json
+  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/tier3/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json
 
 [extra ]   1 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json
-  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/extra/index.json
+  pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@sources-v1.0.0/05-venera-sources/extra/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/extra/index.json
 
 ==================================================================

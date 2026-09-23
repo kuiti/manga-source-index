@@ -17,7 +17,7 @@
         "description": "tier3-retest · 11ms · 3 ecosystems"
     },
     {
-        "name": "x",
+        "name": "MYCOMIC",
         "key": "mycomic",
         "version": "1.1.0",
         "minAppVersion": "1.4.6",
@@ -72,7 +72,7 @@
         "description": "tier3-retest · 5 ecosystems"
     },
     {
-        "name": "galleriesindex",
+        "name": "hitomi.la",
         "key": "hitomi",
         "version": "1.1.2",
         "minAppVersion": "1.4.6",
