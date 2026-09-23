@@ -227,8 +227,9 @@ python 04-tools/build_tiers.py \
 - App 只存**一个** Repo URL —— 想换档位就换 URL 再 Refresh。
 - 每个源的名称下方会显示**档位、探测延迟、收录生态数**（走的是 `description` 字段），
   所以在全量列表里可以直接按眼睛挑。
-- 如果被 jsDelivr 缓存（最长约 12 小时）卡住，用 `raw.githubusercontent.com` 那个备用地址，
-  两个都在 `urls.txt` 里。
+- 每个列表有三种地址形式，都在 `urls.txt` 里：**`@main`**（主用）、
+  **`@<commit-sha>`**（内容不可变，绕开 jsDelivr 的分支缓存，想立刻拿到当前快照时用）、
+  以及 `raw.githubusercontent.com`（部分网络含中国大陆会超时，仅作最后备选）。
 - 所有源的 `minAppVersion` 都 ≤ 1.6.0，Venera 1.6.x 都能加载（含已归档的 1.6.3；
   Venera Prime 比这个要求更新）。
 - 列表里含成人向源，不需要的在 App 里单独关掉。

@@ -9,44 +9,51 @@
       "key": "all",
       "count": 79,
       "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json",
+      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/all/index.json",
       "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json"
     },
     {
       "key": "tier1",
       "count": 19,
       "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json",
+      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier1/index.json",
       "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier1/index.json"
     },
     {
       "key": "tier2",
       "count": 33,
       "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json",
+      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier2/index.json",
       "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier2/index.json"
     },
     {
       "key": "tier3",
       "count": 26,
       "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json",
+      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier3/index.json",
       "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json"
     },
     {
       "key": "extra",
       "count": 1,
       "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json",
+      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/extra/index.json",
       "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/extra/index.json"
     }
   ],
   "notes_zh": [
     "一次只能填一个列表 URL（App 只存一个 Repo URL 槽位），换档位就换 URL。",
     "全量列表里每个源的名称下方会显示档位、延迟、收录生态数。",
-    "jsDelivr 有缓存（最长约 12 小时），数据更新后想立刻生效可改用 raw 地址。",
+    "主用 jsDelivr 分支地址（@main）。它有缓存（最长约 12 小时），数据更新后想立刻生效就用 @<sha> 固定地址（内容不可变，不经分支缓存）。",
+    "raw.githubusercontent 在部分网络（含中国大陆）会超时，仅作最后备选。",
     "含 NSFW 源，不需要的在 App 里单独关掉。",
     "源指向第三方站点，可用性与合规性请自行判断。"
   ],
   "notes_en": [
     "Only one list URL can be set at a time (the app stores a single Repo URL).",
     "In the all-list, each entry shows tier / latency / ecosystem count under its name.",
-    "jsDelivr caches (up to ~12h); use the raw URL for the freshest copy.",
+    "Primary is the jsDelivr branch URL (@main). It is cached (up to ~12h); use the @<sha> pinned URL when you need the exact snapshot immediately.",
+    "raw.githubusercontent times out on some networks (incl. mainland China) — last resort only.",
     "Includes NSFW sources; disable the ones you don't want in the app.",
     "Sources point to third-party sites — availability and legality are your call."
   ]

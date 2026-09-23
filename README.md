@@ -224,8 +224,10 @@ and machine-readable in [`venera-import.json`](05-venera-sources/venera-import.j
 - The app stores **one** Repo URL at a time — to switch tiers, just replace the URL and Refresh.
 - Every entry shows its tier, probe latency and ecosystem count **under the source name**
   (that's the `description` field), so you can pick by eye in the all-list.
-- Use the `raw.githubusercontent.com` variant if jsDelivr's cache (~12h) holds you back;
-  both are listed in `urls.txt`.
+- Each list comes in three URL forms, all in `urls.txt`: **`@main`** (primary),
+  **`@<commit-sha>`** (immutable — bypasses jsDelivr's branch cache when you need the exact
+  snapshot now), and `raw.githubusercontent.com` (times out on some networks including
+  mainland China — last resort only).
 - All sources declare `minAppVersion` ≤ 1.6.0, so they load on Venera 1.6.x
   (including the archived 1.6.3; Venera Prime is newer than that requirement).
 - Adult sources are included — disable the ones you don't want inside the app.
