@@ -1,0 +1,10 @@
+﻿档内排名,站点域名,子类,延迟ms,速度,HTTP,质量分,质量层,适配工作量,官方正版,NSFW,收录生态数,收录生态,各生态源名
+3,mangadot.net,A-反爬拦截(活着),449,中,403,48,T1,需新写,,0,2,aidoku|mihon,MangaDot|multi.mangadotnet
+6,mycomic.com,A-反爬拦截(活着),834,中,403,62,T1,已有实现,,0,4,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic
+7,xcomic.me,A-反爬拦截(活着),836,中,403,48,T2,需新写,,0,2,aidoku|mihon,XCOMIC|multi.xcomic
+13,baozimh.com,A-反爬拦截(活着),5791,慢,403,56,T1,已有实现,,0,3,aidoku|legado|mihon,zh.baozimanhua|包子漫画
+20,happymh.com,C-代理/网关错误(待复测),11,快,502,56,T1,已有实现,,0,3,aidoku|mangareader|venera,happy|zh.happymh|嗨皮漫画
+30,nhentai.net,C-超时(待复测),0,,0,56,T1,已有实现,,0,3,aidoku|mangareader|venera,multi.nhentai|nh|nhentai
+31,hitomi.la,C-超时(待复测),0,,0,48,T1,已有实现,,0,2,aidoku|venera,hitomi.la|multi.hitomi
+49,mangabz.com,C-超时(待复测),0,,0,38,T3,已有实现,,0,5,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz
+61,wnacg.com,C-超时(待复测),0,,0,38,T3,需新写,,0,1,aidoku,zh.wnacg

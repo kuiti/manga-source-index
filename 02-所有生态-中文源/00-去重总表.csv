@@ -1,0 +1,257 @@
+﻿rank,domain,score,tier,official,nsfw,eco_count,ecosystems,names,langs,effort
+1,bilimanga.net,87,T1,哔哩漫画（正版）,0,4,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫,zh,已有实现
+2,ac.qq.com,81,T1,腾讯动漫（正版）,0,3,legado|mihon|venera,㊣✐ 腾讯漫画  #一程|腾讯动漫|腾讯动漫（正版）|腾讯漫画📱,zh|zh-hans,已有实现
+3,mangadex.org,81,T1,MangaDex（开放授权）,0,3,aidoku|mihon|venera,MangaDex|multi.mangadex,af|ar|az|be|bg|bn|ca|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fil|fr|ga|he|hi|hr|hu|id|it|ja|jv|ka|kk|ko|la|lt|mn|ms|multi|my|ne|nl|no|pl|pt|pt-br|ro|ru|sk|sq|sr|sv|ta|te|th|tr|uk|ur|uz|vi|zh|zh-hans|zh-hant,已有实现
+4,shonenjumpplus.com,81,T1,少年Jump+（正版）,0,3,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋,ja|zh,已有实现
+5,iqiyi.com,73,T1,爱奇艺漫画（正版）,0,2,legado|mihon,✐ ㊣爱奇艺漫画 #Haxc1107|爱奇艺叭嗒|🎨 爱奇艺漫画|🎨爱奇艺漫画 ,zh|zh-hans,需新写
+6,kuaikanmanhua.com,73,T1,快看漫画（正版）,0,2,legado|mihon,快看漫画|快看漫画M|🎨 快看漫画$|🎨快看漫画,zh|zh-hans,需新写
+7,webtoons.com,73,T1,LINE WEBTOON（正版）,0,2,mihon|venera,LINE WEBTOON|Webtoons.com,de|en|es|fr|id|th|zh|zh-hant,已有实现
+8,comic-walker.com,63,T1,カドコミ（正版）,0,1,mihon,カドコミ,ja,已有实现
+9,dmzj.com,63,T1,动漫之家,0,1,cimoc,DongManZhiJia,zh,需新写
+10,idmzj.com,63,T1,动漫之家,0,1,mangareader,dmzj,zh,需新写
+11,manga.bilibili.com,63,T1,哔哩漫画（正版）,0,1,legado,哔哩哔哩漫画 #Haxc,zh,需新写
+12,mangamillion.shueisha.co.jp,63,T1,Manga Million（正版）,0,1,mihon,Manga Million,af|am|ar|as|be|bg|bho|bo|ca|ceb|cnr|cs|cy|da|de|doi|dv|ee|el|en|es|es-ar|es-mx|et|eu|fi|fr|ga|gl|gn|gu|haw|he|hi|hmn|hr|hu|hy|id|ig|ilo|is|it|ka|km|kn|ko-kr|kok|la|lb|lg|ln|lo|lt|lus|lv|mai|mg|mi|mk|ml|mn|mni|mr|ms|mt|mww|my|ne|nl|no|nso|ny|or|pa|pl|pt|pt-br|qu|ro|ro-md|ru|rw|sa|sd|si|sk|sl|sm|sn|sr|sv|sw|ta|te|th|tl|tr|ts|uk|vi|xh|yi|yo|zh-cn|zh-hk|zh-tw|zu,需新写
+13,namicomi.com,63,T1,NamiComi,0,1,mihon,NamiComi,ar|bg|ca|cs|da|de|el|en|es|es-419|et|fa|fi|fil|fr|ga|he|hi|hr|hu|id|is|it|ja|ko|lt|ms|ne|nl|no|pa|pl|pt|pt-br|ru|sk|sl|sv|th|tr|uk|zh-hans|zh-hant,需新写
+14,dm5.com,62,T1,,0,4,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋,zh,已有实现
+15,komiic.com,62,T1,,0,4,aidoku|cimoc|mihon|venera,KOMIIC|Komiic|zh.komiic,zh,已有实现
+16,mycomic.com,62,T1,,0,4,aidoku|cimoc|mihon|venera,MYCOMIC|MyComic|zh.mycomic,zh,已有实现
+17,baozimh.com,56,T1,,0,3,aidoku|legado|mihon,zh.baozimanhua|包子漫画,zh,已有实现
+18,happymh.com,56,T1,,0,3,aidoku|mangareader|venera,happy|zh.happymh|嗨皮漫画,zh,已有实现
+19,kanman.com,56,T1,,0,3,cimoc|legado|venera,ManHuaTai|看漫画|🎨 看漫画M|🎨 看漫画M #Haxc1107,zh,已有实现
+20,manhuagui.com,56,T1,,0,3,mangareader|mihon|venera,mhgm|漫画柜,zh,已有实现
+21,nhentai.net,56,T1,,0,3,aidoku|mangareader|venera,multi.nhentai|nh|nhentai,multi|zh,已有实现
+22,rawkuma.net,56,T1,,0,3,aidoku|mihon|venera,Rawkuma|ja.rawkuma,ja|zh,已有实现
+23,rumanhua2.com,56,T1,,0,3,cimoc|mihon|venera,RUMANHUA|如漫画,zh,已有实现
+24,ykmh.net,56,T1,,0,3,cimoc|mihon|venera,YouKuManHua|优酷漫画|优酷漫画 (修复版),zh,已有实现
+25,baozimhcn.com,48,T1,,0,2,cimoc|mangareader,BAOZIMH|BaoziManHua|bzm,zh,需新写
+26,comic.mkzhan.com,48,T1,,0,2,cimoc|legado,MKZHAN|漫客栈|🎨 漫客栈|🎨 漫客栈🅰 ,zh,已有实现
+27,dongmanmanhua.cn,48,T1,,0,2,mihon|venera,Dongman Manhua|咚漫,zh|zh-hans,已有实现
+28,dumanwu1.com,48,T1,,0,2,cimoc|mihon,DUMANWU|读漫屋,zh,需新写
+29,godamh.com,48,T1,,0,2,aidoku|cimoc,HaoManEight|zh.godamanga,zh,需新写
+30,guazimanhua.com,48,T1,,0,2,mihon|venera,瓜子漫画,zh,已有实现
+31,hitomi.la,48,T1,,0,2,aidoku|venera,hitomi.la|multi.hitomi,multi|zh,已有实现
+32,laimanhua88.com,48,T1,,0,2,cimoc|venera,LAIMH|来漫画|来漫画（分流）,zh,已有实现
+33,manben.com,48,T1,,0,2,cimoc|venera,HAOMAN6|漫本,zh,已有实现
+34,mangadot.net,48,T1,,0,2,aidoku|mihon,MangaDot|multi.mangadotnet,ab|af|am|ar|az|be|bg|bn|bs|ca|ceb|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fo|fr|ga|gl|gn|gu|ha|he|hi|hr|ht|hu|hy|id|ig|is|it|ja|jv|ka|kk|km|kn|ko|ku|ky|la|lb|lo|lt|lv|mg|mi|mk|ml|mn|mo|mr|ms|mt|multi|my|ne|nl|no|ny|pl|ps|pt|pt-br|rm|ro|ru|sd|sh|si|sk|sl|sm|sn|so|sq|sr|ss|st|sv|sw|ta|te|tg|th|ti|tk|tl|to|tr|uk|ur|uz|vi|yo|zh|zh-hant|zh-tw|zu,需新写
+35,manhuadb.com,48,T1,,0,2,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全,zh,需新写
+36,manmanapp.com,48,T1,,0,2,cimoc|legado,MANMANMANHUA|㊣✐ 漫漫漫画 #一程1101|🎨 漫漫漫画 |🎨 漫漫漫画 #Haxc,zh,需新写
+37,maofly.com,48,T1,,0,2,cimoc|mangareader,MH50|ManHuaCat|mhm,zh,需新写
+38,mhua5.com,48,T1,,0,2,cimoc|mihon,MANHUAWU|漫画屋,zh,需新写
+39,mkzhan.com,48,T2,,0,2,legado|venera,㊣✐ 漫客栈  #一程|漫客栈|🌵漫客栈🌵|🎨 漫客栈 #Haxc,zh,已有实现
+40,vomicmh.com,48,T2,,0,2,cimoc|mihon,VOMIC2|vomic,zh,需新写
+41,wmh1234.com,48,T2,,0,2,mihon|venera,漫画1234|漫画kan,zh,已有实现
+42,xcomic.me,48,T2,,0,2,aidoku|mihon,XCOMIC|multi.xcomic,ab|af|all|am|ar|az|be|bg|bn|bs|ca|ceb|cs|cv|da|de|el|en|eo|es|es-419|et|eu|fa|fi|fil|fo|fr|ga|gl|gn|gu|ha|he|hi|hr|ht|hu|hy|id|ig|is|it|ja|jv|ka|kk|km|kn|ko|ku|ky|la|lb|lo|lt|lv|mg|mi|mk|ml|mn|mo|mr|ms|mt|multi|my|ne|nl|no|ny|other|pl|ps|pt|pt-br|rm|ro|ru|sd|sh|si|sk|sl|sm|sn|so|sq|sr|ss|st|sv|sw|ta|te|tg|th|ti|tk|to|tr|uk|ur|uz|vi|yo|zh|zh-hant|zu,需新写
+43,zaimanhua.com,48,T2,,0,2,aidoku|cimoc,HAOMAN8|zh.zaimanhua,zh,需新写
+44,zerobyw33.com,48,T2,,0,2,mihon|venera,zero搬运网,zh,已有实现
+45,ymcdnyfqdapp.ikmmh.com,44,T2,,1,3,cimoc|mihon|venera,BODONGMH|爱看漫,zh,已有实现
+46,100fanwo.com,38,T2,,0,1,cimoc,MH360,zh,需新写
+47,18mh.org,38,T2,,0,1,mihon,18漫画,zh,已有实现
+48,1kkk.com,38,T2,,0,1,venera,极速漫画,zh,已有实现
+49,2026copy.com,38,T2,,0,1,cimoc,CopyManHua,zh,需新写
+50,2cycomic.com,38,T2,,0,1,venera,次元漫画,zh,已有实现
+51,311s.com,38,T2,,0,1,mihon,漫画社,zh,需新写
+52,36mh.org,38,T2,,0,1,cimoc,QIMIAO,zh,需新写
+53,4399manhua.com,38,T2,,0,1,venera,4399漫画网,zh,已有实现
+54,51manga.com,38,T2,,0,1,venera,51漫画,zh,已有实现
+55,77mh.nl,38,T2,,0,1,legado,🎨 新新漫画,zh,需新写
+56,77mh.xyz,38,T2,,0,1,legado,🎨新新漫画-xyz,zh,需新写
+57,7stary.com,38,T2,,0,1,cimoc,DUMH|DuManHua,zh,需新写
+58,8comic.com,38,T2,,0,1,mihon,無限動漫,zh,需新写
+59,8jj.com,38,T2,,0,1,legado,✐ 八极漫画 #Haxc|八极漫画,zh,需新写
+60,90mh.org,38,T2,,0,1,cimoc,MANHUA90,zh,需新写
+61,92mh.com,38,T2,,0,1,mihon,92漫画,zh,需新写
+62,9comic.cn,38,T2,,0,1,legado,好看漫画,zh,已有实现
+63,amcomic.com,38,T2,,0,1,legado,一个漫画,zh,需新写
+64,api.acg.gd,38,T2,,0,1,legado,✐ 🔥亲亲漫画 #Haxc|🎨亲亲漫画 #Haxc🔞|🎨亲亲漫画🔞,zh,需新写
+65,api.creative-comic.tw,38,T2,,0,1,venera,CCC追漫台,zh,已有实现
+66,api.ilikemanga.com,38,T2,,0,1,legado,🎨追追漫画₁🅰,zh,需新写
+67,api.iqhmh.com,38,T2,,0,1,legado,✐ 趣话漫画🅰💰 #Haxc|㊣✐ 趣话漫画🅰 #Haxc|🎨 趣话漫画,zh,需新写
+68,api.noyteam.online,38,T2,,0,1,mihon,NoyAcg,zh-hant,需新写
+69,apifans.dushimh.com,38,T2,,0,1,legado,粉丝漫画,zh,需新写
+70,app-api.pixiv.net,38,T2,,0,1,venera,Pixiv,zh,已有实现
+71,baozimh.one,38,T2,,0,1,cimoc,BAOZIV2|HaoManSix,zh,需新写
+72,baozimh.org,38,T2,,0,1,mihon,GoDa漫画,zh,已有实现
+73,bbboy.cc,38,T2,,0,1,cimoc,BOLEMH,zh,需新写
+74,bdido.com,38,T2,,0,1,legado,1359漫画,zh,需新写
+75,biqu8.xyz,38,T2,,0,1,cimoc,BIQUGE,zh,需新写
+76,bnman.net,38,T2,,0,1,cimoc,BAINIANMH,zh,需新写
+77,bud.iqiyi.com,38,T2,,0,1,cimoc,IQIYI,zh,需新写
+78,bukamh.com,38,T2,,0,1,venera,布卡漫画,zh,已有实现
+79,bwhanman.com,38,T2,,0,1,legado,🌵背窝韩漫🌵,zh,需新写
+80,cdn-msp.jmapinodeudzn.net,38,T2,,0,1,venera,禁漫天堂,zh,已有实现
+81,chuixue.net,38,T2,,0,1,cimoc,CHUIXUEMH,zh,需新写
+82,colamanga.com,38,T2,,0,1,cimoc,CoCoManHua,zh,需新写
+83,comic.bh3.com,38,T2,,0,1,mihon,《崩坏3》IP站,zh,需新写
+84,comic.hypergryph.com,38,T2,,0,1,mihon,泰拉记事社,zh,需新写
+85,comic.pixiv.net,38,T2,,0,1,mihon,Pixivコミック,ja,已有实现
+86,comicfury.com,38,T2,,0,1,mihon,Comic Fury|Comic Fury (No Text),all|de|en|es|fi|fr|it|ja|other|pl|pt-br|ru|zh,需新写
+87,comick.art,38,T2,,0,1,venera,comick,zh,已有实现
+88,comico.jp,38,T2,,0,1,mihon,コミコ,ja,需新写
+89,copymanga.com,38,T2,,0,1,legado,🎨 拷贝漫画➠移动不可用,zh,已有实现
+90,creative-comic.tw,38,T2,,0,1,mihon,CCC追漫台,zh-hant,已有实现
+91,d9zfb53b.lstool.xyz,38,T2,,0,1,cimoc,GUOGUOMH,zh,需新写
+92,dashuhuwai.com,38,T2,,0,1,legado,大树漫画,zh,需新写
+93,dashumanhua.com,38,T2,,0,1,cimoc,DASHUMANHUA,zh,需新写
+94,demo.kavita.org,38,T2,,0,1,venera,Kavita,zh,已有实现
+95,demo.komga.org,38,T2,,0,1,venera,Komga,zh,已有实现
+96,dongman.la,38,T2,,0,1,venera,动漫啦,zh,已有实现
+97,dragonball-multiverse.com,38,T2,,0,1,mihon,Dragon Ball Multiverse|Dragon Ball Multiverse Parody,ar|bg|br|ca|co|da|de|el|en|es|es-419|eu|fi|fil|fr|ga|he|hr|hu|it|ja|ko|la|lmo|lt|nl|no|pl|pt|pt-br|ro|ru|sv|tr|vec|zh,需新写
+98,dumanwu.org,38,T2,,0,1,cimoc,DUMANWUORG,zh,需新写
+99,e-hentai.org,38,T2,,0,1,venera,ehentai,zh,已有实现
+100,ebook.tongli.com.tw,38,T2,,0,1,mihon,東立,zh,需新写
+101,favcomic.com,38,T2,,0,1,mihon,喜漫漫画,zh,需新写
+102,feixuemh.com,38,T2,,0,1,cimoc,FEIXUEMH,zh,需新写
+103,ffppt.com,38,T2,,0,1,venera,飞翔漫画,zh,已有实现
+104,g-mh.org,38,T2,,0,1,cimoc,GODAMH,zh,需新写
+105,gaugau.futabanet.jp,38,T2,,0,1,mihon,がうがうモンスター＋,ja,需新写
+106,gfmh.app,38,T2,,0,1,venera,古风漫画,zh,已有实现
+107,git.nyne.dev,38,T2,,0,1,venera,MangaDex,zh,已有实现
+108,globalcomix.com,38,T2,,0,1,mihon,GlobalComix,ar|bg|bn|cs|da|de|el|en|es|fa|fi|fil|fr|he|hi|hu|id|it|ja|ko|lv|ms|nl|no|pl|pt|pt-br|ro|ru|sk|sl|sq|sv|ta|th|tr|uk|ur|vi|zh-hans|zh-hant,需新写
+109,gmanhua.com,38,T2,,0,1,cimoc,SHOUJIMH|ShouJiManHua,zh,需新写
+110,gmh1234.wszwhg.net,38,T2,,0,1,venera,漫画1234,zh,已有实现
+111,godamanga.art,38,T2,,0,1,cimoc,GoDaMH,zh,需新写
+112,gufengmanhua.com,38,T2,,0,1,cimoc,GuFengWang,zh,需新写
+113,gufengmh.com,38,T2,,0,1,cimoc,GuFengManHua,zh,需新写
+114,gufengmh9.com,38,T2,,0,1,legado,古风漫画,zh,已有实现
+115,hanmandq.com,38,T2,,0,1,legado,韩漫大全,zh,需新写
+116,hao8.net,38,T2,,0,1,legado,🎨 好吧漫画,zh,需新写
+117,haoduoman.com,38,T2,,0,1,cimoc,HAODUOMAN,zh,需新写
+118,haokantxt.com,38,T2,,0,1,venera,好看漫画,zh,已有实现
+119,hentaiclub.net,38,T2,,0,1,mihon,绅士会所,zh,需新写
+120,hikarinagi.org,38,T2,,0,1,mihon,Hikarinagi,zh,需新写
+121,hipmh.com,38,T2,,0,1,venera,嬉皮漫畫,zh,已有实现
+122,hmba.vip,38,T2,,0,1,legado,🎨 韩漫吧,zh,需新写
+123,ikanhm.top,38,T2,,0,1,legado,🎨爱看韩漫🔞,zh,需新写
+124,ikmmh.com,38,T2,,0,1,venera,爱看漫,zh,已有实现
+125,imitui.com,38,T2,,0,1,cimoc,MITUI,zh,需新写
+126,iyouman.com,38,T2,,0,1,legado,🎨 爱优漫📱|🎨 爱优漫📱 |🎨爱优漫,zh,需新写
+127,jjmhw.cc,38,T2,,0,1,legado,久久漫画-ζ,zh,需新写
+128,kagane.to,38,T2,,0,1,mihon,Kagane,ar|de|en|es|es-419|fr|hi|id|it|ja|ko|pl|pt|pt-br|ru|th|vi|zh,需新写
+129,klmanga.net,38,T3,,0,1,mangareader,kl,zh,需新写
+130,komiic.cc,38,T3,,0,1,venera,Komiic,zh,已有实现
+131,kukk.net,38,T3,,0,1,legado,酷看漫画,zh,需新写
+132,kumwu2.com,38,T3,,0,1,cimoc,KUMANWU,zh,需新写
+133,lrr.tvc-16.science,38,T3,,0,1,venera,Lanraragi,zh,已有实现
+134,lunarx.to,38,T3,,0,1,mihon,Lunar Manga,all|ar|bg|bn|da|de|en|es|es-419|fa|fi|fr|he|hi|id|it|ja|ko|ms|nl|no|pl|pt|pt-br|ru|sv|th|tl|tr|ur|vi|zh,需新写
+135,manga2026.com,38,T3,,0,1,venera,热辣漫画,zh,已有实现
+136,mangaapi.manhuaren.com,38,T3,,0,1,mihon,漫画人,zh,已有实现
+137,mangaball.net,38,T3,,0,1,mihon,Manga Ball,ar|bg|bn|ca|cs|da|de|el|en|es|fa|fi|fr|he|hi|hu|id|is|it|ja|kn|ko|ml|ms|ne|nl|no|pl|pt-br|ro|ru|sk|sl|sq|sr|sv|ta|th|tr|uk|vi|zh,需新写
+138,mangabz.com,38,T3,,0,5,aidoku|cimoc|mangareader|mihon|venera,MangaBZManHua|Mangabz|mbz|zh.mangabz,zh,已有实现
+139,mangacopy.com,38,T3,,0,1,mangareader,copy,zh,需新写
+140,mangatoon.mobi,38,T3,,0,1,mihon,MangaToon (Limited),en|es|fr|id|ja|pt-br|th|vi|zh,需新写
+141,mangaz.com,38,T3,,0,1,mihon,マンガ図書館Z,ja,需新写
+142,manhua.sfacg.com,38,T3,,0,1,venera,SF漫画,zh,已有实现
+143,manhua.zaimanhua.com,38,T3,,0,1,mihon,再漫画,zh,已有实现
+144,manhuapi.cc,38,T3,,0,1,venera,漫画皮,zh,已有实现
+145,manhuaren.com,38,T3,,0,1,venera,漫画人,zh,已有实现
+146,manhuatai.com,38,T3,,0,1,legado,🎨 漫画台🅰 #Haxc|🎨 漫画台🅰 #Haxc1107|🎨漫画台🅰,zh,需新写
+147,manhuauo.com,38,T3,,0,1,venera,香蕉漫画,zh,已有实现
+148,manhuayu88.com,38,T3,,0,1,cimoc,MANHUAYU,zh,需新写
+149,manwa.me,38,T3,,0,1,mihon,漫蛙,zh,需新写
+150,manwali.cc,38,T3,,0,1,venera,漫蛙吧,zh,已有实现
+151,manwang.net,38,T3,,0,1,venera,漫网,zh,已有实现
+152,marketing.aiacgn.com,38,T3,,0,1,venera,拷贝漫画|拷贝漫画(多账号),zh,已有实现
+153,mh160mh.com,38,T3,,0,1,cimoc,MH160CC,zh,需新写
+154,mhgui.com,38,T3,,0,1,mangareader,mhg,zh,需新写
+155,mhhanman.xyz,38,T3,,0,1,legado,🎨韩漫画🔞,zh,需新写
+156,mhkami.com,38,T3,,0,1,cimoc,YEMANMH,zh,需新写
+157,mhkan.com,38,T3,,0,1,legado,漫画看|🎨 漫画看,zh,需新写
+158,miaoqumh.org,38,T3,,0,1,mihon,喵趣漫画,zh,需新写
+159,mm.sfacg.com,38,T3,,0,1,legado,SF漫画💰,zh,已有实现
+160,mobileapp.comic-walker.com,38,T3,,0,1,venera,カドコミ,zh,已有实现
+161,mojoin.com,38,T3,,0,1,venera,MOJOIN,zh,已有实现
+162,moxidongman.com,38,T3,,0,1,legado,MOXI动漫(8本)™,zh,需新写
+163,mwuu.cc,38,T3,,0,1,venera,漫蛙吧,zh,已有实现
+164,mxqf.com,38,T3,,0,1,cimoc,BOLEFU|BoLeFu,zh,需新写
+165,mxshm.top,38,T3,,0,1,venera,漫小肆,zh,已有实现
+166,mybl.xyz,38,T3,,0,1,legado,🎟️啵乐漫画,zh,需新写
+167,newsmiss.lofter.com,38,T3,,0,1,legado,🗒 天花板网,zh,需新写
+168,nnv3api.dmzj1.com,38,T3,,0,1,legado,动漫之家,zh,需新写
+169,noymanga.com,38,T3,,0,1,venera,NoyManga,zh,已有实现
+170,picaapi.picacomic.com,38,T3,,0,1,venera,Picacg,zh,已有实现
+171,picacomic.com,38,T3,,0,1,mangareader,pica,zh,已有实现
+172,pixiv.net,38,T3,,0,1,mihon,Pixiv,en|ja|ko|zh|zh-tw,已有实现
+173,pufei.cc,38,T3,,0,1,cimoc,PUFEIMH|PuFeiManHua,zh,需新写
+174,qiman56.com,38,T3,,0,1,legado,🎨 奇漫屋,zh,需新写
+175,qimanwu.org,38,T3,,0,1,cimoc,QIMANHUA,zh,需新写
+176,qimiqimi.net,38,T3,,0,1,legado,奇米动漫,zh,需新写
+177,qiremanhua.com,38,T3,,0,1,legado,✐ ㊣奇热漫画📱 #Haxc1107|奇热漫画📱💰,zh,需新写
+178,qiximh4.com,38,T3,,0,1,cimoc,QIXIMH,zh,需新写
+179,reader.hqread.cc,38,T3,,0,1,venera,漫画1234,zh,已有实现
+180,saymanhwa.com,38,T3,,0,1,mihon,New Manhwa|SayManhwa,ar|de|en|es|fil|fr|id|ja|pt|th|vi|zh-hans|zh-hant,需新写
+181,se8.us,38,T3,,0,1,aidoku,zh.se8,zh,需新写
+182,sixmh7.com,38,T3,,0,1,legado,🎨 六漫画,zh,需新写
+183,so.77mh.nl,38,T3,,0,1,cimoc,XINXINMH|XinXinManHua,zh,需新写
+184,static-tw.baozimh.com,38,T3,,0,1,venera,包子漫画,zh,已有实现
+185,sumanku.com,38,T3,,0,1,cimoc,SUMANKU,zh,需新写
+186,taomanhua.com,38,T3,,0,1,legado,🎨 神漫画|🎨 神漫画📱 #Haxc,zh,需新写
+187,toptoon.net,38,T3,,0,1,mihon,TOPTOON頂通,zh,需新写
+188,ttkmh.com,38,T3,,0,1,cimoc,TTKANMANHUA,zh,需新写
+189,tuho123.com,38,T3,,0,1,cimoc,TUHAOMHV2,zh,需新写
+190,tuku.cc,38,T3,,0,1,venera,图库漫画,zh,已有实现
+191,uaa.com,38,T3,,0,1,legado,🎨UAA漫画,zh,需新写
+192,udm123.com,38,T3,,0,1,cimoc,YOUDM,zh,需新写
+193,uhkvqrxmcapgtpspglrp.moedot.net,38,T3,,0,1,mihon,花火漫画,zh,需新写
+194,umh5.com,38,T3,,0,1,cimoc,YOUMANHUAWU,zh,需新写
+195,uuhanman.com,38,T3,,0,1,legado,🎨 UU韩漫,zh,需新写
+196,v4api.zaimanhua.com,38,T3,,0,1,venera,再漫画,zh,已有实现
+197,wap.65dm.com,38,T3,,0,1,legado,🎨 爱看漫画,zh,需新写
+198,webmota.com,38,T3,,0,1,legado,包子漫画5,zh,已有实现
+199,wmanhua.com,38,T3,,0,1,venera,W漫画,zh,已有实现
+200,wn01.link,38,T3,,0,1,venera,紳士漫畫,zh,已有实现
+201,wnacg.com,38,T3,,0,1,aidoku,zh.wnacg,zh,需新写
+202,xapi.xinmanhua.net,38,T3,,0,1,legado,✐ 新漫画 #Haxc|✐ 新漫画 #Haxc1107|🎨新漫画,zh,需新写
+203,xkcd.tw,38,T3,,0,1,mihon,xkcd,zh,需新写
+204,xmanhua.com,38,T3,,0,1,cimoc,XMANHUA,zh,需新写
+205,yamibo.com,38,T3,,0,1,venera,百合会,zh,已有实现
+206,yanmaga.jp,38,T3,,0,1,mihon,ヤンマガ（グラビア）|ヤンマガ（マンガ）,ja,需新写
+207,ydan.cc,38,T3,,0,1,legado,🗂🙈一耽漫画🅰,zh,需新写
+208,yemancomic.com,38,T3,,0,1,venera,野蛮漫画,zh,已有实现
+209,yimmh.com,38,T3,,0,1,cimoc,YIMMH|YiManHua,zh,需新写
+210,ymgjmh.com,38,T3,,0,1,cimoc,GUILUOLIMANHUA,zh,需新写
+211,yymanhua.com,38,T3,,0,1,cimoc,YYMANHUA,zh,需新写
+212,zazhimi.net,38,T3,,0,1,mihon,杂志迷,zh,需新写
+213,zerobyw.github.io,38,T3,,0,1,venera,zero搬运网,zh,已有实现
+214,zerobywdlss.com,38,T3,,0,1,cimoc,ZERO,zh,已有实现
+215,zhuzhumh.com,38,T3,,0,1,cimoc,BaiManGu,zh,需新写
+216,ziyuanxue.cn,38,T3,,0,1,cimoc,KUMANXIONGV2,zh,需新写
+217,zz.ilikemanga.com,38,T3,,0,1,legado,追追漫画M,zh,需新写
+218,18comic.vip,36,T3,,1,2,mangareader|mihon,jmc|禁漫天堂,zh,已有实现
+219,bakamh.com,36,T3,,1,2,aidoku|mihon,zh.bakamh|巴卡漫画,zh,需新写
+220,cosplaytele.com,36,T3,,1,2,mihon|venera,CosplayTele,all|zh,已有实现
+221,h-comic.com,36,T3,,1,2,mihon|venera,H-Comic,zh,已有实现
+222,jcomic.net,36,T3,,1,2,mihon|venera,JComic|jcomic.net,zh,已有实现
+223,liumanhua.com,36,T3,,1,2,cimoc|mihon,BMG|六漫画,zh,需新写
+224,rouman5.com,36,T3,,1,2,mangareader|mihon,rm5|肉漫屋,zh,需新写
+225,3hentai.net,26,T3,,1,1,mihon,3Hentai,all|ar|bg|cs|de|en|es|fi|fr|hu|id|is|it|ja|jv|ko|la|mo|my|nl|pl|pt|ru|th|tl|tr|uk|vi|zh,需新写
+226,akuma.moe,26,T3,,1,1,mihon,Akuma,all|ar|ca|ceb|cs|da|de|en|eo|es|et|fr|hi|hu|id|it|ja|jv|ko|nl|pl|pt|ru|tr|uk|vi|zh,需新写
+227,asmhentai.com,26,T3,,1,1,mihon,AsmHentai,all|en|ja|zh,需新写
+228,boylove.cc,26,T3,,1,1,mihon,香香腐宅,zh,需新写
+229,cartoon18.com,26,T3,,1,1,mihon,Cartoon18,zh,需新写
+230,en.xchina.co,26,T3,,1,1,mihon,小黄书,en,需新写
+231,es.xchina.co,26,T3,,1,1,mihon,小黄书,es,需新写
+232,global.toomics.com,26,T3,,1,1,mihon,Toomics (Only free chapters),de|en|es|es-419|fr|it|pt-br|zh-hans|zh-hant,需新写
+233,hanimeone.me,26,T3,,1,1,mihon,Hanime1.me,zh,需新写
+234,hanman18.com,26,T3,,1,1,mihon,HANMAN18,zh,需新写
+235,hdoujin.org,26,T3,,1,1,mihon,HDoujin,all|en|es|ja|ko|zh,需新写
+236,hentaifox.com,26,T3,,1,1,mihon,HentaiFox,all|en|ja|ko|zh,需新写
+237,hentaihand.com,26,T3,,1,1,mihon,HentaiHand,all|ar|bg|ceb|cs|de|el|en|eo|es|fi|fr|hi|hu|id|it|ja|jv|ko|la|mn|nl|other|pl|pt-br|ru|sk|sr|th|tl|tr|uk|vi|zh,需新写
+238,hentairox.com,26,T3,,1,1,mihon,HentaiRox,all|en|ja|zh,需新写
+239,jjmhw2.top,26,T3,,1,1,mihon,Manga Xiao Si,zh,需新写
+240,kr.xchina.co,26,T3,,1,1,mihon,小黄书,ko,需新写
+241,luscious.net,26,T3,,1,1,mihon,Luscious,all|de|en|es|fr|it|ja|ko|other|pt-br|th|zh,需新写
+242,manhuabika.com,26,T3,,1,1,mihon,哔咔漫画,zh,需新写
+243,myreadingmanga.info,26,T3,,1,1,mihon,MyReadingManga,ar|de|en|es|id|it|ja|ko|pt-br|ru|tr|vi|zh,需新写
+244,nhentai.com,26,T3,,1,1,mihon,nHentai.com (unoriginal),all|ar|bg|ceb|cs|el|en|eo|fi|ja|jv|ko|la|mn|other|ro|sk|sr|tl|tr|uk|zh,已有实现
+245,nhentai.to,26,T3,,1,1,mihon,NHentai.to,all|en|ja|ko|zh,已有实现
+246,nhentai.xxx,26,T3,,1,1,mihon,NHentai.xxx,all|en|ja|zh,已有实现
+247,nnhanman.xyz,26,T3,,1,1,mihon,鸟鸟韩漫,zh,需新写
+248,panda.chaika.moe,26,T3,,1,1,mihon,PandaChaika,all|ar|cs|el|en|es|fi|fr|id|ja|jv|ko|pt|ru|th|tl|tr|uk|vi|zh,需新写
+249,pornpics.com,26,T3,,1,1,mihon,PornPics,en|zh,需新写
+250,schale.network,26,T3,,1,1,mihon,SchaleNetwork,all|en|ja|zh,需新写
+251,simply-hentai.com,26,T3,,1,1,mihon,Simply Hentai,de|en|es|fr|it|ja|ko|pl|ru|zh,需新写
+252,tw.xchina.co,26,T3,,1,1,mihon,小黄书,zh-hant,需新写
+253,wn07.cfd,26,T3,,1,1,mihon,紳士漫畫,zh,已有实现
+254,xchina.co,26,T3,,1,1,mihon,小黄书,zh-hans,需新写
+255,xgmn8.vip,26,T3,,1,1,mihon,性感美女,all,需新写
+256,yidan9.club,26,T3,,1,1,mihon,一耽女孩,zh,需新写

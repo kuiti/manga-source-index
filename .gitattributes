@@ -1,0 +1,9 @@
+# 数据文件按二进制处理，禁止 git 做换行转换。
+# CSV/JSON 为 UTF-8(-BOM)，若被 autocrlf 改成 LF，字节会与校验值不一致，
+# 且 csv 模块在 Windows 下写出的是 CRLF。
+*.csv   -text
+*.json  -text
+
+# 文本文件统一 LF
+*.py    text eol=lf
+*.md    text eol=lf

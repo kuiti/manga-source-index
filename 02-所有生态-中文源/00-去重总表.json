@@ -1,0 +1,5872 @@
+[
+ {
+  "domain": "bilimanga.net",
+  "score": 87,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "cimoc",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 4,
+  "is_zh": true,
+  "official": "哔哩漫画（正版）",
+  "nsfw": false,
+  "names": [
+   "BILIMANHUA",
+   "zh.bilimanga",
+   "哔哩漫画",
+   "嗶哩漫畫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "ac.qq.com",
+  "score": 81,
+  "tier": "T1",
+  "ecosystems": [
+   "legado",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "腾讯动漫（正版）",
+  "nsfw": false,
+  "names": [
+   "㊣✐ 腾讯漫画  #一程",
+   "腾讯动漫",
+   "腾讯动漫（正版）",
+   "腾讯漫画📱"
+  ],
+  "langs": [
+   "zh",
+   "zh-hans"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mangadex.org",
+  "score": 81,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "MangaDex（开放授权）",
+  "nsfw": false,
+  "names": [
+   "MangaDex",
+   "multi.mangadex"
+  ],
+  "langs": [
+   "af",
+   "ar",
+   "az",
+   "be",
+   "bg",
+   "bn",
+   "ca",
+   "cs",
+   "cv",
+   "da",
+   "de",
+   "el",
+   "en",
+   "eo",
+   "es",
+   "es-419",
+   "et",
+   "eu",
+   "fa",
+   "fi",
+   "fil",
+   "fr",
+   "ga",
+   "he",
+   "hi",
+   "hr",
+   "hu",
+   "id",
+   "it",
+   "ja",
+   "jv",
+   "ka",
+   "kk",
+   "ko",
+   "la",
+   "lt",
+   "mn",
+   "ms",
+   "multi",
+   "my",
+   "ne",
+   "nl",
+   "no",
+   "pl",
+   "pt",
+   "pt-br",
+   "ro",
+   "ru",
+   "sk",
+   "sq",
+   "sr",
+   "sv",
+   "ta",
+   "te",
+   "th",
+   "tr",
+   "uk",
+   "ur",
+   "uz",
+   "vi",
+   "zh",
+   "zh-hans",
+   "zh-hant"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "shonenjumpplus.com",
+  "score": 81,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "少年Jump+（正版）",
+  "nsfw": false,
+  "names": [
+   "Shonen Jump+",
+   "ja.shonenjumpplus",
+   "少年ジャンプ＋"
+  ],
+  "langs": [
+   "ja",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "iqiyi.com",
+  "score": 73,
+  "tier": "T1",
+  "ecosystems": [
+   "legado",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "爱奇艺漫画（正版）",
+  "nsfw": false,
+  "names": [
+   "✐ ㊣爱奇艺漫画 #Haxc1107",
+   "爱奇艺叭嗒",
+   "🎨 爱奇艺漫画",
+   "🎨爱奇艺漫画 "
+  ],
+  "langs": [
+   "zh",
+   "zh-hans"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "kuaikanmanhua.com",
+  "score": 73,
+  "tier": "T1",
+  "ecosystems": [
+   "legado",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "快看漫画（正版）",
+  "nsfw": false,
+  "names": [
+   "快看漫画",
+   "快看漫画M",
+   "🎨 快看漫画$",
+   "🎨快看漫画"
+  ],
+  "langs": [
+   "zh",
+   "zh-hans"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "webtoons.com",
+  "score": 73,
+  "tier": "T1",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "LINE WEBTOON（正版）",
+  "nsfw": false,
+  "names": [
+   "LINE WEBTOON",
+   "Webtoons.com"
+  ],
+  "langs": [
+   "de",
+   "en",
+   "es",
+   "fr",
+   "id",
+   "th",
+   "zh",
+   "zh-hant"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "comic-walker.com",
+  "score": 63,
+  "tier": "T1",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "カドコミ（正版）",
+  "nsfw": false,
+  "names": [
+   "カドコミ"
+  ],
+  "langs": [
+   "ja"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "dmzj.com",
+  "score": 63,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "动漫之家",
+  "nsfw": false,
+  "names": [
+   "DongManZhiJia"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "idmzj.com",
+  "score": 63,
+  "tier": "T1",
+  "ecosystems": [
+   "mangareader"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "动漫之家",
+  "nsfw": false,
+  "names": [
+   "dmzj"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manga.bilibili.com",
+  "score": 63,
+  "tier": "T1",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "哔哩漫画（正版）",
+  "nsfw": false,
+  "names": [
+   "哔哩哔哩漫画 #Haxc"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mangamillion.shueisha.co.jp",
+  "score": 63,
+  "tier": "T1",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "Manga Million（正版）",
+  "nsfw": false,
+  "names": [
+   "Manga Million"
+  ],
+  "langs": [
+   "af",
+   "am",
+   "ar",
+   "as",
+   "be",
+   "bg",
+   "bho",
+   "bo",
+   "ca",
+   "ceb",
+   "cnr",
+   "cs",
+   "cy",
+   "da",
+   "de",
+   "doi",
+   "dv",
+   "ee",
+   "el",
+   "en",
+   "es",
+   "es-ar",
+   "es-mx",
+   "et",
+   "eu",
+   "fi",
+   "fr",
+   "ga",
+   "gl",
+   "gn",
+   "gu",
+   "haw",
+   "he",
+   "hi",
+   "hmn",
+   "hr",
+   "hu",
+   "hy",
+   "id",
+   "ig",
+   "ilo",
+   "is",
+   "it",
+   "ka",
+   "km",
+   "kn",
+   "ko-kr",
+   "kok",
+   "la",
+   "lb",
+   "lg",
+   "ln",
+   "lo",
+   "lt",
+   "lus",
+   "lv",
+   "mai",
+   "mg",
+   "mi",
+   "mk",
+   "ml",
+   "mn",
+   "mni",
+   "mr",
+   "ms",
+   "mt",
+   "mww",
+   "my",
+   "ne",
+   "nl",
+   "no",
+   "nso",
+   "ny",
+   "or",
+   "pa",
+   "pl",
+   "pt",
+   "pt-br",
+   "qu",
+   "ro",
+   "ro-md",
+   "ru",
+   "rw",
+   "sa",
+   "sd",
+   "si",
+   "sk",
+   "sl",
+   "sm",
+   "sn",
+   "sr",
+   "sv",
+   "sw",
+   "ta",
+   "te",
+   "th",
+   "tl",
+   "tr",
+   "ts",
+   "uk",
+   "vi",
+   "xh",
+   "yi",
+   "yo",
+   "zh-cn",
+   "zh-hk",
+   "zh-tw",
+   "zu"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "namicomi.com",
+  "score": 63,
+  "tier": "T1",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "NamiComi",
+  "nsfw": false,
+  "names": [
+   "NamiComi"
+  ],
+  "langs": [
+   "ar",
+   "bg",
+   "ca",
+   "cs",
+   "da",
+   "de",
+   "el",
+   "en",
+   "es",
+   "es-419",
+   "et",
+   "fa",
+   "fi",
+   "fil",
+   "fr",
+   "ga",
+   "he",
+   "hi",
+   "hr",
+   "hu",
+   "id",
+   "is",
+   "it",
+   "ja",
+   "ko",
+   "lt",
+   "ms",
+   "ne",
+   "nl",
+   "no",
+   "pa",
+   "pl",
+   "pt",
+   "pt-br",
+   "ru",
+   "sk",
+   "sl",
+   "sv",
+   "th",
+   "tr",
+   "uk",
+   "zh-hans",
+   "zh-hant"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "dm5.com",
+  "score": 62,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "cimoc",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 4,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "DongManWu",
+   "zh.dm5",
+   "动漫屋"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "komiic.com",
+  "score": 62,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "cimoc",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 4,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "KOMIIC",
+   "Komiic",
+   "zh.komiic"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mycomic.com",
+  "score": 62,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "cimoc",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 4,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MYCOMIC",
+   "MyComic",
+   "zh.mycomic"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "baozimh.com",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "legado",
+   "mihon"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "zh.baozimanhua",
+   "包子漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "happymh.com",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "mangareader",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "happy",
+   "zh.happymh",
+   "嗨皮漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "kanman.com",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "legado",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "ManHuaTai",
+   "看漫画",
+   "🎨 看漫画M",
+   "🎨 看漫画M #Haxc1107"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manhuagui.com",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "mangareader",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "mhgm",
+   "漫画柜"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "nhentai.net",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "mangareader",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "multi.nhentai",
+   "nh",
+   "nhentai"
+  ],
+  "langs": [
+   "multi",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "rawkuma.net",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Rawkuma",
+   "ja.rawkuma"
+  ],
+  "langs": [
+   "ja",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "rumanhua2.com",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "RUMANHUA",
+   "如漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "ykmh.net",
+  "score": 56,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "YouKuManHua",
+   "优酷漫画",
+   "优酷漫画 (修复版)"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "baozimhcn.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "mangareader"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "BAOZIMH",
+   "BaoziManHua",
+   "bzm"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "comic.mkzhan.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "legado"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MKZHAN",
+   "漫客栈",
+   "🎨 漫客栈",
+   "🎨 漫客栈🅰 "
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "dongmanmanhua.cn",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Dongman Manhua",
+   "咚漫"
+  ],
+  "langs": [
+   "zh",
+   "zh-hans"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "dumanwu1.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "DUMANWU",
+   "读漫屋"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "godamh.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "cimoc"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "HaoManEight",
+   "zh.godamanga"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "guazimanhua.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "瓜子漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "hitomi.la",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "hitomi.la",
+   "multi.hitomi"
+  ],
+  "langs": [
+   "multi",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "laimanhua88.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "LAIMH",
+   "来漫画",
+   "来漫画（分流）"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manben.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "HAOMAN6",
+   "漫本"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mangadot.net",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "aidoku",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MangaDot",
+   "multi.mangadotnet"
+  ],
+  "langs": [
+   "ab",
+   "af",
+   "am",
+   "ar",
+   "az",
+   "be",
+   "bg",
+   "bn",
+   "bs",
+   "ca",
+   "ceb",
+   "cs",
+   "cv",
+   "da",
+   "de",
+   "el",
+   "en",
+   "eo",
+   "es",
+   "es-419",
+   "et",
+   "eu",
+   "fa",
+   "fi",
+   "fo",
+   "fr",
+   "ga",
+   "gl",
+   "gn",
+   "gu",
+   "ha",
+   "he",
+   "hi",
+   "hr",
+   "ht",
+   "hu",
+   "hy",
+   "id",
+   "ig",
+   "is",
+   "it",
+   "ja",
+   "jv",
+   "ka",
+   "kk",
+   "km",
+   "kn",
+   "ko",
+   "ku",
+   "ky",
+   "la",
+   "lb",
+   "lo",
+   "lt",
+   "lv",
+   "mg",
+   "mi",
+   "mk",
+   "ml",
+   "mn",
+   "mo",
+   "mr",
+   "ms",
+   "mt",
+   "multi",
+   "my",
+   "ne",
+   "nl",
+   "no",
+   "ny",
+   "pl",
+   "ps",
+   "pt",
+   "pt-br",
+   "rm",
+   "ro",
+   "ru",
+   "sd",
+   "sh",
+   "si",
+   "sk",
+   "sl",
+   "sm",
+   "sn",
+   "so",
+   "sq",
+   "sr",
+   "ss",
+   "st",
+   "sv",
+   "sw",
+   "ta",
+   "te",
+   "tg",
+   "th",
+   "ti",
+   "tk",
+   "tl",
+   "to",
+   "tr",
+   "uk",
+   "ur",
+   "uz",
+   "vi",
+   "yo",
+   "zh",
+   "zh-hant",
+   "zh-tw",
+   "zu"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manhuadb.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "legado",
+   "mangareader"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "mhdb",
+   "✐ 漫画DB ",
+   "✐ 漫画DB #Haxc1107",
+   "漫画大全"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manmanapp.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "legado"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MANMANMANHUA",
+   "㊣✐ 漫漫漫画 #一程1101",
+   "🎨 漫漫漫画 ",
+   "🎨 漫漫漫画 #Haxc"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "maofly.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "mangareader"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MH50",
+   "ManHuaCat",
+   "mhm"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mhua5.com",
+  "score": 48,
+  "tier": "T1",
+  "ecosystems": [
+   "cimoc",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MANHUAWU",
+   "漫画屋"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mkzhan.com",
+  "score": 48,
+  "tier": "T2",
+  "ecosystems": [
+   "legado",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "㊣✐ 漫客栈  #一程",
+   "漫客栈",
+   "🌵漫客栈🌵",
+   "🎨 漫客栈 #Haxc"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "vomicmh.com",
+  "score": 48,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "VOMIC2",
+   "vomic"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "wmh1234.com",
+  "score": 48,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画1234",
+   "漫画kan"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "xcomic.me",
+  "score": 48,
+  "tier": "T2",
+  "ecosystems": [
+   "aidoku",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "XCOMIC",
+   "multi.xcomic"
+  ],
+  "langs": [
+   "ab",
+   "af",
+   "all",
+   "am",
+   "ar",
+   "az",
+   "be",
+   "bg",
+   "bn",
+   "bs",
+   "ca",
+   "ceb",
+   "cs",
+   "cv",
+   "da",
+   "de",
+   "el",
+   "en",
+   "eo",
+   "es",
+   "es-419",
+   "et",
+   "eu",
+   "fa",
+   "fi",
+   "fil",
+   "fo",
+   "fr",
+   "ga",
+   "gl",
+   "gn",
+   "gu",
+   "ha",
+   "he",
+   "hi",
+   "hr",
+   "ht",
+   "hu",
+   "hy",
+   "id",
+   "ig",
+   "is",
+   "it",
+   "ja",
+   "jv",
+   "ka",
+   "kk",
+   "km",
+   "kn",
+   "ko",
+   "ku",
+   "ky",
+   "la",
+   "lb",
+   "lo",
+   "lt",
+   "lv",
+   "mg",
+   "mi",
+   "mk",
+   "ml",
+   "mn",
+   "mo",
+   "mr",
+   "ms",
+   "mt",
+   "multi",
+   "my",
+   "ne",
+   "nl",
+   "no",
+   "ny",
+   "other",
+   "pl",
+   "ps",
+   "pt",
+   "pt-br",
+   "rm",
+   "ro",
+   "ru",
+   "sd",
+   "sh",
+   "si",
+   "sk",
+   "sl",
+   "sm",
+   "sn",
+   "so",
+   "sq",
+   "sr",
+   "ss",
+   "st",
+   "sv",
+   "sw",
+   "ta",
+   "te",
+   "tg",
+   "th",
+   "ti",
+   "tk",
+   "to",
+   "tr",
+   "uk",
+   "ur",
+   "uz",
+   "vi",
+   "yo",
+   "zh",
+   "zh-hant",
+   "zu"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "zaimanhua.com",
+  "score": 48,
+  "tier": "T2",
+  "ecosystems": [
+   "aidoku",
+   "cimoc"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "HAOMAN8",
+   "zh.zaimanhua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "zerobyw33.com",
+  "score": 48,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "zero搬运网"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "ymcdnyfqdapp.ikmmh.com",
+  "score": 44,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 3,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "BODONGMH",
+   "爱看漫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "100fanwo.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MH360"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "18mh.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "18漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "1kkk.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "极速漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "2026copy.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "CopyManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "2cycomic.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "次元漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "311s.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画社"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "36mh.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "QIMIAO"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "4399manhua.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "4399漫画网"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "51manga.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "51漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "77mh.nl",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 新新漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "77mh.xyz",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨新新漫画-xyz"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "7stary.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "DUMH",
+   "DuManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "8comic.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "無限動漫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "8jj.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "✐ 八极漫画 #Haxc",
+   "八极漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "90mh.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MANHUA90"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "92mh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "92漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "9comic.cn",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "好看漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "amcomic.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "一个漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "api.acg.gd",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "✐ 🔥亲亲漫画 #Haxc",
+   "🎨亲亲漫画 #Haxc🔞",
+   "🎨亲亲漫画🔞"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "api.creative-comic.tw",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "CCC追漫台"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "api.ilikemanga.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨追追漫画₁🅰"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "api.iqhmh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "✐ 趣话漫画🅰💰 #Haxc",
+   "㊣✐ 趣话漫画🅰 #Haxc",
+   "🎨 趣话漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "api.noyteam.online",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "NoyAcg"
+  ],
+  "langs": [
+   "zh-hant"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "apifans.dushimh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "粉丝漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "app-api.pixiv.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Pixiv"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "baozimh.one",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "BAOZIV2",
+   "HaoManSix"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "baozimh.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GoDa漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "bbboy.cc",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "BOLEMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "bdido.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "1359漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "biqu8.xyz",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "BIQUGE"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "bnman.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "BAINIANMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "bud.iqiyi.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "IQIYI"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "bukamh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "布卡漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "bwhanman.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🌵背窝韩漫🌵"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "cdn-msp.jmapinodeudzn.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "禁漫天堂"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "chuixue.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "CHUIXUEMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "colamanga.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "CoCoManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "comic.bh3.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "《崩坏3》IP站"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "comic.hypergryph.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "泰拉记事社"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "comic.pixiv.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Pixivコミック"
+  ],
+  "langs": [
+   "ja"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "comicfury.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Comic Fury",
+   "Comic Fury (No Text)"
+  ],
+  "langs": [
+   "all",
+   "de",
+   "en",
+   "es",
+   "fi",
+   "fr",
+   "it",
+   "ja",
+   "other",
+   "pl",
+   "pt-br",
+   "ru",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "comick.art",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "comick"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "comico.jp",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "コミコ"
+  ],
+  "langs": [
+   "ja"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "copymanga.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 拷贝漫画➠移动不可用"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "creative-comic.tw",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "CCC追漫台"
+  ],
+  "langs": [
+   "zh-hant"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "d9zfb53b.lstool.xyz",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GUOGUOMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "dashuhuwai.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "大树漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "dashumanhua.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "DASHUMANHUA"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "demo.kavita.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Kavita"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "demo.komga.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Komga"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "dongman.la",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "动漫啦"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "dragonball-multiverse.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Dragon Ball Multiverse",
+   "Dragon Ball Multiverse Parody"
+  ],
+  "langs": [
+   "ar",
+   "bg",
+   "br",
+   "ca",
+   "co",
+   "da",
+   "de",
+   "el",
+   "en",
+   "es",
+   "es-419",
+   "eu",
+   "fi",
+   "fil",
+   "fr",
+   "ga",
+   "he",
+   "hr",
+   "hu",
+   "it",
+   "ja",
+   "ko",
+   "la",
+   "lmo",
+   "lt",
+   "nl",
+   "no",
+   "pl",
+   "pt",
+   "pt-br",
+   "ro",
+   "ru",
+   "sv",
+   "tr",
+   "vec",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "dumanwu.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "DUMANWUORG"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "e-hentai.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "ehentai"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "ebook.tongli.com.tw",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "東立"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "favcomic.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "喜漫漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "feixuemh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "FEIXUEMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "ffppt.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "飞翔漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "g-mh.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GODAMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "gaugau.futabanet.jp",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "がうがうモンスター＋"
+  ],
+  "langs": [
+   "ja"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "gfmh.app",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "古风漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "git.nyne.dev",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MangaDex"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "globalcomix.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GlobalComix"
+  ],
+  "langs": [
+   "ar",
+   "bg",
+   "bn",
+   "cs",
+   "da",
+   "de",
+   "el",
+   "en",
+   "es",
+   "fa",
+   "fi",
+   "fil",
+   "fr",
+   "he",
+   "hi",
+   "hu",
+   "id",
+   "it",
+   "ja",
+   "ko",
+   "lv",
+   "ms",
+   "nl",
+   "no",
+   "pl",
+   "pt",
+   "pt-br",
+   "ro",
+   "ru",
+   "sk",
+   "sl",
+   "sq",
+   "sv",
+   "ta",
+   "th",
+   "tr",
+   "uk",
+   "ur",
+   "vi",
+   "zh-hans",
+   "zh-hant"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "gmanhua.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "SHOUJIMH",
+   "ShouJiManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "gmh1234.wszwhg.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画1234"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "godamanga.art",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GoDaMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "gufengmanhua.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GuFengWang"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "gufengmh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GuFengManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "gufengmh9.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "古风漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "hanmandq.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "韩漫大全"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hao8.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 好吧漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "haoduoman.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "HAODUOMAN"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "haokantxt.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "好看漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "hentaiclub.net",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "绅士会所"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hikarinagi.org",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Hikarinagi"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hipmh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "嬉皮漫畫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "hmba.vip",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 韩漫吧"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "ikanhm.top",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨爱看韩漫🔞"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "ikmmh.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "爱看漫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "imitui.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MITUI"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "iyouman.com",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 爱优漫📱",
+   "🎨 爱优漫📱 ",
+   "🎨爱优漫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "jjmhw.cc",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "久久漫画-ζ"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "kagane.to",
+  "score": 38,
+  "tier": "T2",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Kagane"
+  ],
+  "langs": [
+   "ar",
+   "de",
+   "en",
+   "es",
+   "es-419",
+   "fr",
+   "hi",
+   "id",
+   "it",
+   "ja",
+   "ko",
+   "pl",
+   "pt",
+   "pt-br",
+   "ru",
+   "th",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "klmanga.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mangareader"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "kl"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "komiic.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Komiic"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "kukk.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "酷看漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "kumwu2.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "KUMANWU"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "lrr.tvc-16.science",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Lanraragi"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "lunarx.to",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Lunar Manga"
+  ],
+  "langs": [
+   "all",
+   "ar",
+   "bg",
+   "bn",
+   "da",
+   "de",
+   "en",
+   "es",
+   "es-419",
+   "fa",
+   "fi",
+   "fr",
+   "he",
+   "hi",
+   "id",
+   "it",
+   "ja",
+   "ko",
+   "ms",
+   "nl",
+   "no",
+   "pl",
+   "pt",
+   "pt-br",
+   "ru",
+   "sv",
+   "th",
+   "tl",
+   "tr",
+   "ur",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manga2026.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "热辣漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mangaapi.manhuaren.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画人"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mangaball.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Manga Ball"
+  ],
+  "langs": [
+   "ar",
+   "bg",
+   "bn",
+   "ca",
+   "cs",
+   "da",
+   "de",
+   "el",
+   "en",
+   "es",
+   "fa",
+   "fi",
+   "fr",
+   "he",
+   "hi",
+   "hu",
+   "id",
+   "is",
+   "it",
+   "ja",
+   "kn",
+   "ko",
+   "ml",
+   "ms",
+   "ne",
+   "nl",
+   "no",
+   "pl",
+   "pt-br",
+   "ro",
+   "ru",
+   "sk",
+   "sl",
+   "sq",
+   "sr",
+   "sv",
+   "ta",
+   "th",
+   "tr",
+   "uk",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mangabz.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "aidoku",
+   "cimoc",
+   "mangareader",
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 5,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MangaBZManHua",
+   "Mangabz",
+   "mbz",
+   "zh.mangabz"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mangacopy.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mangareader"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "copy"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mangatoon.mobi",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MangaToon (Limited)"
+  ],
+  "langs": [
+   "en",
+   "es",
+   "fr",
+   "id",
+   "ja",
+   "pt-br",
+   "th",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mangaz.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "マンガ図書館Z"
+  ],
+  "langs": [
+   "ja"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manhua.sfacg.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "SF漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manhua.zaimanhua.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "再漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manhuapi.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画皮"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manhuaren.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画人"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manhuatai.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 漫画台🅰 #Haxc",
+   "🎨 漫画台🅰 #Haxc1107",
+   "🎨漫画台🅰"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manhuauo.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "香蕉漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manhuayu88.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MANHUAYU"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manwa.me",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫蛙"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manwali.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫蛙吧"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "manwang.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫网"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "marketing.aiacgn.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "拷贝漫画",
+   "拷贝漫画(多账号)"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mh160mh.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MH160CC"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mhgui.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mangareader"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "mhg"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mhhanman.xyz",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨韩漫画🔞"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mhkami.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "YEMANMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mhkan.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画看",
+   "🎨 漫画看"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "miaoqumh.org",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "喵趣漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mm.sfacg.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "SF漫画💰"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mobileapp.comic-walker.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "カドコミ"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mojoin.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MOJOIN"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "moxidongman.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "MOXI动漫(8本)™"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mwuu.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫蛙吧"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mxqf.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "BOLEFU",
+   "BoLeFu"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "mxshm.top",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫小肆"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "mybl.xyz",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎟️啵乐漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "newsmiss.lofter.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🗒 天花板网"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "nnv3api.dmzj1.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "动漫之家"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "noymanga.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "NoyManga"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "picaapi.picacomic.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Picacg"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "picacomic.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mangareader"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "pica"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "pixiv.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "Pixiv"
+  ],
+  "langs": [
+   "en",
+   "ja",
+   "ko",
+   "zh",
+   "zh-tw"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "pufei.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "PUFEIMH",
+   "PuFeiManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "qiman56.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 奇漫屋"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "qimanwu.org",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "QIMANHUA"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "qimiqimi.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "奇米动漫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "qiremanhua.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "✐ ㊣奇热漫画📱 #Haxc1107",
+   "奇热漫画📱💰"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "qiximh4.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "QIXIMH"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "reader.hqread.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "漫画1234"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "saymanhwa.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "New Manhwa",
+   "SayManhwa"
+  ],
+  "langs": [
+   "ar",
+   "de",
+   "en",
+   "es",
+   "fil",
+   "fr",
+   "id",
+   "ja",
+   "pt",
+   "th",
+   "vi",
+   "zh-hans",
+   "zh-hant"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "se8.us",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "aidoku"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "zh.se8"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "sixmh7.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 六漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "so.77mh.nl",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "XINXINMH",
+   "XinXinManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "static-tw.baozimh.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "包子漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "sumanku.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "SUMANKU"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "taomanhua.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 神漫画",
+   "🎨 神漫画📱 #Haxc"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "toptoon.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "TOPTOON頂通"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "ttkmh.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "TTKANMANHUA"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "tuho123.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "TUHAOMHV2"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "tuku.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "图库漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "uaa.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨UAA漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "udm123.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "YOUDM"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "uhkvqrxmcapgtpspglrp.moedot.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "花火漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "umh5.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "YOUMANHUAWU"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "uuhanman.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 UU韩漫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "v4api.zaimanhua.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "再漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "wap.65dm.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🎨 爱看漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "webmota.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "包子漫画5"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "wmanhua.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "W漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "wn01.link",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "紳士漫畫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "wnacg.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "aidoku"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "zh.wnacg"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "xapi.xinmanhua.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "✐ 新漫画 #Haxc",
+   "✐ 新漫画 #Haxc1107",
+   "🎨新漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "xkcd.tw",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "xkcd"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "xmanhua.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "XMANHUA"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "yamibo.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "百合会"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "yanmaga.jp",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "ヤンマガ（グラビア）",
+   "ヤンマガ（マンガ）"
+  ],
+  "langs": [
+   "ja"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "ydan.cc",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "🗂🙈一耽漫画🅰"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "yemancomic.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "野蛮漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "yimmh.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "YIMMH",
+   "YiManHua"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "ymgjmh.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "GUILUOLIMANHUA"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "yymanhua.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "YYMANHUA"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "zazhimi.net",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "杂志迷"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "zerobyw.github.io",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "venera"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "zero搬运网"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "zerobywdlss.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "ZERO"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "zhuzhumh.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "BaiManGu"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "ziyuanxue.cn",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "KUMANXIONGV2"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "zz.ilikemanga.com",
+  "score": 38,
+  "tier": "T3",
+  "ecosystems": [
+   "legado"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": false,
+  "names": [
+   "追追漫画M"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "18comic.vip",
+  "score": 36,
+  "tier": "T3",
+  "ecosystems": [
+   "mangareader",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "jmc",
+   "禁漫天堂"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "bakamh.com",
+  "score": 36,
+  "tier": "T3",
+  "ecosystems": [
+   "aidoku",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "zh.bakamh",
+   "巴卡漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "cosplaytele.com",
+  "score": 36,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "CosplayTele"
+  ],
+  "langs": [
+   "all",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "h-comic.com",
+  "score": 36,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "H-Comic"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "jcomic.net",
+  "score": 36,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon",
+   "venera"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "JComic",
+   "jcomic.net"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "liumanhua.com",
+  "score": 36,
+  "tier": "T3",
+  "ecosystems": [
+   "cimoc",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "BMG",
+   "六漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "rouman5.com",
+  "score": 36,
+  "tier": "T3",
+  "ecosystems": [
+   "mangareader",
+   "mihon"
+  ],
+  "eco_count": 2,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "rm5",
+   "肉漫屋"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "3hentai.net",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "3Hentai"
+  ],
+  "langs": [
+   "all",
+   "ar",
+   "bg",
+   "cs",
+   "de",
+   "en",
+   "es",
+   "fi",
+   "fr",
+   "hu",
+   "id",
+   "is",
+   "it",
+   "ja",
+   "jv",
+   "ko",
+   "la",
+   "mo",
+   "my",
+   "nl",
+   "pl",
+   "pt",
+   "ru",
+   "th",
+   "tl",
+   "tr",
+   "uk",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "akuma.moe",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "Akuma"
+  ],
+  "langs": [
+   "all",
+   "ar",
+   "ca",
+   "ceb",
+   "cs",
+   "da",
+   "de",
+   "en",
+   "eo",
+   "es",
+   "et",
+   "fr",
+   "hi",
+   "hu",
+   "id",
+   "it",
+   "ja",
+   "jv",
+   "ko",
+   "nl",
+   "pl",
+   "pt",
+   "ru",
+   "tr",
+   "uk",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "asmhentai.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "AsmHentai"
+  ],
+  "langs": [
+   "all",
+   "en",
+   "ja",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "boylove.cc",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "香香腐宅"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "cartoon18.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "Cartoon18"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "en.xchina.co",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "小黄书"
+  ],
+  "langs": [
+   "en"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "es.xchina.co",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "小黄书"
+  ],
+  "langs": [
+   "es"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "global.toomics.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "Toomics (Only free chapters)"
+  ],
+  "langs": [
+   "de",
+   "en",
+   "es",
+   "es-419",
+   "fr",
+   "it",
+   "pt-br",
+   "zh-hans",
+   "zh-hant"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hanimeone.me",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "Hanime1.me"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hanman18.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "HANMAN18"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hdoujin.org",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "HDoujin"
+  ],
+  "langs": [
+   "all",
+   "en",
+   "es",
+   "ja",
+   "ko",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hentaifox.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "HentaiFox"
+  ],
+  "langs": [
+   "all",
+   "en",
+   "ja",
+   "ko",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hentaihand.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "HentaiHand"
+  ],
+  "langs": [
+   "all",
+   "ar",
+   "bg",
+   "ceb",
+   "cs",
+   "de",
+   "el",
+   "en",
+   "eo",
+   "es",
+   "fi",
+   "fr",
+   "hi",
+   "hu",
+   "id",
+   "it",
+   "ja",
+   "jv",
+   "ko",
+   "la",
+   "mn",
+   "nl",
+   "other",
+   "pl",
+   "pt-br",
+   "ru",
+   "sk",
+   "sr",
+   "th",
+   "tl",
+   "tr",
+   "uk",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "hentairox.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "HentaiRox"
+  ],
+  "langs": [
+   "all",
+   "en",
+   "ja",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "jjmhw2.top",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "Manga Xiao Si"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "kr.xchina.co",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "小黄书"
+  ],
+  "langs": [
+   "ko"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "luscious.net",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "Luscious"
+  ],
+  "langs": [
+   "all",
+   "de",
+   "en",
+   "es",
+   "fr",
+   "it",
+   "ja",
+   "ko",
+   "other",
+   "pt-br",
+   "th",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "manhuabika.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "哔咔漫画"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "myreadingmanga.info",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "MyReadingManga"
+  ],
+  "langs": [
+   "ar",
+   "de",
+   "en",
+   "es",
+   "id",
+   "it",
+   "ja",
+   "ko",
+   "pt-br",
+   "ru",
+   "tr",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "nhentai.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "nHentai.com (unoriginal)"
+  ],
+  "langs": [
+   "all",
+   "ar",
+   "bg",
+   "ceb",
+   "cs",
+   "el",
+   "en",
+   "eo",
+   "fi",
+   "ja",
+   "jv",
+   "ko",
+   "la",
+   "mn",
+   "other",
+   "ro",
+   "sk",
+   "sr",
+   "tl",
+   "tr",
+   "uk",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "nhentai.to",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "NHentai.to"
+  ],
+  "langs": [
+   "all",
+   "en",
+   "ja",
+   "ko",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "nhentai.xxx",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "NHentai.xxx"
+  ],
+  "langs": [
+   "all",
+   "en",
+   "ja",
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "nnhanman.xyz",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "鸟鸟韩漫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "panda.chaika.moe",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "PandaChaika"
+  ],
+  "langs": [
+   "all",
+   "ar",
+   "cs",
+   "el",
+   "en",
+   "es",
+   "fi",
+   "fr",
+   "id",
+   "ja",
+   "jv",
+   "ko",
+   "pt",
+   "ru",
+   "th",
+   "tl",
+   "tr",
+   "uk",
+   "vi",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "pornpics.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "PornPics"
+  ],
+  "langs": [
+   "en",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "schale.network",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "SchaleNetwork"
+  ],
+  "langs": [
+   "all",
+   "en",
+   "ja",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "simply-hentai.com",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "Simply Hentai"
+  ],
+  "langs": [
+   "de",
+   "en",
+   "es",
+   "fr",
+   "it",
+   "ja",
+   "ko",
+   "pl",
+   "ru",
+   "zh"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "tw.xchina.co",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "小黄书"
+  ],
+  "langs": [
+   "zh-hant"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "wn07.cfd",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "紳士漫畫"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "已有实现"
+ },
+ {
+  "domain": "xchina.co",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "小黄书"
+  ],
+  "langs": [
+   "zh-hans"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "xgmn8.vip",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "性感美女"
+  ],
+  "langs": [
+   "all"
+  ],
+  "effort": "需新写"
+ },
+ {
+  "domain": "yidan9.club",
+  "score": 26,
+  "tier": "T3",
+  "ecosystems": [
+   "mihon"
+  ],
+  "eco_count": 1,
+  "is_zh": true,
+  "official": "",
+  "nsfw": true,
+  "names": [
+   "一耽女孩"
+  ],
+  "langs": [
+   "zh"
+  ],
+  "effort": "需新写"
+ }
+]

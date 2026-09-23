@@ -1,0 +1,8 @@
+﻿档内排名,站点域名,子类,延迟ms,速度,HTTP,质量分,质量层,适配工作量,官方正版,NSFW,收录生态数,收录生态,各生态源名
+13,zaimanhua.com,B-正常可达,625,中,200,48,T2,需新写,,0,2,aidoku|cimoc,HAOMAN8|zh.zaimanhua
+14,dm5.com,B-正常可达,850,中,200,62,T1,已有实现,,0,4,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋
+15,mangadex.org,B-正常可达,880,中,200,81,T1,已有实现,MangaDex（开放授权）,0,3,aidoku|mihon|venera,MangaDex|multi.mangadex
+18,godamh.com,B-正常可达,1056,中,200,48,T1,需新写,,0,2,aidoku|cimoc,HaoManEight|zh.godamanga
+21,rawkuma.net,B-正常可达,1402,慢,200,56,T1,已有实现,,0,3,aidoku|mihon|venera,Rawkuma|ja.rawkuma
+28,bilimanga.net,B-正常可达,2128,慢,200,87,T1,已有实现,哔哩漫画（正版）,0,4,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫
+29,shonenjumpplus.com,B-正常可达,3676,慢,200,81,T1,已有实现,少年Jump+（正版）,0,3,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋

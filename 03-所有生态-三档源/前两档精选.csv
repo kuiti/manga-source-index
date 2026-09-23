@@ -1,0 +1,148 @@
+﻿档位,档内排名,站点域名,子类,延迟ms,速度,HTTP,质量分,质量层,适配工作量,官方正版,NSFW,收录生态数,收录生态,各生态源名
+一档-首用,1,comic.mkzhan.com,B-正常可达,58,快,200,48,T1,已有实现,,0,2,cimoc|legado,MKZHAN|漫客栈|🎨 漫客栈|🎨 漫客栈🅰 
+一档-首用,2,mkzhan.com,B-正常可达,110,快,200,48,T2,已有实现,,0,2,legado|venera,㊣✐ 漫客栈  #一程|漫客栈|🌵漫客栈🌵|🎨 漫客栈 #Haxc
+一档-首用,3,manmanapp.com,B-正常可达,140,快,200,48,T1,需新写,,0,2,cimoc|legado,MANMANMANHUA|㊣✐ 漫漫漫画 #一程1101|🎨 漫漫漫画 |🎨 漫漫漫画 #Haxc
+一档-首用,4,manga.bilibili.com,B-正常可达,268,快,200,63,T1,需新写,哔哩漫画（正版）,0,1,legado,哔哩哔哩漫画 #Haxc
+一档-首用,5,manhuadb.com,B-正常可达,347,快,200,48,T1,需新写,,0,2,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全
+一档-首用,6,kanman.com,B-正常可达,352,快,200,56,T1,已有实现,,0,3,cimoc|legado|venera,ManHuaTai|看漫画|🎨 看漫画M|🎨 看漫画M #Haxc1107
+一档-首用,7,dongmanmanhua.cn,B-正常可达,407,中,200,48,T1,已有实现,,0,2,mihon|venera,Dongman Manhua|咚漫
+一档-首用,8,vomicmh.com,B-正常可达,465,中,200,48,T2,需新写,,0,2,cimoc|mihon,VOMIC2|vomic
+一档-首用,9,iqiyi.com,B-正常可达,492,中,200,73,T1,需新写,爱奇艺漫画（正版）,0,2,legado|mihon,✐ ㊣爱奇艺漫画 #Haxc1107|爱奇艺叭嗒|🎨 爱奇艺漫画|🎨爱奇艺漫画 
+一档-首用,10,manben.com,B-正常可达,509,中,200,48,T1,已有实现,,0,2,cimoc|venera,HAOMAN6|漫本
+一档-首用,11,rumanhua2.com,B-正常可达,539,中,200,56,T1,已有实现,,0,3,cimoc|mihon|venera,RUMANHUA|如漫画
+一档-首用,12,dumanwu1.com,B-正常可达,554,中,200,48,T1,需新写,,0,2,cimoc|mihon,DUMANWU|读漫屋
+一档-首用,13,zaimanhua.com,B-正常可达,625,中,200,48,T2,需新写,,0,2,aidoku|cimoc,HAOMAN8|zh.zaimanhua
+一档-首用,14,dm5.com,B-正常可达,850,中,200,62,T1,已有实现,,0,4,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋
+一档-首用,15,mangadex.org,B-正常可达,880,中,200,81,T1,已有实现,MangaDex（开放授权）,0,3,aidoku|mihon|venera,MangaDex|multi.mangadex
+一档-首用,16,wmh1234.com,B-正常可达,978,中,200,48,T2,已有实现,,0,2,mihon|venera,漫画1234|漫画kan
+一档-首用,17,ymcdnyfqdapp.ikmmh.com,B-正常可达,1020,中,200,44,T2,已有实现,,1,3,cimoc|mihon|venera,BODONGMH|爱看漫
+一档-首用,18,godamh.com,B-正常可达,1056,中,200,48,T1,需新写,,0,2,aidoku|cimoc,HaoManEight|zh.godamanga
+一档-首用,19,ac.qq.com,B-正常可达,1120,中,200,81,T1,已有实现,腾讯动漫（正版）,0,3,legado|mihon|venera,㊣✐ 腾讯漫画  #一程|腾讯动漫|腾讯动漫（正版）|腾讯漫画📱
+一档-首用,20,maofly.com,B-正常可达,1126,中,200,48,T1,需新写,,0,2,cimoc|mangareader,MH50|ManHuaCat|mhm
+一档-首用,21,rawkuma.net,B-正常可达,1402,慢,200,56,T1,已有实现,,0,3,aidoku|mihon|venera,Rawkuma|ja.rawkuma
+一档-首用,22,laimanhua88.com,B-正常可达,1563,慢,200,48,T1,已有实现,,0,2,cimoc|venera,LAIMH|来漫画|来漫画（分流）
+一档-首用,23,kuaikanmanhua.com,B-正常可达,1598,慢,200,73,T1,需新写,快看漫画（正版）,0,2,legado|mihon,快看漫画|快看漫画M|🎨 快看漫画$|🎨快看漫画
+一档-首用,24,webtoons.com,B-正常可达,1668,慢,200,73,T1,已有实现,LINE WEBTOON（正版）,0,2,mihon|venera,LINE WEBTOON|Webtoons.com
+一档-首用,25,liumanhua.com,B-正常可达,1901,慢,200,36,T3,需新写,,1,2,cimoc|mihon,BMG|六漫画
+一档-首用,26,comic-walker.com,B-正常可达,1971,慢,200,63,T1,已有实现,カドコミ（正版）,0,1,mihon,カドコミ
+一档-首用,27,namicomi.com,B-正常可达,2016,慢,200,63,T1,需新写,NamiComi,0,1,mihon,NamiComi
+一档-首用,28,bilimanga.net,B-正常可达,2128,慢,200,87,T1,已有实现,哔哩漫画（正版）,0,4,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫
+一档-首用,29,shonenjumpplus.com,B-正常可达,3676,慢,200,81,T1,已有实现,少年Jump+（正版）,0,3,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋
+一档-首用,30,guazimanhua.com,B-正常可达,3801,慢,200,48,T1,已有实现,,0,2,mihon|venera,瓜子漫画
+一档-首用,31,zerobyw33.com,B-正常可达,4009,慢,200,48,T2,已有实现,,0,2,mihon|venera,zero搬运网
+一档-首用,32,mangamillion.shueisha.co.jp,B-正常可达,9619,慢,200,63,T1,需新写,Manga Million（正版）,0,1,mihon,Manga Million
+二档-备用,1,manhuatai.com,B-正常可达,49,快,200,38,T3,需新写,,0,1,legado,🎨 漫画台🅰 #Haxc|🎨 漫画台🅰 #Haxc1107|🎨漫画台🅰
+二档-备用,2,manhua.zaimanhua.com,B-正常可达,70,快,200,38,T3,已有实现,,0,1,mihon,再漫画
+二档-备用,3,v4api.zaimanhua.com,B-正常可达,80,快,200,38,T3,已有实现,,0,1,venera,再漫画
+二档-备用,4,mm.sfacg.com,B-正常可达,119,快,200,38,T3,已有实现,,0,1,legado,SF漫画💰
+二档-备用,5,iyouman.com,B-正常可达,124,快,200,38,T2,需新写,,0,1,legado,🎨 爱优漫📱|🎨 爱优漫📱 |🎨爱优漫
+二档-备用,6,ziyuanxue.cn,B-正常可达,125,快,200,38,T3,需新写,,0,1,cimoc,KUMANXIONGV2
+二档-备用,7,mybl.xyz,B-正常可达,153,快,200,38,T3,需新写,,0,1,legado,🎟️啵乐漫画
+二档-备用,8,comic.bh3.com,B-正常可达,170,快,200,38,T2,需新写,,0,1,mihon,《崩坏3》IP站
+二档-备用,9,mangaapi.manhuaren.com,B-正常可达,205,快,200,38,T3,已有实现,,0,1,mihon,漫画人
+二档-备用,10,xapi.xinmanhua.net,B-正常可达,209,快,200,38,T3,需新写,,0,1,legado,✐ 新漫画 #Haxc|✐ 新漫画 #Haxc1107|🎨新漫画
+二档-备用,11,comic.hypergryph.com,B-正常可达,237,快,200,38,T2,需新写,,0,1,mihon,泰拉记事社
+二档-备用,12,feixuemh.com,B-正常可达,294,快,200,38,T2,需新写,,0,1,cimoc,FEIXUEMH
+二档-备用,13,manhua.sfacg.com,B-正常可达,303,快,200,38,T3,已有实现,,0,1,venera,SF漫画
+二档-备用,14,hmba.vip,B-正常可达,304,快,200,38,T2,需新写,,0,1,legado,🎨 韩漫吧
+二档-备用,15,7stary.com,B-正常可达,344,快,200,38,T2,需新写,,0,1,cimoc,DUMH|DuManHua
+二档-备用,16,yymanhua.com,B-正常可达,360,快,200,38,T3,需新写,,0,1,cimoc,YYMANHUA
+二档-备用,17,taomanhua.com,B-正常可达,366,快,200,38,T3,需新写,,0,1,legado,🎨 神漫画|🎨 神漫画📱 #Haxc
+二档-备用,18,wap.65dm.com,B-正常可达,398,快,200,38,T3,需新写,,0,1,legado,🎨 爱看漫画
+二档-备用,19,gfmh.app,B-正常可达,492,中,200,38,T2,已有实现,,0,1,venera,古风漫画
+二档-备用,20,manhuaren.com,B-正常可达,525,中,200,38,T3,已有实现,,0,1,venera,漫画人
+二档-备用,21,90mh.org,B-正常可达,530,中,200,38,T2,需新写,,0,1,cimoc,MANHUA90
+二档-备用,22,4399manhua.com,B-正常可达,563,中,200,38,T2,已有实现,,0,1,venera,4399漫画网
+二档-备用,23,bwhanman.com,B-正常可达,617,中,200,38,T2,需新写,,0,1,legado,🌵背窝韩漫🌵
+二档-备用,24,pufei.cc,B-正常可达,641,中,200,38,T3,需新写,,0,1,cimoc,PUFEIMH|PuFeiManHua
+二档-备用,25,mangaball.net,B-正常可达,652,中,200,38,T3,需新写,,0,1,mihon,Manga Ball
+二档-备用,26,zz.ilikemanga.com,B-正常可达,661,中,200,38,T3,需新写,,0,1,legado,追追漫画M
+二档-备用,27,gmh1234.wszwhg.net,B-正常可达,686,中,200,38,T2,已有实现,,0,1,venera,漫画1234
+二档-备用,28,api.ilikemanga.com,B-正常可达,693,中,200,38,T2,需新写,,0,1,legado,🎨追追漫画₁🅰
+二档-备用,29,gmanhua.com,B-正常可达,754,中,200,38,T2,需新写,,0,1,cimoc,SHOUJIMH|ShouJiManHua
+二档-备用,30,lunarx.to,B-正常可达,763,中,200,38,T3,需新写,,0,1,mihon,Lunar Manga
+二档-备用,31,noymanga.com,B-正常可达,763,中,200,38,T3,已有实现,,0,1,venera,NoyManga
+二档-备用,32,d9zfb53b.lstool.xyz,B-正常可达,811,中,200,38,T2,需新写,,0,1,cimoc,GUOGUOMH
+二档-备用,33,gufengmanhua.com,B-正常可达,811,中,200,38,T2,需新写,,0,1,cimoc,GuFengWang
+二档-备用,34,static-tw.baozimh.com,B-正常可达,819,中,200,38,T3,已有实现,,0,1,venera,包子漫画
+二档-备用,35,qiman56.com,B-正常可达,849,中,200,38,T3,需新写,,0,1,legado,🎨 奇漫屋
+二档-备用,36,hdoujin.org,B-正常可达,856,中,200,26,T3,需新写,,1,1,mihon,HDoujin
+二档-备用,37,qiximh4.com,B-正常可达,868,中,200,38,T3,需新写,,0,1,cimoc,QIXIMH
+二档-备用,38,hipmh.com,B-正常可达,878,中,200,38,T2,已有实现,,0,1,venera,嬉皮漫畫
+二档-备用,39,manwang.net,B-正常可达,884,中,200,38,T3,已有实现,,0,1,venera,漫网
+二档-备用,40,tuho123.com,B-正常可达,899,中,200,38,T3,需新写,,0,1,cimoc,TUHAOMHV2
+二档-备用,41,umh5.com,B-正常可达,912,中,200,38,T3,需新写,,0,1,cimoc,YOUMANHUAWU
+二档-备用,42,godamanga.art,B-正常可达,961,中,200,38,T2,需新写,,0,1,cimoc,GoDaMH
+二档-备用,43,manhuauo.com,B-正常可达,975,中,200,38,T3,已有实现,,0,1,venera,香蕉漫画
+二档-备用,44,cdn-msp.jmapinodeudzn.net,B-正常可达,996,中,200,38,T2,已有实现,,0,1,venera,禁漫天堂
+二档-备用,45,haokantxt.com,B-正常可达,1005,中,200,38,T2,已有实现,,0,1,venera,好看漫画
+二档-备用,46,hao8.net,B-正常可达,1039,中,200,38,T2,需新写,,0,1,legado,🎨 好吧漫画
+二档-备用,47,nnv3api.dmzj1.com,B-正常可达,1040,中,200,38,T3,需新写,,0,1,legado,动漫之家
+二档-备用,48,sumanku.com,B-正常可达,1076,中,200,38,T3,需新写,,0,1,cimoc,SUMANKU
+二档-备用,49,comick.art,B-正常可达,1085,中,200,38,T2,已有实现,,0,1,venera,comick
+二档-备用,50,zerobywdlss.com,B-正常可达,1101,中,200,38,T3,已有实现,,0,1,cimoc,ZERO
+二档-备用,51,udm123.com,B-正常可达,1111,中,200,38,T3,需新写,,0,1,cimoc,YOUDM
+二档-备用,52,baozimh.org,B-正常可达,1116,中,200,38,T2,已有实现,,0,1,mihon,GoDa漫画
+二档-备用,53,yemancomic.com,B-正常可达,1124,中,200,38,T3,已有实现,,0,1,venera,野蛮漫画
+二档-备用,54,kumwu2.com,B-正常可达,1135,中,200,38,T3,需新写,,0,1,cimoc,KUMANWU
+二档-备用,55,lrr.tvc-16.science,B-正常可达,1137,中,200,38,T3,已有实现,,0,1,venera,Lanraragi
+二档-备用,56,xgmn8.vip,B-正常可达,1140,中,200,26,T3,需新写,,1,1,mihon,性感美女
+二档-备用,57,baozimh.one,B-正常可达,1144,中,200,38,T2,需新写,,0,1,cimoc,BAOZIV2|HaoManSix
+二档-备用,58,bdido.com,B-正常可达,1150,中,200,38,T2,需新写,,0,1,legado,1359漫画
+二档-备用,59,dashuhuwai.com,B-正常可达,1153,中,200,38,T2,需新写,,0,1,legado,大树漫画
+二档-备用,60,gufengmh9.com,B-正常可达,1162,中,200,38,T2,已有实现,,0,1,legado,古风漫画
+二档-备用,61,comico.jp,B-正常可达,1170,中,200,38,T2,需新写,,0,1,mihon,コミコ
+二档-备用,62,git.nyne.dev,B-正常可达,1203,慢,200,38,T2,已有实现,,0,1,venera,MangaDex
+二档-备用,63,jjmhw.cc,B-正常可达,1218,慢,200,38,T2,需新写,,0,1,legado,久久漫画-ζ
+二档-备用,64,jjmhw2.top,B-正常可达,1248,慢,200,26,T3,需新写,,1,1,mihon,Manga Xiao Si
+二档-备用,65,qimiqimi.net,B-正常可达,1256,慢,200,38,T3,需新写,,0,1,legado,奇米动漫
+二档-备用,66,ebook.tongli.com.tw,B-正常可达,1300,慢,200,38,T2,需新写,,0,1,mihon,東立
+二档-备用,67,g-mh.org,B-正常可达,1387,慢,200,38,T2,需新写,,0,1,cimoc,GODAMH
+二档-备用,68,ffppt.com,B-正常可达,1392,慢,200,38,T2,已有实现,,0,1,venera,飞翔漫画
+二档-备用,69,api.creative-comic.tw,B-正常可达,1397,慢,200,38,T2,已有实现,,0,1,venera,CCC追漫台
+二档-备用,70,demo.komga.org,B-正常可达,1428,慢,200,38,T2,已有实现,,0,1,venera,Komga
+二档-备用,71,hentairox.com,B-正常可达,1467,慢,200,26,T3,需新写,,1,1,mihon,HentaiRox
+二档-备用,72,komiic.cc,B-正常可达,1472,慢,200,38,T3,已有实现,,0,1,venera,Komiic
+二档-备用,73,mangatoon.mobi,B-正常可达,1488,慢,200,38,T3,需新写,,0,1,mihon,MangaToon (Limited)
+二档-备用,74,mhhanman.xyz,B-正常可达,1682,慢,200,38,T3,需新写,,0,1,legado,🎨韩漫画🔞
+二档-备用,75,manhuapi.cc,B-正常可达,1724,慢,200,38,T3,已有实现,,0,1,venera,漫画皮
+二档-备用,76,reader.hqread.cc,B-正常可达,1755,慢,200,38,T3,已有实现,,0,1,venera,漫画1234
+二档-备用,77,dragonball-multiverse.com,B-正常可达,1764,慢,200,38,T2,需新写,,0,1,mihon,Dragon Ball Multiverse|Dragon Ball Multiverse Parody
+二档-备用,78,manwali.cc,B-正常可达,1775,慢,200,38,T3,已有实现,,0,1,venera,漫蛙吧
+二档-备用,79,tuku.cc,B-正常可达,1782,慢,200,38,T3,已有实现,,0,1,venera,图库漫画
+二档-备用,80,mojoin.com,B-正常可达,1786,慢,200,38,T3,已有实现,,0,1,venera,MOJOIN
+二档-备用,81,ttkmh.com,B-正常可达,1817,慢,200,38,T3,需新写,,0,1,cimoc,TTKANMANHUA
+二档-备用,82,bukamh.com,B-正常可达,1818,慢,200,38,T2,已有实现,,0,1,venera,布卡漫画
+二档-备用,83,zerobyw.github.io,B-正常可达,1818,慢,200,38,T3,已有实现,,0,1,venera,zero搬运网
+二档-备用,84,bbboy.cc,B-正常可达,1856,慢,200,38,T2,需新写,,0,1,cimoc,BOLEMH
+二档-备用,85,yimmh.com,B-正常可达,1867,慢,200,38,T3,需新写,,0,1,cimoc,YIMMH|YiManHua
+二档-备用,86,miaoqumh.org,B-正常可达,1874,慢,200,38,T3,需新写,,0,1,mihon,喵趣漫画
+二档-备用,87,webmota.com,B-正常可达,1917,慢,200,38,T3,已有实现,,0,1,legado,包子漫画5
+二档-备用,88,92mh.com,B-正常可达,1947,慢,200,38,T2,需新写,,0,1,mihon,92漫画
+二档-备用,89,hikarinagi.org,B-正常可达,2043,慢,200,38,T2,需新写,,0,1,mihon,Hikarinagi
+二档-备用,90,2cycomic.com,B-正常可达,2135,慢,200,38,T2,已有实现,,0,1,venera,次元漫画
+二档-备用,91,8jj.com,B-正常可达,2163,慢,200,38,T2,需新写,,0,1,legado,✐ 八极漫画 #Haxc|八极漫画
+二档-备用,92,1kkk.com,B-正常可达,2173,慢,200,38,T2,已有实现,,0,1,venera,极速漫画
+二档-备用,93,gaugau.futabanet.jp,B-正常可达,2199,慢,200,38,T2,需新写,,0,1,mihon,がうがうモンスター＋
+二档-备用,94,panda.chaika.moe,B-正常可达,2228,慢,200,26,T3,需新写,,1,1,mihon,PandaChaika
+二档-备用,95,yanmaga.jp,B-正常可达,2258,慢,200,38,T3,需新写,,0,1,mihon,ヤンマガ（グラビア）|ヤンマガ（マンガ）
+二档-备用,96,mhkami.com,B-正常可达,2260,慢,200,38,T3,需新写,,0,1,cimoc,YEMANMH
+二档-备用,97,dumanwu.org,B-正常可达,2263,慢,200,38,T2,需新写,,0,1,cimoc,DUMANWUORG
+二档-备用,98,wn07.cfd,B-正常可达,2277,慢,200,26,T3,已有实现,,1,1,mihon,紳士漫畫
+二档-备用,99,9comic.cn,B-正常可达,2279,慢,200,38,T2,已有实现,,0,1,legado,好看漫画
+二档-备用,100,schale.network,B-正常可达,2313,慢,200,26,T3,需新写,,1,1,mihon,SchaleNetwork
+二档-备用,101,creative-comic.tw,B-正常可达,2501,慢,200,38,T2,已有实现,,0,1,mihon,CCC追漫台
+二档-备用,102,ymgjmh.com,B-正常可达,2587,慢,200,38,T3,需新写,,0,1,cimoc,GUILUOLIMANHUA
+二档-备用,103,kukk.net,B-正常可达,2673,慢,200,38,T3,需新写,,0,1,legado,酷看漫画
+二档-备用,104,bnman.net,B-正常可达,2792,慢,200,38,T2,需新写,,0,1,cimoc,BAINIANMH
+二档-备用,105,comicfury.com,B-正常可达,2800,慢,200,38,T2,需新写,,0,1,mihon,Comic Fury|Comic Fury (No Text)
+二档-备用,106,36mh.org,B-正常可达,2824,慢,200,38,T2,需新写,,0,1,cimoc,QIMIAO
+二档-备用,107,saymanhwa.com,B-正常可达,3007,慢,200,38,T3,需新写,,0,1,mihon,New Manhwa|SayManhwa
+二档-备用,108,klmanga.net,B-正常可达,3016,慢,200,38,T3,需新写,,0,1,mangareader,kl
+二档-备用,109,yamibo.com,B-正常可达,3112,慢,200,38,T3,已有实现,,0,1,venera,百合会
+二档-备用,110,zazhimi.net,B-正常可达,3204,慢,200,38,T3,需新写,,0,1,mihon,杂志迷
+二档-备用,111,51manga.com,B-正常可达,3561,慢,200,38,T2,已有实现,,0,1,venera,51漫画
+二档-备用,112,haoduoman.com,B-正常可达,3954,慢,200,38,T2,需新写,,0,1,cimoc,HAODUOMAN
+二档-备用,113,311s.com,B-正常可达,4281,慢,200,38,T2,需新写,,0,1,mihon,漫画社
+二档-备用,114,manhuayu88.com,B-正常可达,7302,慢,200,38,T3,需新写,,0,1,cimoc,MANHUAYU
+二档-备用,115,xkcd.tw,B-正常可达,11881,慢,200,38,T3,需新写,,0,1,mihon,xkcd

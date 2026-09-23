@@ -1,0 +1,33 @@
+﻿档内排名,站点域名,子类,延迟ms,速度,HTTP,质量分,质量层,适配工作量,官方正版,NSFW,收录生态数,收录生态,各生态源名
+1,comic.mkzhan.com,B-正常可达,58,快,200,48,T1,已有实现,,0,2,cimoc|legado,MKZHAN|漫客栈|🎨 漫客栈|🎨 漫客栈🅰 
+2,mkzhan.com,B-正常可达,110,快,200,48,T2,已有实现,,0,2,legado|venera,㊣✐ 漫客栈  #一程|漫客栈|🌵漫客栈🌵|🎨 漫客栈 #Haxc
+3,manmanapp.com,B-正常可达,140,快,200,48,T1,需新写,,0,2,cimoc|legado,MANMANMANHUA|㊣✐ 漫漫漫画 #一程1101|🎨 漫漫漫画 |🎨 漫漫漫画 #Haxc
+4,manga.bilibili.com,B-正常可达,268,快,200,63,T1,需新写,哔哩漫画（正版）,0,1,legado,哔哩哔哩漫画 #Haxc
+5,manhuadb.com,B-正常可达,347,快,200,48,T1,需新写,,0,2,legado|mangareader,mhdb|✐ 漫画DB |✐ 漫画DB #Haxc1107|漫画大全
+6,kanman.com,B-正常可达,352,快,200,56,T1,已有实现,,0,3,cimoc|legado|venera,ManHuaTai|看漫画|🎨 看漫画M|🎨 看漫画M #Haxc1107
+7,dongmanmanhua.cn,B-正常可达,407,中,200,48,T1,已有实现,,0,2,mihon|venera,Dongman Manhua|咚漫
+8,vomicmh.com,B-正常可达,465,中,200,48,T2,需新写,,0,2,cimoc|mihon,VOMIC2|vomic
+9,iqiyi.com,B-正常可达,492,中,200,73,T1,需新写,爱奇艺漫画（正版）,0,2,legado|mihon,✐ ㊣爱奇艺漫画 #Haxc1107|爱奇艺叭嗒|🎨 爱奇艺漫画|🎨爱奇艺漫画 
+10,manben.com,B-正常可达,509,中,200,48,T1,已有实现,,0,2,cimoc|venera,HAOMAN6|漫本
+11,rumanhua2.com,B-正常可达,539,中,200,56,T1,已有实现,,0,3,cimoc|mihon|venera,RUMANHUA|如漫画
+12,dumanwu1.com,B-正常可达,554,中,200,48,T1,需新写,,0,2,cimoc|mihon,DUMANWU|读漫屋
+13,zaimanhua.com,B-正常可达,625,中,200,48,T2,需新写,,0,2,aidoku|cimoc,HAOMAN8|zh.zaimanhua
+14,dm5.com,B-正常可达,850,中,200,62,T1,已有实现,,0,4,aidoku|cimoc|mihon|venera,DongManWu|zh.dm5|动漫屋
+15,mangadex.org,B-正常可达,880,中,200,81,T1,已有实现,MangaDex（开放授权）,0,3,aidoku|mihon|venera,MangaDex|multi.mangadex
+16,wmh1234.com,B-正常可达,978,中,200,48,T2,已有实现,,0,2,mihon|venera,漫画1234|漫画kan
+17,ymcdnyfqdapp.ikmmh.com,B-正常可达,1020,中,200,44,T2,已有实现,,1,3,cimoc|mihon|venera,BODONGMH|爱看漫
+18,godamh.com,B-正常可达,1056,中,200,48,T1,需新写,,0,2,aidoku|cimoc,HaoManEight|zh.godamanga
+19,ac.qq.com,B-正常可达,1120,中,200,81,T1,已有实现,腾讯动漫（正版）,0,3,legado|mihon|venera,㊣✐ 腾讯漫画  #一程|腾讯动漫|腾讯动漫（正版）|腾讯漫画📱
+20,maofly.com,B-正常可达,1126,中,200,48,T1,需新写,,0,2,cimoc|mangareader,MH50|ManHuaCat|mhm
+21,rawkuma.net,B-正常可达,1402,慢,200,56,T1,已有实现,,0,3,aidoku|mihon|venera,Rawkuma|ja.rawkuma
+22,laimanhua88.com,B-正常可达,1563,慢,200,48,T1,已有实现,,0,2,cimoc|venera,LAIMH|来漫画|来漫画（分流）
+23,kuaikanmanhua.com,B-正常可达,1598,慢,200,73,T1,需新写,快看漫画（正版）,0,2,legado|mihon,快看漫画|快看漫画M|🎨 快看漫画$|🎨快看漫画
+24,webtoons.com,B-正常可达,1668,慢,200,73,T1,已有实现,LINE WEBTOON（正版）,0,2,mihon|venera,LINE WEBTOON|Webtoons.com
+25,liumanhua.com,B-正常可达,1901,慢,200,36,T3,需新写,,1,2,cimoc|mihon,BMG|六漫画
+26,comic-walker.com,B-正常可达,1971,慢,200,63,T1,已有实现,カドコミ（正版）,0,1,mihon,カドコミ
+27,namicomi.com,B-正常可达,2016,慢,200,63,T1,需新写,NamiComi,0,1,mihon,NamiComi
+28,bilimanga.net,B-正常可达,2128,慢,200,87,T1,已有实现,哔哩漫画（正版）,0,4,aidoku|cimoc|mihon|venera,BILIMANHUA|zh.bilimanga|哔哩漫画|嗶哩漫畫
+29,shonenjumpplus.com,B-正常可达,3676,慢,200,81,T1,已有实现,少年Jump+（正版）,0,3,aidoku|mihon|venera,Shonen Jump+|ja.shonenjumpplus|少年ジャンプ＋
+30,guazimanhua.com,B-正常可达,3801,慢,200,48,T1,已有实现,,0,2,mihon|venera,瓜子漫画
+31,zerobyw33.com,B-正常可达,4009,慢,200,48,T2,已有实现,,0,2,mihon|venera,zero搬运网
+32,mangamillion.shueisha.co.jp,B-正常可达,9619,慢,200,63,T1,需新写,Manga Million（正版）,0,1,mihon,Manga Million
