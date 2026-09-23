@@ -1,0 +1,69 @@
+[
+    {
+        "name": "漫客栈",
+        "key": "mkzhan",
+        "version": "1.1.4",
+        "minAppVersion": "1.0.0",
+        "fileName": "mkzhan.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mkzhan.js",
+        "tier": "tier1-primary",
+        "latency_ms": 110,
+        "ecosystems": [
+            "legado",
+            "venera"
+        ],
+        "domain": "mkzhan.com",
+        "description": "tier1-primary · 110ms · 2 ecosystems"
+    },
+    {
+        "name": "看漫画",
+        "key": "kanman",
+        "version": "2.2.7",
+        "minAppVersion": "1.0.0",
+        "fileName": "kanman.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/kanman.js",
+        "tier": "tier1-primary",
+        "latency_ms": 352,
+        "ecosystems": [
+            "cimoc",
+            "legado",
+            "venera"
+        ],
+        "domain": "kanman.com",
+        "description": "tier1-primary · 352ms · 3 ecosystems"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official_v1",
+        "version": "1.0.3",
+        "minAppVersion": "1.0.0",
+        "fileName": "tencent_comic_official.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/tencent_comic_official.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1120,
+        "ecosystems": [
+            "legado",
+            "mihon",
+            "venera"
+        ],
+        "domain": "ac.qq.com",
+        "description": "tier1-primary · 1120ms · 3 ecosystems · 腾讯动漫（正版）"
+    },
+    {
+        "name": "腾讯动漫（正版）",
+        "key": "qq_comic_official",
+        "version": "2.0.0",
+        "minAppVersion": "1.6.0",
+        "fileName": "qq_comic_official.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/qq_comic_official.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1120,
+        "ecosystems": [
+            "legado",
+            "mihon",
+            "venera"
+        ],
+        "domain": "ac.qq.com",
+        "description": "tier1-primary · 1120ms · 3 ecosystems · 腾讯动漫（正版）"
+    }
+]

@@ -6,6 +6,12 @@
 
 **简体中文** | [English](README.md)
 
+> ### 📱 只想在手机上看漫画？
+> **[→ 从 START-HERE.zh-CN.md 开始](START-HERE.zh-CN.md)** —— 三步搞定，五分钟，不用代码、
+> 不用 clone、不用往手机拷文件。往 Venera 里粘一个地址，按质量档位挑源就行。
+>
+> 下面这些是本仓库的数据与工程部分，纯粹为了看漫画的话**都不需要看**。
+
 跨生态汇总、去重、评分、分档的漫画源清单数据集。
 
 把 **7 个主流开源漫画阅读器生态**的源定义收集到一起，按**站点域名**归一化去重，
@@ -74,6 +80,9 @@
 ├── tier2/index.json                     33 个
 ├── tier3/index.json                     26 个
 ├── extra/index.json                     1 个（不在中文三档内）
+├── by-ecosystem/<生态>/index.json        同一批源按生态筛选
+├── by-ecosystem/<生态>/<档位>/index.json … 以及生态 × 档位
+├── files.txt / files.json               每个源文件的直接地址
 ├── venera-import.json                   配置文件：可直接粘贴的 URL + 说明
 └── urls.txt                             纯 URL 清单
 ```

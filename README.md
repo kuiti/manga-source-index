@@ -6,6 +6,12 @@
 
 [简体中文](README.zh-CN.md) | **English**
 
+> ### 📱 Just want to read manga on your phone?
+> **[→ START-HERE.md](START-HERE.md)** — three steps, five minutes. No code, no cloning,
+> no copying files. Paste one URL into the Venera app and pick sources by quality tier.
+>
+> Everything below is the data/engineering side of this repo; you don't need any of it to read manga.
+
 A cross-ecosystem, deduplicated, scored and tier-ranked dataset of manga/comic source definitions.
 
 Source definitions are aggregated from **7 mainstream open-source manga reader ecosystems**, normalized and deduplicated by **site domain**, then scored for quality and ranked into three tiers. Every layer ships both a **cross-ecosystem deduplicated table** and **per-ecosystem breakdown tables**, so you can trace provenance by ecosystem or re-target the data into your own format.
@@ -68,6 +74,9 @@ Source definitions are aggregated from **7 mainstream open-source manga reader e
 ├── tier2/index.json                     33 sources
 ├── tier3/index.json                     26 sources
 ├── extra/index.json                     1 source (not in the Chinese tiers)
+├── by-ecosystem/<eco>/index.json        same sources filtered by ecosystem
+├── by-ecosystem/<eco>/<tier>/index.json … and by ecosystem × tier
+├── files.txt / files.json               a direct URL for every single source file
 ├── venera-import.json                   config file: the paste-ready URLs, with notes
 └── urls.txt                             plain URL list
 ```

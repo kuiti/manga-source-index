@@ -1,0 +1,15 @@
+[
+    {
+        "name": "GoDa漫画",
+        "key": "goda",
+        "version": "1.2.1",
+        "minAppVersion": "1.4.0",
+        "fileName": "goda.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/goda.js",
+        "tier": "",
+        "latency_ms": 0,
+        "ecosystems": [],
+        "domain": "",
+        "description": "matched by name"
+    }
+]

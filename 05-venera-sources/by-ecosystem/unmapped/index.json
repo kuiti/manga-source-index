@@ -1,0 +1,41 @@
+[
+    {
+        "name": "GoDa漫画",
+        "key": "goda",
+        "version": "1.2.1",
+        "minAppVersion": "1.4.0",
+        "fileName": "goda.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/goda.js",
+        "tier": "",
+        "latency_ms": 0,
+        "ecosystems": [],
+        "domain": "",
+        "description": "matched by name"
+    },
+    {
+        "name": "18漫画",
+        "key": "mh18",
+        "version": "1.0.0",
+        "minAppVersion": "1.4.0",
+        "fileName": "mh18.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mh18.js",
+        "tier": "",
+        "latency_ms": 0,
+        "ecosystems": [],
+        "domain": "",
+        "description": "matched by name"
+    },
+    {
+        "name": "311漫画",
+        "key": "s311_com",
+        "version": "1.2.0",
+        "minAppVersion": "1.2.2",
+        "fileName": "311.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/311.js",
+        "tier": "",
+        "latency_ms": 0,
+        "ecosystems": [],
+        "domain": "",
+        "description": "no probe data"
+    }
+]

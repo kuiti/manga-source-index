@@ -1,0 +1,1396 @@
+{
+  "version": "v1.0.0",
+  "count": 79,
+  "files": [
+    {
+      "file": "mkzhan.js",
+      "name": "漫客栈",
+      "key": "mkzhan",
+      "version": "1.1.4",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 110,
+      "domain": "mkzhan.com",
+      "ecosystems": [
+        "legado",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mkzhan.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mkzhan.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mkzhan.js"
+    },
+    {
+      "file": "kanman.js",
+      "name": "看漫画",
+      "key": "kanman",
+      "version": "2.2.7",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 352,
+      "domain": "kanman.com",
+      "ecosystems": [
+        "cimoc",
+        "legado",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/kanman.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/kanman.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/kanman.js"
+    },
+    {
+      "file": "dongmanmanhua.js",
+      "name": "咚漫",
+      "key": "dongmanmanhua",
+      "version": "1.0.6",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 407,
+      "domain": "dongmanmanhua.cn",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dongmanmanhua.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/dongmanmanhua.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/dongmanmanhua.js"
+    },
+    {
+      "file": "dongman.js",
+      "name": "咚漫",
+      "key": "dongman",
+      "version": "1.0.8",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 407,
+      "domain": "dongmanmanhua.cn",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dongman.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/dongman.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/dongman.js"
+    },
+    {
+      "file": "manben.js",
+      "name": "漫本",
+      "key": "manben",
+      "version": "1.1.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 509,
+      "domain": "manben.com",
+      "ecosystems": [
+        "cimoc",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manben.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manben.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manben.js"
+    },
+    {
+      "file": "rumanhua_fixed_v16.js",
+      "name": "如漫画",
+      "key": "rumanhua_fixed_v15",
+      "version": "1.2.6",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 539,
+      "domain": "rumanhua2.com",
+      "ecosystems": [
+        "cimoc",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rumanhua_fixed_v16.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/rumanhua_fixed_v16.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/rumanhua_fixed_v16.js"
+    },
+    {
+      "file": "rumanhua.js",
+      "name": "如漫画",
+      "key": "rumanhua",
+      "version": "2.4.1",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 539,
+      "domain": "rumanhua2.com",
+      "ecosystems": [
+        "cimoc",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rumanhua.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/rumanhua.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/rumanhua.js"
+    },
+    {
+      "file": "dm5.js",
+      "name": "动漫屋",
+      "key": "dm5",
+      "version": "7.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 850,
+      "domain": "dm5.com",
+      "ecosystems": [
+        "aidoku",
+        "cimoc",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dm5.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/dm5.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/dm5.js"
+    },
+    {
+      "file": "manga_dex.js",
+      "name": "MangaDex",
+      "key": "manga_dex",
+      "version": "1.2.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 880,
+      "domain": "mangadex.org",
+      "ecosystems": [
+        "aidoku",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manga_dex.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manga_dex.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manga_dex.js"
+    },
+    {
+      "file": "mhkan.js",
+      "name": "漫画看",
+      "key": "mhkan",
+      "version": "1.1.7",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 978,
+      "domain": "wmh1234.com",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mhkan.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mhkan.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mhkan.js"
+    },
+    {
+      "file": "tencent_comic_official.js",
+      "name": "腾讯动漫（正版）",
+      "key": "qq_comic_official_v1",
+      "version": "1.0.3",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 1120,
+      "domain": "ac.qq.com",
+      "ecosystems": [
+        "legado",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/tencent_comic_official.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/tencent_comic_official.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/tencent_comic_official.js"
+    },
+    {
+      "file": "qq_comic_official.js",
+      "name": "腾讯动漫（正版）",
+      "key": "qq_comic_official",
+      "version": "2.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 1120,
+      "domain": "ac.qq.com",
+      "ecosystems": [
+        "legado",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/qq_comic_official.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/qq_comic_official.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/qq_comic_official.js"
+    },
+    {
+      "file": "rawkuma.js",
+      "name": "search_nonce",
+      "key": "rawkuma",
+      "version": "1.1.0",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 1402,
+      "domain": "rawkuma.net",
+      "ecosystems": [
+        "aidoku",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rawkuma.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/rawkuma.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/rawkuma.js"
+    },
+    {
+      "file": "laimanhua_split_hosts_v1.2.1_configurable.js",
+      "name": "来漫画（分流）",
+      "key": "laimanhua_split",
+      "version": "1.2.1",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 1563,
+      "domain": "laimanhua88.com",
+      "ecosystems": [
+        "cimoc",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/laimanhua_split_hosts_v1.2.1_configurable.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/laimanhua_split_hosts_v1.2.1_configurable.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/laimanhua_split_hosts_v1.2.1_configurable.js"
+    },
+    {
+      "file": "webtoons_zh_hant.js",
+      "name": "LINE WEBTOON",
+      "key": "webtoons_zh_hant",
+      "version": "1.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 1668,
+      "domain": "webtoons.com",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/webtoons_zh_hant.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/webtoons_zh_hant.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/webtoons_zh_hant.js"
+    },
+    {
+      "file": "bilimanga.js",
+      "name": "嗶哩漫畫",
+      "key": "bilimanga",
+      "version": "1.1.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 2128,
+      "domain": "bilimanga.net",
+      "ecosystems": [
+        "aidoku",
+        "cimoc",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/bilimanga.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/bilimanga.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/bilimanga.js"
+    },
+    {
+      "file": "shonen_jump_plus.js",
+      "name": "少年ジャンプ＋",
+      "key": "shonen_jump_plus",
+      "version": "1.1.1",
+      "minAppVersion": "1.2.1",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 3676,
+      "domain": "shonenjumpplus.com",
+      "ecosystems": [
+        "aidoku",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/shonen_jump_plus.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/shonen_jump_plus.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/shonen_jump_plus.js"
+    },
+    {
+      "file": "guazi_manhua_v1.1.0.js",
+      "name": "瓜子漫画",
+      "key": "guazimanhua",
+      "version": "1.0.4",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 3801,
+      "domain": "guazimanhua.com",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/guazi_manhua_v1.1.0.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/guazi_manhua_v1.1.0.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/guazi_manhua_v1.1.0.js"
+    },
+    {
+      "file": "zero.js",
+      "name": "zero搬运网",
+      "key": "zerobyw",
+      "version": "1.2.0",
+      "minAppVersion": "1.0.0",
+      "tier": "tier1-primary",
+      "bucket": "tier1",
+      "latency_ms": 4009,
+      "domain": "zerobyw33.com",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/zero.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/zero.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/zero.js"
+    },
+    {
+      "file": "zaimanhua.js",
+      "name": "再漫画",
+      "key": "zaimanhua",
+      "version": "1.0.2",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 80,
+      "domain": "v4api.zaimanhua.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/zaimanhua.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/zaimanhua.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/zaimanhua.js"
+    },
+    {
+      "file": "sfacg_manhua.js",
+      "name": "SF漫画",
+      "key": "sfacg_manhua",
+      "version": "1.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 303,
+      "domain": "manhua.sfacg.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/sfacg_manhua.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/sfacg_manhua.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/sfacg_manhua.js"
+    },
+    {
+      "file": "gfmh.js",
+      "name": "古风漫画",
+      "key": "GfmhApp",
+      "version": "1.3.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 492,
+      "domain": "gfmh.app",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/gfmh.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/gfmh.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/gfmh.js"
+    },
+    {
+      "file": "lx7km9__gfmh.js",
+      "name": "古风漫画",
+      "key": "gfmh",
+      "version": "1.3.1",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 492,
+      "domain": "gfmh.app",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/lx7km9__gfmh.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/lx7km9__gfmh.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/lx7km9__gfmh.js"
+    },
+    {
+      "file": "manhuaren.js",
+      "name": "漫画人",
+      "key": "manhuaren",
+      "version": "1.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 525,
+      "domain": "manhuaren.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manhuaren.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manhuaren.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manhuaren.js"
+    },
+    {
+      "file": "mh4399.js",
+      "name": "4399漫画网",
+      "key": "mh4399",
+      "version": "1.0.3",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 563,
+      "domain": "4399manhua.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mh4399.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mh4399.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mh4399.js"
+    },
+    {
+      "file": "mh1234.js",
+      "name": "漫画1234",
+      "key": "mh1234",
+      "version": "1.0.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 686,
+      "domain": "gmh1234.wszwhg.net",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mh1234.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mh1234.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mh1234.js"
+    },
+    {
+      "file": "noymanga.js",
+      "name": "NoyManga",
+      "key": "noymanga",
+      "version": "1.1.3",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 763,
+      "domain": "noymanga.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/noymanga.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/noymanga.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/noymanga.js"
+    },
+    {
+      "file": "baozi.js",
+      "name": "包子漫画",
+      "key": "baozi",
+      "version": "1.1.6",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 819,
+      "domain": "static-tw.baozimh.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/baozi.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/baozi.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/baozi.js"
+    },
+    {
+      "file": "hipmh.js",
+      "name": "嬉皮漫畫",
+      "key": "hipmh",
+      "version": "1.0.1",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 878,
+      "domain": "hipmh.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hipmh.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/hipmh.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/hipmh.js"
+    },
+    {
+      "file": "manwang_fixed_v120.js",
+      "name": "漫网",
+      "key": "9S8$vJnU2ANeSRoF",
+      "version": "1.2.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 884,
+      "domain": "manwang.net",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manwang_fixed_v120.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manwang_fixed_v120.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manwang_fixed_v120.js"
+    },
+    {
+      "file": "manhuauo_fixed_v2.js",
+      "name": "香蕉漫画",
+      "key": "manhuauo_banana_v2",
+      "version": "1.0.3",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 975,
+      "domain": "manhuauo.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manhuauo_fixed_v2.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manhuauo_fixed_v2.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manhuauo_fixed_v2.js"
+    },
+    {
+      "file": "banana.js",
+      "name": "香蕉漫画",
+      "key": "banana",
+      "version": "1.0.4",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 975,
+      "domain": "manhuauo.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/banana.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/banana.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/banana.js"
+    },
+    {
+      "file": "jm.js",
+      "name": "禁漫天堂",
+      "key": "jm",
+      "version": "1.4.0",
+      "minAppVersion": "1.5.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 996,
+      "domain": "cdn-msp.jmapinodeudzn.net",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/jm.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/jm.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/jm.js"
+    },
+    {
+      "file": "haokan.js",
+      "name": "好看漫画",
+      "key": "haokan_txt",
+      "version": "1.0.4",
+      "minAppVersion": "1.2.2",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1005,
+      "domain": "haokantxt.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/haokan.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/haokan.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/haokan.js"
+    },
+    {
+      "file": "comick.js",
+      "name": "comick",
+      "key": "comick",
+      "version": "1.2.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1085,
+      "domain": "comick.art",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/comick.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/comick.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/comick.js"
+    },
+    {
+      "file": "yemancomic.js",
+      "name": "野蛮漫画",
+      "key": "yemancomic",
+      "version": "1.3.8",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1124,
+      "domain": "yemancomic.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/yemancomic.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/yemancomic.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/yemancomic.js"
+    },
+    {
+      "file": "lanraragi.js",
+      "name": "Lanraragi",
+      "key": "lanraragi",
+      "version": "1.2.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1137,
+      "domain": "lrr.tvc-16.science",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/lanraragi.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/lanraragi.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/lanraragi.js"
+    },
+    {
+      "file": "ffppt.js",
+      "name": "飞翔漫画",
+      "key": "ffppt",
+      "version": "1.0.1",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1392,
+      "domain": "ffppt.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ffppt.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/ffppt.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/ffppt.js"
+    },
+    {
+      "file": "ccc.js",
+      "name": "CCC追漫台",
+      "key": "ccc",
+      "version": "1.0.1",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1397,
+      "domain": "api.creative-comic.tw",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ccc.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/ccc.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/ccc.js"
+    },
+    {
+      "file": "komga.js",
+      "name": "Komga",
+      "key": "komga",
+      "version": "1.0.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1428,
+      "domain": "demo.komga.org",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/komga.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/komga.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/komga.js"
+    },
+    {
+      "file": "manhuapi.js",
+      "name": "漫画皮",
+      "key": "manhuapi",
+      "version": "1.4.2",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1724,
+      "domain": "manhuapi.cc",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manhuapi.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manhuapi.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manhuapi.js"
+    },
+    {
+      "file": "tuku_cc.js",
+      "name": "图库漫画",
+      "key": "tuku_cc",
+      "version": "1.0.1",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1782,
+      "domain": "tuku.cc",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/tuku_cc.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/tuku_cc.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/tuku_cc.js"
+    },
+    {
+      "file": "mojoin_fixed_v107.js",
+      "name": "MOJOIN",
+      "key": "mojoin_v2",
+      "version": "1.0.7",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1786,
+      "domain": "mojoin.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mojoin_fixed_v107.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mojoin_fixed_v107.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mojoin_fixed_v107.js"
+    },
+    {
+      "file": "mojoin.js",
+      "name": "MOJOIN",
+      "key": "mojoin",
+      "version": "1.0.8",
+      "minAppVersion": "1.0.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1786,
+      "domain": "mojoin.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mojoin.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mojoin.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mojoin.js"
+    },
+    {
+      "file": "zerobyw33.js",
+      "name": "zero搬运网",
+      "key": "zerobyw33",
+      "version": "1.2.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1818,
+      "domain": "zerobyw.github.io",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/zerobyw33.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/zerobyw33.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/zerobyw33.js"
+    },
+    {
+      "file": "bukamh.js",
+      "name": "布卡漫画",
+      "key": "bukamh",
+      "version": "1.2.9",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 1818,
+      "domain": "bukamh.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/bukamh.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/bukamh.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/bukamh.js"
+    },
+    {
+      "file": "cycomic.js",
+      "name": "次元漫画",
+      "key": "cycomic",
+      "version": "1.0.3",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 2135,
+      "domain": "2cycomic.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/cycomic.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/cycomic.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/cycomic.js"
+    },
+    {
+      "file": "one_kkk.js",
+      "name": "极速漫画",
+      "key": "one_kkk",
+      "version": "1.0.1",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 2173,
+      "domain": "1kkk.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/one_kkk.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/one_kkk.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/one_kkk.js"
+    },
+    {
+      "file": "yemanmh.js",
+      "name": "野漫漫画(漫神)",
+      "key": "yemanmh",
+      "version": "1.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 2260,
+      "domain": "mhkami.com",
+      "ecosystems": [
+        "cimoc"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/yemanmh.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/yemanmh.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/yemanmh.js"
+    },
+    {
+      "file": "baihehui.js",
+      "name": "百合会",
+      "key": "baihehui",
+      "version": "1.0.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 3112,
+      "domain": "yamibo.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/baihehui.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/baihehui.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/baihehui.js"
+    },
+    {
+      "file": "manga51.js",
+      "name": "51漫画",
+      "key": "manga51",
+      "version": "1.2.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier2-backup",
+      "bucket": "tier2",
+      "latency_ms": 3561,
+      "domain": "51manga.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manga51.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manga51.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manga51.js"
+    },
+    {
+      "file": "goda.js",
+      "name": "GoDa漫画",
+      "key": "goda",
+      "version": "1.2.1",
+      "minAppVersion": "1.4.0",
+      "tier": "",
+      "bucket": "tier2",
+      "latency_ms": 0,
+      "domain": "",
+      "ecosystems": [],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/goda.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/goda.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/goda.js"
+    },
+    {
+      "file": "happy.js",
+      "name": "嗨皮漫画",
+      "key": "happy",
+      "version": "1.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 11,
+      "domain": "happymh.com",
+      "ecosystems": [
+        "aidoku",
+        "mangareader",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/happy.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/happy.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/happy.js"
+    },
+    {
+      "file": "wmanhua.js",
+      "name": "W漫画",
+      "key": "wmanhua",
+      "version": "1.0.1",
+      "minAppVersion": "1.4.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 22,
+      "domain": "wmanhua.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/wmanhua.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/wmanhua.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/wmanhua.js"
+    },
+    {
+      "file": "copy_manga.js",
+      "name": "拷贝漫画",
+      "key": "copy_manga",
+      "version": "1.4.2",
+      "minAppVersion": "1.6.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 35,
+      "domain": "marketing.aiacgn.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/copy_manga.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/copy_manga.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/copy_manga.js"
+    },
+    {
+      "file": "dongman_la_fixed_v101.js",
+      "name": "动漫啦",
+      "key": "dongman_la",
+      "version": "1.0.1",
+      "minAppVersion": "1.0.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 431,
+      "domain": "dongman.la",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dongman_la_fixed_v101.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/dongman_la_fixed_v101.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/dongman_la_fixed_v101.js"
+    },
+    {
+      "file": "ykmh.js",
+      "name": "优酷漫画",
+      "key": "ykmh",
+      "version": "1.0.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 812,
+      "domain": "ykmh.net",
+      "ecosystems": [
+        "cimoc",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ykmh.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/ykmh.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/ykmh.js"
+    },
+    {
+      "file": "mycomic.js",
+      "name": "x",
+      "key": "mycomic",
+      "version": "1.1.0",
+      "minAppVersion": "1.4.6",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 834,
+      "domain": "mycomic.com",
+      "ecosystems": [
+        "aidoku",
+        "cimoc",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mycomic.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mycomic.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mycomic.js"
+    },
+    {
+      "file": "comic_walker.js",
+      "name": "カドコミ",
+      "key": "comic_walker",
+      "version": "1.0.1",
+      "minAppVersion": "1.6.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 979,
+      "domain": "mobileapp.comic-walker.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/comic_walker.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/comic_walker.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/comic_walker.js"
+    },
+    {
+      "file": "mh18.js",
+      "name": "18漫画",
+      "key": "mh18",
+      "version": "1.0.0",
+      "minAppVersion": "1.4.0",
+      "tier": "",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "",
+      "ecosystems": [],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mh18.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mh18.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mh18.js"
+    },
+    {
+      "file": "cosplaytele.js",
+      "name": "CosplayTele",
+      "key": "cosplaytele",
+      "version": "1.0.3",
+      "minAppVersion": "1.4.6",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "cosplaytele.com",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/cosplaytele.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/cosplaytele.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/cosplaytele.js"
+    },
+    {
+      "file": "hcomic.js",
+      "name": "H-Comic",
+      "key": "hcomic",
+      "version": "1.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "dead-skip",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "h-comic.com",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hcomic.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/hcomic.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/hcomic.js"
+    },
+    {
+      "file": "kavita.js",
+      "name": "Kavita",
+      "key": "kavita",
+      "version": "1.0.0",
+      "minAppVersion": "1.4.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "demo.kavita.org",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/kavita.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/kavita.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/kavita.js"
+    },
+    {
+      "file": "komiic.js",
+      "name": "Komiic",
+      "key": "Komiic",
+      "version": "1.0.3",
+      "minAppVersion": "1.0.0",
+      "tier": "dead-skip",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "komiic.com",
+      "ecosystems": [
+        "aidoku",
+        "cimoc",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/komiic.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/komiic.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/komiic.js"
+    },
+    {
+      "file": "mangabz.js",
+      "name": "Mangabz",
+      "key": "mangabz",
+      "version": "0.9.3",
+      "minAppVersion": "1.6.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "mangabz.com",
+      "ecosystems": [
+        "aidoku",
+        "cimoc",
+        "mangareader",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mangabz.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mangabz.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mangabz.js"
+    },
+    {
+      "file": "picacg.js",
+      "name": "Picacg",
+      "key": "picacg",
+      "version": "1.0.6",
+      "minAppVersion": "1.0.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "picaapi.picacomic.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/picacg.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/picacg.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/picacg.js"
+    },
+    {
+      "file": "pixiv.js",
+      "name": "Pixiv",
+      "key": "pixiv",
+      "version": "1.7.2",
+      "minAppVersion": "1.6.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "app-api.pixiv.net",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/pixiv.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/pixiv.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/pixiv.js"
+    },
+    {
+      "file": "ehentai.js",
+      "name": "ehentai",
+      "key": "ehentai",
+      "version": "1.2.0",
+      "minAppVersion": "1.5.3",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "e-hentai.org",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ehentai.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/ehentai.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/ehentai.js"
+    },
+    {
+      "file": "hitomi.js",
+      "name": "galleriesindex",
+      "key": "hitomi",
+      "version": "1.1.2",
+      "minAppVersion": "1.4.6",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "hitomi.la",
+      "ecosystems": [
+        "aidoku",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hitomi.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/hitomi.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/hitomi.js"
+    },
+    {
+      "file": "jcomic.js",
+      "name": "jcomic.net",
+      "key": "jcomic",
+      "version": "1.0.0",
+      "minAppVersion": "1.4.6",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "jcomic.net",
+      "ecosystems": [
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/jcomic.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/jcomic.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/jcomic.js"
+    },
+    {
+      "file": "nhentai.js",
+      "name": "nhentai",
+      "key": "nhentai",
+      "version": "1.1.0",
+      "minAppVersion": "1.0.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "nhentai.net",
+      "ecosystems": [
+        "aidoku",
+        "mangareader",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/nhentai.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/nhentai.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/nhentai.js"
+    },
+    {
+      "file": "mxs.js",
+      "name": "漫小肆",
+      "key": "mxs",
+      "version": "1.0.0",
+      "minAppVersion": "1.5.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "mxshm.top",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mxs.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/mxs.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/mxs.js"
+    },
+    {
+      "file": "manhuagui.js",
+      "name": "漫画柜",
+      "key": "ManHuaGui",
+      "version": "1.2.1",
+      "minAppVersion": "1.4.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "manhuagui.com",
+      "ecosystems": [
+        "mangareader",
+        "mihon",
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manhuagui.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manhuagui.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manhuagui.js"
+    },
+    {
+      "file": "manwaba.js",
+      "name": "漫蛙吧",
+      "key": "manwaba",
+      "version": "1.0.3",
+      "minAppVersion": "1.4.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "mwuu.cc",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manwaba.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/manwaba.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/manwaba.js"
+    },
+    {
+      "file": "hot_manga.js",
+      "name": "热辣漫画",
+      "key": "hot_manga",
+      "version": "1.0.0",
+      "minAppVersion": "1.6.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "manga2026.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hot_manga.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/hot_manga.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/hot_manga.js"
+    },
+    {
+      "file": "ikmmh.js",
+      "name": "爱看漫",
+      "key": "ikmmh",
+      "version": "1.0.6",
+      "minAppVersion": "1.0.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "ikmmh.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ikmmh.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/ikmmh.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/ikmmh.js"
+    },
+    {
+      "file": "ikmmh_v2.js",
+      "name": "爱看漫",
+      "key": "ikmmh_v2",
+      "version": "3.0.0",
+      "minAppVersion": "1.0.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "ikmmh.com",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/ikmmh_v2.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/ikmmh_v2.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/ikmmh_v2.js"
+    },
+    {
+      "file": "wnacg.js",
+      "name": "紳士漫畫",
+      "key": "wnacg",
+      "version": "1.0.5",
+      "minAppVersion": "1.0.0",
+      "tier": "tier3-retest",
+      "bucket": "tier3",
+      "latency_ms": 0,
+      "domain": "wn01.link",
+      "ecosystems": [
+        "venera"
+      ],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/wnacg.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/wnacg.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/wnacg.js"
+    },
+    {
+      "file": "311.js",
+      "name": "311漫画",
+      "key": "s311_com",
+      "version": "1.2.0",
+      "minAppVersion": "1.2.2",
+      "tier": "",
+      "bucket": "extra",
+      "latency_ms": 0,
+      "domain": "",
+      "ecosystems": [],
+      "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/311.js",
+      "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/sources/311.js",
+      "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/sources/311.js"
+    }
+  ]
+}

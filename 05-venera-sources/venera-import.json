@@ -1,59 +1,180 @@
 {
   "name": "Venera 漫画源在线列表 / Venera comic source lists",
   "version": "v1.0.0",
-  "howto_zh": "打开 Venera → 漫画源 → comic source（源列表）→ 把下面的 URL 粘进 'Repo URL' 输入框 → 点 Refresh → 列表出来后点条目右侧 Add 导入。只想导某一档就填对应的 tier URL。",
-  "howto_en": "Open Venera → Comic Source → paste one of the URLs below into the 'Repo URL' field → Refresh → tap Add on each entry you want. Use a tier URL to see only that tier.",
-  "supported": "Venera >= 1.6.0（本列表内所有源 minAppVersion 最高 1.6.0）",
-  "lists": [
-    {
-      "key": "all",
-      "count": 79,
-      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json",
-      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/all/index.json",
-      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json"
+  "howto_zh": "打开 Venera → 漫画源 → Comic Source（源列表）→ 把下面的 URL 粘进 'Repo URL' → 点 Refresh → 点条目右侧 Add 导入。只想导某一档/某个生态，就填对应的 URL。只想加一个源，用 files.txt 里的单文件地址。",
+  "howto_en": "Open Venera → Comic Source → paste a URL below into 'Repo URL' → Refresh → tap Add on each entry you want. Use a tier or ecosystem URL to narrow down. To add a single source, use a per-file URL from files.txt.",
+  "supported": "Venera >= 1.6.0（列表内所有源 minAppVersion 最高 1.6.0）",
+  "counts": {
+    "total": 79,
+    "tiers": {
+      "tier1": 19,
+      "tier2": 33,
+      "tier3": 26,
+      "extra": 1
     },
-    {
-      "key": "tier1",
-      "count": 19,
-      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json",
-      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier1/index.json",
-      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier1/index.json"
-    },
-    {
-      "key": "tier2",
-      "count": 33,
-      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json",
-      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier2/index.json",
-      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier2/index.json"
-    },
-    {
-      "key": "tier3",
-      "count": 26,
-      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json",
-      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier3/index.json",
-      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json"
-    },
-    {
-      "key": "extra",
-      "count": 1,
-      "url_jsdelivr": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json",
-      "url_jsdelivr_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/extra/index.json",
-      "url_raw_github": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/extra/index.json"
+    "ecosystems": {
+      "mihon": 23,
+      "aidoku": 11,
+      "legado": 4,
+      "venera": 75,
+      "cimoc": 12,
+      "mangareader": 4,
+      "unmapped": 3
     }
-  ],
+  },
+  "lists": {
+    "by_tier": [
+      {
+        "key": "all",
+        "count": 79,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/all/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/all/index.json"
+      },
+      {
+        "key": "tier1",
+        "count": 19,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier1/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier1/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier1/index.json"
+      },
+      {
+        "key": "tier2",
+        "count": 33,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier2/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier2/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier2/index.json"
+      },
+      {
+        "key": "tier3",
+        "count": 26,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/tier3/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/tier3/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/tier3/index.json"
+      },
+      {
+        "key": "extra",
+        "count": 1,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/extra/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/extra/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/extra/index.json"
+      }
+    ],
+    "by_ecosystem": [
+      {
+        "key": "mihon",
+        "label_zh": "Mihon 系",
+        "label_en": "Mihon family",
+        "count": 23,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/by-ecosystem/mihon/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/mihon/index.json",
+        "by_tier": {
+          "tier1": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier1/index.json",
+          "tier3": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier3/index.json"
+        }
+      },
+      {
+        "key": "aidoku",
+        "label_zh": "Aidoku（iOS）",
+        "label_en": "Aidoku (iOS)",
+        "count": 11,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/by-ecosystem/aidoku/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/aidoku/index.json",
+        "by_tier": {
+          "tier1": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier1/index.json",
+          "tier3": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier3/index.json"
+        }
+      },
+      {
+        "key": "legado",
+        "label_zh": "阅读 Legado",
+        "label_en": "Legado",
+        "count": 4,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/by-ecosystem/legado/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/legado/index.json",
+        "by_tier": {
+          "tier1": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/tier1/index.json"
+        }
+      },
+      {
+        "key": "venera",
+        "label_zh": "Venera",
+        "label_en": "Venera",
+        "count": 75,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/by-ecosystem/venera/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/venera/index.json",
+        "by_tier": {
+          "tier1": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier1/index.json",
+          "tier2": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier2/index.json",
+          "tier3": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier3/index.json"
+        }
+      },
+      {
+        "key": "cimoc",
+        "label_zh": "Cimoc",
+        "label_en": "Cimoc",
+        "count": 12,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/by-ecosystem/cimoc/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/cimoc/index.json",
+        "by_tier": {
+          "tier1": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier1/index.json",
+          "tier2": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier2/index.json",
+          "tier3": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier3/index.json"
+        }
+      },
+      {
+        "key": "mangareader",
+        "label_zh": "MangaReader",
+        "label_en": "MangaReader",
+        "count": 4,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mangareader/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/by-ecosystem/mangareader/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/mangareader/index.json",
+        "by_tier": {
+          "tier3": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mangareader/tier3/index.json"
+        }
+      },
+      {
+        "key": "unmapped",
+        "label_zh": "未归类",
+        "label_en": "unmapped",
+        "count": 3,
+        "url_main": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/index.json",
+        "url_pinned": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/by-ecosystem/unmapped/index.json",
+        "url_raw": "https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/by-ecosystem/unmapped/index.json",
+        "by_tier": {
+          "tier2": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier2/index.json",
+          "tier3": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier3/index.json",
+          "extra": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/extra/index.json"
+        }
+      }
+    ]
+  },
+  "per_file": {
+    "count": 79,
+    "files_json": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/files.json",
+    "files_txt": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/files.txt"
+  },
   "notes_zh": [
-    "一次只能填一个列表 URL（App 只存一个 Repo URL 槽位），换档位就换 URL。",
+    "一次只能填一个列表 URL（App 只存一个 Repo URL 槽位），换档位/换生态就换 URL。",
     "全量列表里每个源的名称下方会显示档位、延迟、收录生态数。",
-    "主用 jsDelivr 分支地址（@main）。它有缓存（最长约 12 小时），数据更新后想立刻生效就用 @<sha> 固定地址（内容不可变，不经分支缓存）。",
+    "主用 jsDelivr @main；它有缓存（最长约 12 小时），想立刻拿到当前快照用 @<sha> 固定地址。",
     "raw.githubusercontent 在部分网络（含中国大陆）会超时，仅作最后备选。",
+    "「按生态」是重叠分类：一个源覆盖的站点可能同时被多个生态收录，所以各生态的源数相加会大于总数。",
     "含 NSFW 源，不需要的在 App 里单独关掉。",
     "源指向第三方站点，可用性与合规性请自行判断。"
   ],
   "notes_en": [
     "Only one list URL can be set at a time (the app stores a single Repo URL).",
     "In the all-list, each entry shows tier / latency / ecosystem count under its name.",
-    "Primary is the jsDelivr branch URL (@main). It is cached (up to ~12h); use the @<sha> pinned URL when you need the exact snapshot immediately.",
-    "raw.githubusercontent times out on some networks (incl. mainland China) — last resort only.",
+    "Primary is jsDelivr @main (cached up to ~12h); use @<sha> for the exact snapshot.",
+    "raw.githubusercontent times out on some networks (incl. mainland China) — last resort.",
+    "Ecosystem groups overlap: one source may cover sites indexed by several ecosystems, so the per-ecosystem counts sum to more than the total.",
     "Includes NSFW sources; disable the ones you don't want in the app.",
     "Sources point to third-party sites — availability and legality are your call."
   ]

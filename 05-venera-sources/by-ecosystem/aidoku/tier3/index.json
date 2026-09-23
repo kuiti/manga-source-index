@@ -1,0 +1,107 @@
+[
+    {
+        "name": "嗨皮漫画",
+        "key": "happy",
+        "version": "1.0.0",
+        "minAppVersion": "1.6.0",
+        "fileName": "happy.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/happy.js",
+        "tier": "tier3-retest",
+        "latency_ms": 11,
+        "ecosystems": [
+            "aidoku",
+            "mangareader",
+            "venera"
+        ],
+        "domain": "happymh.com",
+        "description": "tier3-retest · 11ms · 3 ecosystems"
+    },
+    {
+        "name": "x",
+        "key": "mycomic",
+        "version": "1.1.0",
+        "minAppVersion": "1.4.6",
+        "fileName": "mycomic.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mycomic.js",
+        "tier": "tier3-retest",
+        "latency_ms": 834,
+        "ecosystems": [
+            "aidoku",
+            "cimoc",
+            "mihon",
+            "venera"
+        ],
+        "domain": "mycomic.com",
+        "description": "tier3-retest · 834ms · 4 ecosystems"
+    },
+    {
+        "name": "Komiic",
+        "key": "Komiic",
+        "version": "1.0.3",
+        "minAppVersion": "1.0.0",
+        "fileName": "komiic.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/komiic.js",
+        "tier": "dead-skip",
+        "latency_ms": 0,
+        "ecosystems": [
+            "aidoku",
+            "cimoc",
+            "mihon",
+            "venera"
+        ],
+        "domain": "komiic.com",
+        "description": "dead-skip · 4 ecosystems"
+    },
+    {
+        "name": "Mangabz",
+        "key": "mangabz",
+        "version": "0.9.3",
+        "minAppVersion": "1.6.0",
+        "fileName": "mangabz.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/mangabz.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "ecosystems": [
+            "aidoku",
+            "cimoc",
+            "mangareader",
+            "mihon",
+            "venera"
+        ],
+        "domain": "mangabz.com",
+        "description": "tier3-retest · 5 ecosystems"
+    },
+    {
+        "name": "galleriesindex",
+        "key": "hitomi",
+        "version": "1.1.2",
+        "minAppVersion": "1.4.6",
+        "fileName": "hitomi.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/hitomi.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "ecosystems": [
+            "aidoku",
+            "venera"
+        ],
+        "domain": "hitomi.la",
+        "description": "tier3-retest · 2 ecosystems"
+    },
+    {
+        "name": "nhentai",
+        "key": "nhentai",
+        "version": "1.1.0",
+        "minAppVersion": "1.0.0",
+        "fileName": "nhentai.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/nhentai.js",
+        "tier": "tier3-retest",
+        "latency_ms": 0,
+        "ecosystems": [
+            "aidoku",
+            "mangareader",
+            "venera"
+        ],
+        "domain": "nhentai.net",
+        "description": "tier3-retest · 3 ecosystems"
+    }
+]

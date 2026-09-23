@@ -1,0 +1,17 @@
+[
+    {
+        "name": "野漫漫画(漫神)",
+        "key": "yemanmh",
+        "version": "1.0.0",
+        "minAppVersion": "1.6.0",
+        "fileName": "yemanmh.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/yemanmh.js",
+        "tier": "tier2-backup",
+        "latency_ms": 2260,
+        "ecosystems": [
+            "cimoc"
+        ],
+        "domain": "mhkami.com",
+        "description": "tier2-backup · 2260ms · 1 ecosystems"
+    }
+]

@@ -1,6 +1,10 @@
 # Venera 源列表地址 / Source list URLs  (v1.0.0)
-# 用法：Venera → 漫画源 → comic source → 粘进 Repo URL → Refresh
-# 主用第 1 条；想立刻拿到最新快照用第 2 条；第 3 条在部分网络会被墙。
+# 用法：Venera → 漫画源 → Comic Source → 粘进 Repo URL → Refresh → Add
+# 主用 main 那条；要立刻拿到最新快照用 pinned；raw 在部分网络会被墙。
+
+==================================================================
+一、按档位 / by tier
+==================================================================
 
 [all   ]  79 个
   main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/all/index.json
@@ -27,3 +31,48 @@
   pinned https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@475f1875dbf73bdcbf9e3f618e4c30a159509d6c/05-venera-sources/extra/index.json
   raw    https://raw.githubusercontent.com/kuiti/manga-source-index/main/05-venera-sources/extra/index.json
 
+==================================================================
+二、按生态 / by ecosystem
+==================================================================
+
+[mihon      ] Mihon 系   23 个
+  main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/index.json
+  tier1  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier1/index.json
+  tier3  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mihon/tier3/index.json
+
+[aidoku     ] Aidoku（iOS）   11 个
+  main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/index.json
+  tier1  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier1/index.json
+  tier3  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/aidoku/tier3/index.json
+
+[legado     ] 阅读 Legado    4 个
+  main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/index.json
+  tier1  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/legado/tier1/index.json
+
+[venera     ] Venera   75 个
+  main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/index.json
+  tier1  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier1/index.json
+  tier2  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier2/index.json
+  tier3  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/venera/tier3/index.json
+
+[cimoc      ] Cimoc   12 个
+  main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/index.json
+  tier1  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier1/index.json
+  tier2  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier2/index.json
+  tier3  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/cimoc/tier3/index.json
+
+[mangareader] MangaReader    4 个
+  main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mangareader/index.json
+  tier3  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/mangareader/tier3/index.json
+
+[unmapped   ] 未归类    3 个
+  main   https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/index.json
+  tier2  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier2/index.json
+  tier3  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/tier3/index.json
+  extra  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/by-ecosystem/unmapped/extra/index.json
+
+==================================================================
+三、每个文件的直接地址 / per-file URLs
+==================================================================
+  共 79 个，列表见同目录 files.txt（人看）/ files.json（机器读）
+  https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/files.txt

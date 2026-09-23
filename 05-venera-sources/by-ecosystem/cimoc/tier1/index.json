@@ -1,0 +1,121 @@
+[
+    {
+        "name": "看漫画",
+        "key": "kanman",
+        "version": "2.2.7",
+        "minAppVersion": "1.0.0",
+        "fileName": "kanman.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/kanman.js",
+        "tier": "tier1-primary",
+        "latency_ms": 352,
+        "ecosystems": [
+            "cimoc",
+            "legado",
+            "venera"
+        ],
+        "domain": "kanman.com",
+        "description": "tier1-primary · 352ms · 3 ecosystems"
+    },
+    {
+        "name": "漫本",
+        "key": "manben",
+        "version": "1.1.0",
+        "minAppVersion": "1.6.0",
+        "fileName": "manben.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/manben.js",
+        "tier": "tier1-primary",
+        "latency_ms": 509,
+        "ecosystems": [
+            "cimoc",
+            "venera"
+        ],
+        "domain": "manben.com",
+        "description": "tier1-primary · 509ms · 2 ecosystems"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua_fixed_v15",
+        "version": "1.2.6",
+        "minAppVersion": "1.0.0",
+        "fileName": "rumanhua_fixed_v16.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rumanhua_fixed_v16.js",
+        "tier": "tier1-primary",
+        "latency_ms": 539,
+        "ecosystems": [
+            "cimoc",
+            "mihon",
+            "venera"
+        ],
+        "domain": "rumanhua2.com",
+        "description": "tier1-primary · 539ms · 3 ecosystems"
+    },
+    {
+        "name": "如漫画",
+        "key": "rumanhua",
+        "version": "2.4.1",
+        "minAppVersion": "1.0.0",
+        "fileName": "rumanhua.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/rumanhua.js",
+        "tier": "tier1-primary",
+        "latency_ms": 539,
+        "ecosystems": [
+            "cimoc",
+            "mihon",
+            "venera"
+        ],
+        "domain": "rumanhua2.com",
+        "description": "tier1-primary · 539ms · 3 ecosystems"
+    },
+    {
+        "name": "动漫屋",
+        "key": "dm5",
+        "version": "7.0.0",
+        "minAppVersion": "1.6.0",
+        "fileName": "dm5.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/dm5.js",
+        "tier": "tier1-primary",
+        "latency_ms": 850,
+        "ecosystems": [
+            "aidoku",
+            "cimoc",
+            "mihon",
+            "venera"
+        ],
+        "domain": "dm5.com",
+        "description": "tier1-primary · 850ms · 4 ecosystems"
+    },
+    {
+        "name": "来漫画（分流）",
+        "key": "laimanhua_split",
+        "version": "1.2.1",
+        "minAppVersion": "1.0.0",
+        "fileName": "laimanhua_split_hosts_v1.2.1_configurable.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/laimanhua_split_hosts_v1.2.1_configurable.js",
+        "tier": "tier1-primary",
+        "latency_ms": 1563,
+        "ecosystems": [
+            "cimoc",
+            "venera"
+        ],
+        "domain": "laimanhua88.com",
+        "description": "tier1-primary · 1563ms · 2 ecosystems"
+    },
+    {
+        "name": "嗶哩漫畫",
+        "key": "bilimanga",
+        "version": "1.1.0",
+        "minAppVersion": "1.6.0",
+        "fileName": "bilimanga.js",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@main/05-venera-sources/sources/bilimanga.js",
+        "tier": "tier1-primary",
+        "latency_ms": 2128,
+        "ecosystems": [
+            "aidoku",
+            "cimoc",
+            "mihon",
+            "venera"
+        ],
+        "domain": "bilimanga.net",
+        "description": "tier1-primary · 2128ms · 4 ecosystems · 哔哩漫画（正版）"
+    }
+]
